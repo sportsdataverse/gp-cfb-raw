@@ -3,6 +3,24 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+pbp_full.rds
+.vscode
+__pycache__
+*/__pycache__
+./__pycache__
+.DS_Store
+*/.DS_Store
+.pytest_cache
+*/.pytest_cache
+*.pyc
+*/*.pyc
+*.pyc
+
+
 # C extensions
 *.so
 
