@@ -15,11 +15,14 @@ import sportsdataverse as sdv
 import time
 import traceback
 import urllib.request
+import warnings
+from sportsdataverse.cfb.cfb_pbp import CFBPlayProcess
 from urllib.error import URLError, HTTPError, ContentTooShortError
 from datetime import datetime
 from itertools import chain, starmap, repeat
 from pathlib import Path
 from tqdm import tqdm
+warnings.filterwarnings("ignore")
 
 logging.basicConfig(level=logging.INFO, filename = 'gp_cfb_raw_logfile.txt')
 logger = logging.getLogger(__name__)
@@ -86,7 +89,7 @@ def add_game_to_schedule(schedule, year):
     return
 
 def postprocessing(game_id):
-    processed_data = sdv.cfb.CFBPlayProcess(gameId = game_id)
+    processed_data = CFBPlayProcess(gameId = game_id)
     pbp = processed_data.espn_cfb_pbp()
     processed_data.run_processing_pipeline()
     tmp_json = processed_data.plays_json.to_json(orient="records")
@@ -291,7 +294,7 @@ def main():
     years_arr = range(start_year, end_year + 1)
 
     for year in years_arr:
-        schedule = pd.read_parquet(f"{path_to_schedules}/parquet/cfb_schedules_{year}.parquet", engine = 'auto', columns = None)
+        schedule = pd.read_parquet(f"{path_to_schedules}/parquet/cfb_schedule_{year}.parquet", engine = 'auto', columns = None)
         schedule = schedule.sort_values(by = ["season", "season_type"], ascending = True)
         schedule["game_id"] = schedule["game_id"].astype(int)
         schedule = schedule[schedule["status_type_completed"] == True]
