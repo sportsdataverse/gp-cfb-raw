@@ -8,6 +8,7 @@ from itertools import repeat
 from pathlib import Path
 
 import pandas as pd
+import polars as pl
 import pyreadr
 import sportsdataverse as sdv
 
@@ -23,21 +24,31 @@ def download_game_schedules(seasons, path_to_schedules):
     threads = min(MAX_THREADS, len(seasons))
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as executor:
-        result = list(executor.map(download_schedule, seasons, repeat(path_to_schedules)))
-        return result
+        return list(executor.map(download_schedule, seasons, repeat(path_to_schedules)))
 
 
 def download_schedule(season, path_to_schedules=None):
     logger.info(f"Scraping CFB schedules for year {season}...")
     df = sdv.cfb.espn_cfb_calendar(season, ondays=True)
-    calendar = df["dateURL"].tolist()
-    ev = pd.DataFrame()
+    calendar = df["dateURL"].str.replace("-", "").str.replace("-", "")
+    ev = pl.DataFrame()
     for d in calendar:
         date_schedule = sdv.cfb.espn_cfb_schedule(dates=d)
-        ev = pd.concat([ev, date_schedule], axis=0, ignore_index=True)
-    ev = ev[ev["season_type"].isin([2, 3])]
-    ev = ev.drop("competitors", axis=1)
-    ev = ev.drop_duplicates(subset=["game_id"], ignore_index=True)
+        if date_schedule is not None:
+            if "away_records" in date_schedule.columns:
+                date_schedule = date_schedule.drop(["away_records"])
+            if "home_records" in date_schedule.columns:
+                date_schedule = date_schedule.drop(["home_records"])
+            if "venue_capacity" in date_schedule.columns:
+                date_schedule = date_schedule.with_columns(
+                    venue_capacity=pl.col("venue_capacity").cast(pl.Int32),
+                    week=pl.col("week").cast(pl.Int32),
+                )
+            logging.debug(f"Scraped {len(date_schedule)} games for {d}")
+            ev = pl.concat([ev, date_schedule], how="diagonal")
+    ev = ev.filter(pl.col("season_type").is_in([2, 3]))
+    # ev = ev.drop("competitors", axis=1)
+    # ev = ev.drop_duplicates(subset=["game_id"], ignore_index=True)
 
     Path(f"{path_to_schedules}/parquet").mkdir(parents=True, exist_ok=True)
     Path(f"{path_to_schedules}/rds").mkdir(parents=True, exist_ok=True)
@@ -80,8 +91,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--rescrape",
         "-r",
-        default=False,
-        action="store_true",
+        default=True,
+        action="store_false",
         help="Rescrape all games in the schedule period",
     )
     args = parser.parse_args()

@@ -384,8 +384,8 @@ if __name__ == "__main__":
     parser.add_argument(
         "--rescrape",
         "-r",
-        default=False,
-        action="store_true",
+        default=True,
+        action="store_false",
         help="Rescrape all games in the schedule period",
     )
     parser.add_argument(
