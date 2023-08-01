@@ -49,14 +49,8 @@ def download_schedule(season, path_to_schedules=None):
 
 
 def main():
-    if args.start_year < 2002:
-        start_year = 2002
-    else:
-        start_year = args.start_year
-    if args.end_year is None:
-        end_year = start_year
-    else:
-        end_year = args.end_year
+    start_year = max(args.start_year, 2002)
+    end_year = start_year if args.end_year is None else args.end_year
     years_arr = range(start_year, end_year + 1)
 
     if args.rescrape == True:
@@ -76,14 +70,20 @@ def main():
         glued_data = pd.concat([glued_data, x], axis=0)
     glued_data["status_display_clock"] = glued_data["status_display_clock"].astype(str)
     glued_data.to_parquet(final_file_name, index=False)
-    gcol = gc.collect()
+    gc.collect()
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--start_year", "-s", type=int, required=True, help="Start year of CFB Schedule period (YYYY)")
     parser.add_argument("--end_year", "-e", type=int, help="End year of CFB Schedule period (YYYY)")
-    parser.add_argument("--rescrape", "-r", type=bool, default=True, help="Rescrape all games in the schedule period")
+    parser.add_argument(
+        "--rescrape",
+        "-r",
+        default=False,
+        action="store_true",
+        help="Rescrape all games in the schedule period",
+    )
     args = parser.parse_args()
 
     main()
