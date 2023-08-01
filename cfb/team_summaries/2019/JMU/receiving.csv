@@ -1,0 +1,3 @@
+"team_id","pos_team","season","receiver_player_name","player_id","plays","games","playsgame","TEPA","EPAplay","EPAgame","yards","yardsplay","yardsgame","success","comp","targets","catchpct","passing_td","fumbles","TEPA_rank","EPAgame_rank","EPAplay_rank","success_rank","catchpct_rank","yards_rank","yardsplay_rank","yardsgame_rank"
+256,"James Madison",2019,"Brandon Polk",NA,6,1,6,3.38292454959406,0.563820758265677,3.38292454959406,66,11,66,0.666666666666667,4,6,0.666666666666667,0,0,947,176,638,392,1358.5,1119.5,342.5,87.5
+256,"James Madison",2019,"Kyndel Dean",4249602,6,1,6,3.98283449816087,0.663805749693479,3.98283449816087,63,10.5,63,0.666666666666667,4,6,0.666666666666667,0,0,900,104,496,392,1358.5,1135.5,399.5,101.5

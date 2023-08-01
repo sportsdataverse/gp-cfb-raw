@@ -1,591 +1,6 @@
 {
-"id": 401403887,
-"count": 0,
-"plays": [],
-"advBoxScore": {},
-"homeTeamId": "142",
-"awayTeamId": "2000",
-"drives": {},
-"scoringPlays": [
-{
-"id": "401403887101865602",
-"type": {
-"id": "52",
-"text": "Punt",
-"abbreviation": "PUNT"
-},
-"text": "Luther Burden III 78 Yd Punt Return (Harrison Mevis Kick)",
-"awayScore": 0,
-"homeScore": 7,
-"period": {
-"number": 1
-},
-"clock": {
-"value": 823.0,
-"displayValue": "13:43"
-},
-"team": {
-"id": "142",
-"uid": "s:20~l:23~t:142",
-"displayName": "Missouri Tigers",
-"abbreviation": "MIZ",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401403887101944502",
-"type": {
-"id": "59",
-"text": "Field Goal Good",
-"abbreviation": "FG"
-},
-"text": "Blair Zepeda 39 Yd Field Goal  ",
-"awayScore": 3,
-"homeScore": 7,
-"period": {
-"number": 1
-},
-"clock": {
-"value": 354.0,
-"displayValue": "5:54"
-},
-"team": {
-"id": "2000",
-"uid": "s:20~l:23~t:2000",
-"displayName": "Abilene Christian Wildcats",
-"abbreviation": "ACU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2000/abilene-christian-wildcats",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2000",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "field-goal",
-"displayName": "Field Goal",
-"abbreviation": "FG"
-}
-},
-{
-"id": "401403887101955204",
-"type": {
-"id": "67",
-"text": "Passing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Dominic Lovett 79 Yd pass from Brady Cook (Harrison Mevis Kick)",
-"awayScore": 3,
-"homeScore": 14,
-"period": {
-"number": 1
-},
-"clock": {
-"value": 287.0,
-"displayValue": "4:47"
-},
-"team": {
-"id": "142",
-"uid": "s:20~l:23~t:142",
-"displayName": "Missouri Tigers",
-"abbreviation": "MIZ",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401403887102967802",
-"type": {
-"id": "59",
-"text": "Field Goal Good",
-"abbreviation": "FG"
-},
-"text": "Harrison Mevis 31 Yd Field Goal  ",
-"awayScore": 3,
-"homeScore": 17,
-"period": {
-"number": 2
-},
-"clock": {
-"value": 201.0,
-"displayValue": "3:21"
-},
-"team": {
-"id": "142",
-"uid": "s:20~l:23~t:142",
-"displayName": "Missouri Tigers",
-"abbreviation": "MIZ",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-}
-]
-},
-"scoringType": {
-"name": "field-goal",
-"displayName": "Field Goal",
-"abbreviation": "FG"
-}
-},
-{
-"id": "401403887103869219",
-"type": {
-"id": "67",
-"text": "Passing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Nathaniel Peat 6 Yd pass from Brady Cook (Harrison Mevis Kick)",
-"awayScore": 3,
-"homeScore": 24,
-"period": {
-"number": 3
-},
-"clock": {
-"value": 647.0,
-"displayValue": "10:47"
-},
-"team": {
-"id": "142",
-"uid": "s:20~l:23~t:142",
-"displayName": "Missouri Tigers",
-"abbreviation": "MIZ",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401403887104986607",
-"type": {
-"id": "39",
-"text": "Fumble Return Touchdown",
-"abbreviation": "TD"
-},
-"text": "Alexander Duke 0 Yd Fumble Return (Blair Zepeda Kick)",
-"awayScore": 10,
-"homeScore": 24,
-"period": {
-"number": 3
-},
-"clock": {
-"value": 235.0,
-"displayValue": "3:55"
-},
-"team": {
-"id": "2000",
-"uid": "s:20~l:23~t:2000",
-"displayName": "Abilene Christian Wildcats",
-"abbreviation": "ACU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2000/abilene-christian-wildcats",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2000",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401403887103869242",
-"type": {
-"id": "67",
-"text": "Passing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Dominic Lovett 13 Yd pass from Brady Cook (Harrison Mevis Kick)",
-"awayScore": 10,
-"homeScore": 31,
-"period": {
-"number": 3
-},
-"clock": {
-"value": 22.0,
-"displayValue": "0:22"
-},
-"team": {
-"id": "142",
-"uid": "s:20~l:23~t:142",
-"displayName": "Missouri Tigers",
-"abbreviation": "MIZ",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401403887104968801",
-"type": {
-"id": "59",
-"text": "Field Goal Good",
-"abbreviation": "FG"
-},
-"text": "Harrison Mevis 52 Yd Field Goal ",
-"awayScore": 10,
-"homeScore": 34,
-"period": {
-"number": 4
-},
-"clock": {
-"value": 191.0,
-"displayValue": "3:11"
-},
-"team": {
-"id": "142",
-"uid": "s:20~l:23~t:142",
-"displayName": "Missouri Tigers",
-"abbreviation": "MIZ",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-}
-]
-},
-"scoringType": {
-"name": "field-goal",
-"displayName": "Field Goal",
-"abbreviation": "FG"
-}
-},
-{
-"id": "401403887104869232",
-"type": {
-"id": "67",
-"text": "Passing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Blayne Taylor 49 Yd pass from Maverick McIvor (Blair Zepeda Kick)",
-"awayScore": 17,
-"homeScore": 34,
-"period": {
-"number": 4
-},
-"clock": {
-"value": 98.0,
-"displayValue": "1:38"
-},
-"team": {
-"id": "2000",
-"uid": "s:20~l:23~t:2000",
-"displayName": "Abilene Christian Wildcats",
-"abbreviation": "ACU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2000/abilene-christian-wildcats",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2000",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-}
-],
-"winprobability": [],
-"boxScore": {
+"timeouts": {},
+"boxscore": {
 "teams": [
 {
 "team": {
@@ -820,7 +235,7 @@
 "athlete": {
 "id": "4427966",
 "uid": "s:20~l:23~a:4427966",
-"guid": "ca84b6dbabf94508fcc0e685575c7f33",
+"guid": "ca84b6db-abf9-4508-fcc0-e685575c7f33",
 "firstName": "Maverick",
 "lastName": "McIvor",
 "displayName": "Maverick McIvor",
@@ -1184,7 +599,7 @@
 "athlete": {
 "id": "4371115",
 "uid": "s:20~l:23~a:4371115",
-"guid": "1f947658973caa396de48ddf3d06ad66",
+"guid": "1f947658-973c-aa39-6de4-8ddf3d06ad66",
 "firstName": "Tyrese",
 "lastName": "White",
 "displayName": "Tyrese White",
@@ -1266,7 +681,7 @@
 "athlete": {
 "id": "4427966",
 "uid": "s:20~l:23~a:4427966",
-"guid": "ca84b6dbabf94508fcc0e685575c7f33",
+"guid": "ca84b6db-abf9-4508-fcc0-e685575c7f33",
 "firstName": "Maverick",
 "lastName": "McIvor",
 "displayName": "Maverick McIvor",
@@ -1546,7 +961,7 @@
 "athlete": {
 "id": "4251243",
 "uid": "s:20~l:23~a:4251243",
-"guid": "d4aa0e506cb842d1a0e21ccd203ec2ca",
+"guid": "d4aa0e50-6cb8-42d1-a0e2-1ccd203ec2ca",
 "firstName": "Kendall",
 "lastName": "Catalon",
 "displayName": "Kendall Catalon",
@@ -1710,7 +1125,7 @@
 "athlete": {
 "id": "4380416",
 "uid": "s:20~l:23~a:4380416",
-"guid": "8f3855d2cbb6d8fafb2d9380efcfaa97",
+"guid": "8f3855d2-cbb6-d8fa-fb2d-9380efcfaa97",
 "firstName": "Kobe",
 "lastName": "Clark",
 "displayName": "Kobe Clark",
@@ -2064,86 +1479,6 @@
 "athletes": [
 {
 "athlete": {
-"id": "4240260",
-"uid": "s:20~l:23~a:4240260",
-"guid": "212d1b9b670f6030acac56390ee4f009",
-"firstName": "Alexander",
-"lastName": "Duke",
-"displayName": "Alexander Duke",
-"links": [
-{
-"rel": [
-"playercard",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/_/id/4240260/alexander-duke",
-"text": "Player Card"
-},
-{
-"rel": [
-"stats",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/stats/_/id/4240260/alexander-duke",
-"text": "Stats"
-},
-{
-"rel": [
-"splits",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/splits/_/id/4240260/alexander-duke",
-"text": "Splits"
-},
-{
-"rel": [
-"gamelog",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/gamelog/_/id/4240260/alexander-duke",
-"text": "Game Log"
-},
-{
-"rel": [
-"news",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/news/_/id/4240260/alexander-duke",
-"text": "News"
-},
-{
-"rel": [
-"bio",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/bio/_/id/4240260/alexander-duke",
-"text": "Bio"
-},
-{
-"rel": [
-"overview",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/_/id/4240260/alexander-duke",
-"text": "Overview"
-}
-]
-},
-"stats": [
-"0",
-"0",
-"1"
-]
-},
-{
-"athlete": {
 "id": "4691266",
 "uid": "s:20~l:23~a:4691266",
 "guid": "c9aab41f-58c6-33a8-94be-e754b97347d7",
@@ -2220,6 +1555,86 @@
 "1",
 "1",
 "0"
+]
+},
+{
+"athlete": {
+"id": "4240260",
+"uid": "s:20~l:23~a:4240260",
+"guid": "212d1b9b-670f-6030-acac-56390ee4f009",
+"firstName": "Alexander",
+"lastName": "Duke",
+"displayName": "Alexander Duke",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4240260/alexander-duke",
+"text": "Player Card"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/stats/_/id/4240260/alexander-duke",
+"text": "Stats"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/splits/_/id/4240260/alexander-duke",
+"text": "Splits"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/gamelog/_/id/4240260/alexander-duke",
+"text": "Game Log"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/news/_/id/4240260/alexander-duke",
+"text": "News"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/bio/_/id/4240260/alexander-duke",
+"text": "Bio"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4240260/alexander-duke",
+"text": "Overview"
+}
+]
+},
+"stats": [
+"0",
+"0",
+"1"
 ]
 }
 ],
@@ -2516,7 +1931,7 @@
 "athlete": {
 "id": "4361214",
 "uid": "s:20~l:23~a:4361214",
-"guid": "c3b516806e3a6cbfd696429e4af85a22",
+"guid": "c3b51680-6e3a-6cbf-d696-429e4af85a22",
 "firstName": "Triston",
 "lastName": "Anderson",
 "displayName": "Triston Anderson",
@@ -2684,7 +2099,7 @@
 "athlete": {
 "id": "4367188",
 "uid": "s:20~l:23~a:4367188",
-"guid": "d379287fb8d991a8851f12b5be37fc03",
+"guid": "d379287f-b8d9-91a8-851f-12b5be37fc03",
 "firstName": "Patrick",
 "lastName": "Jolly",
 "displayName": "Patrick Jolly",
@@ -2852,7 +2267,7 @@
 "athlete": {
 "id": "4372458",
 "uid": "s:20~l:23~a:4372458",
-"guid": "b52cc53139f84a03765f5863da9c68ce",
+"guid": "b52cc531-39f8-4a03-765f-5863da9c68ce",
 "firstName": "Chike",
 "lastName": "Nwankwo",
 "displayName": "Chike Nwankwo",
@@ -2936,7 +2351,7 @@
 "athlete": {
 "id": "4240808",
 "uid": "s:20~l:23~a:4240808",
-"guid": "cc809230e681040ed179426458770e48",
+"guid": "cc809230-e681-040e-d179-426458770e48",
 "firstName": "Jordan",
 "lastName": "Paup",
 "displayName": "Jordan Paup",
@@ -3188,7 +2603,7 @@
 "athlete": {
 "id": "4573365",
 "uid": "s:20~l:23~a:4573365",
-"guid": "6b502244021a7863f4847d8ee270a69e",
+"guid": "6b502244-021a-7863-f484-7d8ee270a69e",
 "firstName": "Anthony",
 "lastName": "Egbo Jr.",
 "displayName": "Anthony Egbo Jr.",
@@ -3440,7 +2855,7 @@
 "athlete": {
 "id": "4573384",
 "uid": "s:20~l:23~a:4573384",
-"guid": "2b9c8f92ef2232670892745e53de29b2",
+"guid": "2b9c8f92-ef22-3267-0892-745e53de29b2",
 "firstName": "William",
 "lastName": "Morgan",
 "displayName": "William Morgan",
@@ -3608,7 +3023,7 @@
 "athlete": {
 "id": "4241685",
 "uid": "s:20~l:23~a:4241685",
-"guid": "ef43e27758601516bbf8072b44715b7c",
+"guid": "ef43e277-5860-1516-bbf8-072b44715b7c",
 "firstName": "John",
 "lastName": "Brannon",
 "displayName": "John Brannon",
@@ -3692,7 +3107,7 @@
 "athlete": {
 "id": "4251770",
 "uid": "s:20~l:23~a:4251770",
-"guid": "3ca6316e1eaa1c9db6c47ce3bf06c275",
+"guid": "3ca6316e-1eaa-1c9d-b6c4-7ce3bf06c275",
 "firstName": "Logan",
 "lastName": "Burke",
 "displayName": "Logan Burke",
@@ -3776,7 +3191,7 @@
 "athlete": {
 "id": "4573363",
 "uid": "s:20~l:23~a:4573363",
-"guid": "86efa874618949739268c55368987eb4",
+"guid": "86efa874-6189-4973-9268-c55368987eb4",
 "firstName": "Tory",
 "lastName": "Hargrove",
 "displayName": "Tory Hargrove",
@@ -3860,7 +3275,7 @@
 "athlete": {
 "id": "4573457",
 "uid": "s:20~l:23~a:4573457",
-"guid": "13b664415ad74933f99bf1c894a9c6f3",
+"guid": "13b66441-5ad7-4933-f99b-f1c894a9c6f3",
 "firstName": "Roland",
 "lastName": "Williams III",
 "displayName": "Roland Williams III",
@@ -3944,7 +3359,7 @@
 "athlete": {
 "id": "4240260",
 "uid": "s:20~l:23~a:4240260",
-"guid": "212d1b9b670f6030acac56390ee4f009",
+"guid": "212d1b9b-670f-6030-acac-56390ee4f009",
 "firstName": "Alexander",
 "lastName": "Duke",
 "displayName": "Alexander Duke",
@@ -4139,7 +3554,7 @@
 "athlete": {
 "id": "4371120",
 "uid": "s:20~l:23~a:4371120",
-"guid": "ef8b39321d8167acdd64b339c6cd3875",
+"guid": "ef8b3932-1d81-67ac-dd64-b339c6cd3875",
 "firstName": "Blair",
 "lastName": "Zepeda",
 "displayName": "Blair Zepeda",
@@ -4258,7 +3673,7 @@
 "athlete": {
 "id": "4251770",
 "uid": "s:20~l:23~a:4251770",
-"guid": "3ca6316e1eaa1c9db6c47ce3bf06c275",
+"guid": "3ca6316e-1eaa-1c9d-b6c4-7ce3bf06c275",
 "firstName": "Logan",
 "lastName": "Burke",
 "displayName": "Logan Burke",
@@ -4514,7 +3929,7 @@
 "athlete": {
 "id": "4391845",
 "uid": "s:20~l:23~a:4391845",
-"guid": "ebd087c960e8c77885efaaa4f461ee31",
+"guid": "ebd087c9-60e8-c778-85ef-aaa4f461ee31",
 "firstName": "Cody",
 "lastName": "Schrader",
 "displayName": "Cody Schrader",
@@ -4678,7 +4093,7 @@
 "athlete": {
 "id": "4428211",
 "uid": "s:20~l:23~a:4428211",
-"guid": "52c93b7acdbc6f62ba343d8a976547c9",
+"guid": "52c93b7a-cdbc-6f62-ba34-3d8a976547c9",
 "firstName": "Nathaniel",
 "lastName": "Peat",
 "displayName": "Nathaniel Peat",
@@ -5368,7 +4783,7 @@
 "athlete": {
 "id": "4259800",
 "uid": "s:20~l:23~a:4259800",
-"guid": "f1170e7d2ebdcc8633c86d92132971bd",
+"guid": "f1170e7d-2ebd-cc86-33c8-6d92132971bd",
 "firstName": "Barrett",
 "lastName": "Banister",
 "displayName": "Barrett Banister",
@@ -5450,7 +4865,7 @@
 "athlete": {
 "id": "4391845",
 "uid": "s:20~l:23~a:4391845",
-"guid": "ebd087c960e8c77885efaaa4f461ee31",
+"guid": "ebd087c9-60e8-c778-85ef-aaa4f461ee31",
 "firstName": "Cody",
 "lastName": "Schrader",
 "displayName": "Cody Schrader",
@@ -5696,7 +5111,7 @@
 "athlete": {
 "id": "4428211",
 "uid": "s:20~l:23~a:4428211",
-"guid": "52c93b7acdbc6f62ba343d8a976547c9",
+"guid": "52c93b7a-cdbc-6f62-ba34-3d8a976547c9",
 "firstName": "Nathaniel",
 "lastName": "Peat",
 "displayName": "Nathaniel Peat",
@@ -5804,86 +5219,6 @@
 "athletes": [
 {
 "athlete": {
-"id": "4362760",
-"uid": "s:20~l:23~a:4362760",
-"guid": "0228848de244e143093a6f1e467a1910",
-"firstName": "Chad",
-"lastName": "Bailey",
-"displayName": "Chad Bailey",
-"links": [
-{
-"rel": [
-"playercard",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/_/id/4362760/chad-bailey",
-"text": "Player Card"
-},
-{
-"rel": [
-"stats",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/stats/_/id/4362760/chad-bailey",
-"text": "Stats"
-},
-{
-"rel": [
-"splits",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/splits/_/id/4362760/chad-bailey",
-"text": "Splits"
-},
-{
-"rel": [
-"gamelog",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/gamelog/_/id/4362760/chad-bailey",
-"text": "Game Log"
-},
-{
-"rel": [
-"news",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/news/_/id/4362760/chad-bailey",
-"text": "News"
-},
-{
-"rel": [
-"bio",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/bio/_/id/4362760/chad-bailey",
-"text": "Bio"
-},
-{
-"rel": [
-"overview",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/_/id/4362760/chad-bailey",
-"text": "Overview"
-}
-]
-},
-"stats": [
-"0",
-"0",
-"1"
-]
-},
-{
-"athlete": {
 "id": "4429435",
 "uid": "s:20~l:23~a:4429435",
 "guid": "1be5581c-a14f-3df5-9a87-539c6e3d3a9d",
@@ -5961,6 +5296,86 @@
 "1",
 "0"
 ]
+},
+{
+"athlete": {
+"id": "4362760",
+"uid": "s:20~l:23~a:4362760",
+"guid": "0228848d-e244-e143-093a-6f1e467a1910",
+"firstName": "Chad",
+"lastName": "Bailey",
+"displayName": "Chad Bailey",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4362760/chad-bailey",
+"text": "Player Card"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/stats/_/id/4362760/chad-bailey",
+"text": "Stats"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/splits/_/id/4362760/chad-bailey",
+"text": "Splits"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/gamelog/_/id/4362760/chad-bailey",
+"text": "Game Log"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/news/_/id/4362760/chad-bailey",
+"text": "News"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/bio/_/id/4362760/chad-bailey",
+"text": "Bio"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4362760/chad-bailey",
+"text": "Overview"
+}
+]
+},
+"stats": [
+"0",
+"0",
+"1"
+]
 }
 ],
 "totals": [
@@ -6004,7 +5419,7 @@
 "athlete": {
 "id": "4567406",
 "uid": "s:20~l:23~a:4567406",
-"guid": "5f8e39bebafa1a39a6a912b84d86c725",
+"guid": "5f8e39be-bafa-1a39-a6a9-12b84d86c725",
 "firstName": "Ty'Ron",
 "lastName": "Hopper",
 "displayName": "Ty'Ron Hopper",
@@ -6088,7 +5503,7 @@
 "athlete": {
 "id": "4428886",
 "uid": "s:20~l:23~a:4428886",
-"guid": "c6ce4c80257d64375b787d38d62df11a",
+"guid": "c6ce4c80-257d-6437-5b78-7d38d62df11a",
 "firstName": "Kristian",
 "lastName": "Williams",
 "displayName": "Kristian Williams",
@@ -6256,7 +5671,7 @@
 "athlete": {
 "id": "4569480",
 "uid": "s:20~l:23~a:4569480",
-"guid": "00be54136bb39d47065f5adec0dec45e",
+"guid": "00be5413-6bb3-9d47-065f-5adec0dec45e",
 "firstName": "Darius",
 "lastName": "Robinson",
 "displayName": "Darius Robinson",
@@ -6424,7 +5839,7 @@
 "athlete": {
 "id": "4362760",
 "uid": "s:20~l:23~a:4362760",
-"guid": "0228848de244e143093a6f1e467a1910",
+"guid": "0228848d-e244-e143-093a-6f1e467a1910",
 "firstName": "Chad",
 "lastName": "Bailey",
 "displayName": "Chad Bailey",
@@ -6508,7 +5923,7 @@
 "athlete": {
 "id": "4427402",
 "uid": "s:20~l:23~a:4427402",
-"guid": "143363bd90506122e0c54a9f41296eb2",
+"guid": "143363bd-9050-6122-e0c5-4a9f41296eb2",
 "firstName": "Joseph",
 "lastName": "Charleston",
 "displayName": "Joseph Charleston",
@@ -6592,7 +6007,7 @@
 "athlete": {
 "id": "4427474",
 "uid": "s:20~l:23~a:4427474",
-"guid": "7617aa8fb45f1ffcee664c9f2dcf6503",
+"guid": "7617aa8f-b45f-1ffc-ee66-4c9f2dcf6503",
 "firstName": "Jalani",
 "lastName": "Williams",
 "displayName": "Jalani Williams",
@@ -6928,7 +6343,7 @@
 "athlete": {
 "id": "4427879",
 "uid": "s:20~l:23~a:4427879",
-"guid": "ab22e5276568cbc668d9be97815d95bb",
+"guid": "ab22e527-6568-cbc6-68d9-be97815d95bb",
 "firstName": "Martez",
 "lastName": "Manuel",
 "displayName": "Martez Manuel",
@@ -7012,7 +6427,7 @@
 "athlete": {
 "id": "4362516",
 "uid": "s:20~l:23~a:4362516",
-"guid": "55b9d535361236d9cc001626d29b9d73",
+"guid": "55b9d535-3612-36d9-cc00-1626d29b9d73",
 "firstName": "Realus",
 "lastName": "George Jr.",
 "displayName": "Realus George Jr.",
@@ -7096,7 +6511,7 @@
 "athlete": {
 "id": "4362754",
 "uid": "s:20~l:23~a:4362754",
-"guid": "047c6ff357df69f04762ddb218eb6e25",
+"guid": "047c6ff3-57df-69f0-4762-ddb218eb6e25",
 "firstName": "Trajan",
 "lastName": "Jeffcoat",
 "displayName": "Trajan Jeffcoat",
@@ -7180,7 +6595,7 @@
 "athlete": {
 "id": "4368812",
 "uid": "s:20~l:23~a:4368812",
-"guid": "5be806aaeef5e84bfe0fd786df86181c",
+"guid": "5be806aa-eef5-e84b-fe0f-d786df86181c",
 "firstName": "DJ",
 "lastName": "Coleman",
 "displayName": "DJ Coleman",
@@ -7264,7 +6679,7 @@
 "athlete": {
 "id": "4373033",
 "uid": "s:20~l:23~a:4373033",
-"guid": "47a5d7c31d755787dd3afadf4461261e",
+"guid": "47a5d7c3-1d75-5787-dd3a-fadf4461261e",
 "firstName": "Josh",
 "lastName": "Landry",
 "displayName": "Josh Landry",
@@ -7348,7 +6763,7 @@
 "athlete": {
 "id": "4427963",
 "uid": "s:20~l:23~a:4427963",
-"guid": "b300b6e547a75f58c9383795674da9d0",
+"guid": "b300b6e5-47a7-5f58-c938-3795674da9d0",
 "firstName": "Isaiah",
 "lastName": "McGuire",
 "displayName": "Isaiah McGuire",
@@ -7601,9 +7016,9 @@
 "id": "4680601",
 "uid": "s:20~l:23~a:4680601",
 "guid": "4adb489c-2865-3156-ac7a-04db55205a5a",
-"firstName": "DJ",
+"firstName": "Darius",
 "lastName": "Jackson",
-"displayName": "DJ Jackson",
+"displayName": "Darius Jackson",
 "links": [
 {
 "rel": [
@@ -7611,7 +7026,7 @@
 "desktop",
 "athlete"
 ],
-"href": "http://www.espn.com/college-football/player/_/id/4680601/dj-jackson",
+"href": "http://www.espn.com/college-football/player/_/id/4680601/darius-jackson",
 "text": "Player Card"
 },
 {
@@ -7620,7 +7035,7 @@
 "desktop",
 "athlete"
 ],
-"href": "http://www.espn.com/college-football/player/stats/_/id/4680601/dj-jackson",
+"href": "http://www.espn.com/college-football/player/stats/_/id/4680601/darius-jackson",
 "text": "Stats"
 },
 {
@@ -7629,7 +7044,7 @@
 "desktop",
 "athlete"
 ],
-"href": "http://www.espn.com/college-football/player/splits/_/id/4680601/dj-jackson",
+"href": "http://www.espn.com/college-football/player/splits/_/id/4680601/darius-jackson",
 "text": "Splits"
 },
 {
@@ -7638,7 +7053,7 @@
 "desktop",
 "athlete"
 ],
-"href": "http://www.espn.com/college-football/player/gamelog/_/id/4680601/dj-jackson",
+"href": "http://www.espn.com/college-football/player/gamelog/_/id/4680601/darius-jackson",
 "text": "Game Log"
 },
 {
@@ -7647,7 +7062,7 @@
 "desktop",
 "athlete"
 ],
-"href": "http://www.espn.com/college-football/player/news/_/id/4680601/dj-jackson",
+"href": "http://www.espn.com/college-football/player/news/_/id/4680601/darius-jackson",
 "text": "News"
 },
 {
@@ -7656,7 +7071,7 @@
 "desktop",
 "athlete"
 ],
-"href": "http://www.espn.com/college-football/player/bio/_/id/4680601/dj-jackson",
+"href": "http://www.espn.com/college-football/player/bio/_/id/4680601/darius-jackson",
 "text": "Bio"
 },
 {
@@ -7665,7 +7080,7 @@
 "desktop",
 "athlete"
 ],
-"href": "http://www.espn.com/college-football/player/_/id/4680601/dj-jackson",
+"href": "http://www.espn.com/college-football/player/_/id/4680601/darius-jackson",
 "text": "Overview"
 }
 ]
@@ -8172,7 +7587,7 @@
 "athlete": {
 "id": "4259937",
 "uid": "s:20~l:23~a:4259937",
-"guid": "c665284b7ff824b3d627429ded6b68b3",
+"guid": "c665284b-7ff8-24b3-d627-429ded6b68b3",
 "firstName": "Sean",
 "lastName": "Koetting",
 "displayName": "Sean Koetting",
@@ -8348,8 +7763,564 @@
 }
 ]
 },
-"homeTeamSpread": 31.5,
+"format": {
+"regulation": {
+"periods": 4,
+"displayName": "Quarter",
+"slug": "quarter",
+"clock": 900.0
+},
+"overtime": {
+"periods": 0,
+"displayName": "untimed",
+"slug": "untimed"
+}
+},
+"gameInfo": {
+"venue": {
+"id": "3838",
+"fullName": "Memorial Stadium/Faurot Field",
+"address": {
+"city": "Columbia",
+"state": "MO",
+"zipCode": "65203"
+},
+"capacity": 62621,
+"grass": false,
+"images": [
+{
+"href": "https://a.espncdn.com/i/venues/college-football/day/3838.jpg",
+"width": 2000,
+"height": 1125,
+"alt": "",
+"rel": [
+"full",
+"day"
+]
+},
+{
+"href": "https://a.espncdn.com/i/venues/college-football/day/interior/3838.jpg",
+"width": 2000,
+"height": 1125,
+"alt": "",
+"rel": [
+"full",
+"day",
+"interior"
+]
+}
+]
+},
+"attendance": 53253
+},
+"drives": {},
+"leaders": [
+{
+"team": {
+"id": "142",
+"uid": "s:20~l:23~t:142",
+"displayName": "Missouri Tigers",
+"abbreviation": "MIZ",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+}
+]
+},
+"leaders": [
+{
+"name": "passingYards",
+"displayName": "Passing Yards",
+"leaders": [
+{
+"displayValue": "22-31, 297 YDS, 3 TD",
+"athlete": {
+"id": "4429435",
+"uid": "s:20~l:23~a:4429435",
+"guid": "1be5581c-a14f-3df5-9a87-539c6e3d3a9d",
+"lastName": "Cook",
+"fullName": "Brady Cook",
+"displayName": "Brady Cook",
+"shortName": "B. Cook",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4429435/brady-cook",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4429435.png",
+"alt": "Brady Cook"
+},
+"jersey": "12",
+"position": {
+"abbreviation": "QB"
+}
+}
+}
+]
+},
+{
+"name": "rushingYards",
+"displayName": "Rushing Yards",
+"leaders": [
+{
+"displayValue": "10 CAR, 55 YDS",
+"athlete": {
+"id": "4391845",
+"uid": "s:20~l:23~a:4391845",
+"guid": "ebd087c9-60e8-c778-85ef-aaa4f461ee31",
+"lastName": "Schrader",
+"fullName": "Cody Schrader",
+"displayName": "Cody Schrader",
+"shortName": "C. Schrader",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4391845/cody-schrader",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4391845.png",
+"alt": "Cody Schrader"
+},
+"jersey": "20",
+"position": {
+"abbreviation": "RB"
+}
+}
+}
+]
+},
+{
+"name": "receivingYards",
+"displayName": "Receiving Yards",
+"leaders": [
+{
+"displayValue": "7 REC, 132 YDS, 2 TD",
+"athlete": {
+"id": "4596439",
+"uid": "s:20~l:23~a:4596439",
+"guid": "7db31f9a-e6ce-3f07-86d4-d8c9ee881b70",
+"lastName": "Lovett",
+"fullName": "Dominic Lovett",
+"displayName": "Dominic Lovett",
+"shortName": "D. Lovett",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4596439/dominic-lovett",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4596439.png",
+"alt": "Dominic Lovett"
+},
+"jersey": "6",
+"position": {
+"abbreviation": "WR"
+}
+}
+}
+]
+}
+]
+},
+{
+"team": {
+"id": "2000",
+"uid": "s:20~l:23~t:2000",
+"displayName": "Abilene Christian Wildcats",
+"abbreviation": "ACU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2000/abilene-christian-wildcats",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2000",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"leaders": [
+{
+"name": "passingYards",
+"displayName": "Passing Yards",
+"leaders": [
+{
+"displayValue": "19-32, 199 YDS, 1 TD, 1 INT",
+"athlete": {
+"id": "4427966",
+"uid": "s:20~l:23~a:4427966",
+"guid": "ca84b6db-abf9-4508-fcc0-e685575c7f33",
+"lastName": "McIvor",
+"fullName": "Maverick McIvor",
+"displayName": "Maverick McIvor",
+"shortName": "M. McIvor",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4427966/maverick-mcivor",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4427966.png",
+"alt": "Maverick McIvor"
+},
+"jersey": "1",
+"position": {
+"abbreviation": "QB"
+}
+}
+}
+]
+},
+{
+"name": "rushingYards",
+"displayName": "Rushing Yards",
+"leaders": [
+{
+"displayValue": "18 CAR, 73 YDS",
+"athlete": {
+"id": "4691270",
+"uid": "s:20~l:23~a:4691270",
+"guid": "25224fb5-ec41-3bb6-a908-b6f1b1f48eb5",
+"lastName": "Dobbins",
+"fullName": "Jermiah Dobbins",
+"displayName": "Jermiah Dobbins",
+"shortName": "J. Dobbins",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4691270/jermiah-dobbins",
+"text": "Player Card"
+}
+],
+"jersey": "21",
+"position": {
+"abbreviation": "RB"
+}
+}
+}
+]
+},
+{
+"name": "receivingYards",
+"displayName": "Receiving Yards",
+"leaders": [
+{
+"displayValue": "3 REC, 50 YDS",
+"athlete": {
+"id": "4432211",
+"uid": "s:20~l:23~a:4432211",
+"guid": "06a89157-b14c-3d43-bc08-1c2e3af5ed8f",
+"lastName": "Golightly",
+"fullName": "Tristan Golightly",
+"displayName": "Tristan Golightly",
+"shortName": "T. Golightly",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4432211/tristan-golightly",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4432211.png",
+"alt": "Tristan Golightly"
+},
+"jersey": "5",
+"position": {
+"abbreviation": "WR"
+}
+}
+}
+]
+}
+]
+}
+],
+"broadcasts": [
+{
+"type": {
+"id": "4",
+"shortName": "Web",
+"longName": "Web",
+"slug": "web"
+},
+"station": "ESPN+",
+"market": {
+"id": "1",
+"type": "National"
+},
+"media": {
+"callLetters": "ESPN+",
+"name": "ESPN+",
+"shortName": "ESPN+"
+},
+"lang": "en",
+"region": "us"
+},
+{
+"type": {
+"id": "4",
+"shortName": "Web",
+"longName": "Web",
+"slug": "web"
+},
+"station": "SECN+",
+"market": {
+"id": "1",
+"type": "National"
+},
+"media": {
+"callLetters": "SECN+",
+"name": "SEC Network+",
+"shortName": "SECN+"
+},
+"lang": "en",
+"region": "us"
+}
+],
+"predictor": {
+"header": "Matchup Predictor",
+"homeTeam": {
+"id": "142",
+"gameProjection": "98.0",
+"teamChanceLoss": "2.0"
+},
+"awayTeam": {
+"id": "2000",
+"gameProjection": "2.0",
+"teamChanceLoss": "98.0"
+}
+},
+"pickcenter": [
+{
+"provider": {
+"id": "45",
+"name": "Caesars Sportsbook (New Jersey)",
+"priority": 1
+},
+"details": "MIZ -31.5",
 "overUnder": 56.5,
+"spread": -31.5,
+"awayTeamOdds": {
+"favorite": false,
+"underdog": true,
+"spreadOdds": -110.0,
+"teamId": "2000"
+},
+"homeTeamOdds": {
+"favorite": true,
+"underdog": false,
+"spreadOdds": -110.0,
+"teamId": "142"
+},
+"links": []
+},
+{
+"provider": {
+"id": "1004",
+"name": "consensus",
+"priority": 0
+},
+"details": "MIZ -31.5",
+"overUnder": 56.5,
+"spread": -31.5,
+"awayTeamOdds": {
+"winPercentage": 30.0,
+"favorite": false,
+"underdog": true,
+"spreadOdds": -110.0,
+"teamId": "2000"
+},
+"homeTeamOdds": {
+"winPercentage": 70.0,
+"favorite": true,
+"underdog": false,
+"spreadOdds": -110.0,
+"teamId": "142"
+},
+"links": []
+}
+],
+"againstTheSpread": [
+{
+"team": {
+"id": "2000",
+"uid": "s:20~l:23~t:2000",
+"displayName": "Abilene Christian Wildcats",
+"abbreviation": "ACU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2000/abilene-christian-wildcats",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2000",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"records": []
+},
+{
+"team": {
+"id": "142",
+"uid": "s:20~l:23~t:142",
+"displayName": "Missouri Tigers",
+"abbreviation": "MIZ",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+}
+]
+},
+"records": []
+}
+],
+"odds": [],
+"winprobability": [],
 "header": {
 "id": "401403887",
 "uid": "s:20~l:23~e:401403887",
@@ -8588,99 +8559,7 @@
 "lang": "en",
 "region": "us"
 }
-],
-"home": {
-"id": "142",
-"uid": "s:20~l:23~t:142",
-"location": "Missouri",
-"name": "Tigers",
-"nickname": "Missouri",
-"abbreviation": "MIZ",
-"displayName": "Missouri Tigers",
-"color": "000000",
-"alternateColor": "000000",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-03-15T19:32Z"
-}
-],
-"links": [
-{
-"rel": [
-"clubhouse",
-"desktop",
-"team"
-],
-"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
-"text": "Clubhouse"
-}
 ]
-},
-"away": {
-"id": "2000",
-"uid": "s:20~l:23~t:2000",
-"location": "Abilene Christian",
-"name": "Wildcats",
-"nickname": "Abilene Chrstn",
-"abbreviation": "ACU",
-"displayName": "Abilene Christian Wildcats",
-"color": "4e2683",
-"alternateColor": "ebebeb",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-],
-"links": [
-{
-"rel": [
-"clubhouse",
-"desktop",
-"team"
-],
-"href": "https://www.espn.com/college-football/team/_/id/2000/abilene-christian-wildcats",
-"text": "Clubhouse"
-}
-]
-}
 }
 ],
 "links": [
@@ -8857,46 +8736,582 @@
 ]
 }
 },
-"broadcasts": [
+"scoringPlays": [
 {
+"id": "401403887101865602",
 "type": {
-"id": "4",
-"shortName": "Web",
-"longName": "Web",
-"slug": "web"
+"id": "52",
+"text": "Punt",
+"abbreviation": "PUNT"
 },
-"station": "ESPN+",
-"market": {
-"id": "1",
-"type": "National"
+"text": "Luther Burden III 78 Yd Punt Return (Harrison Mevis Kick)",
+"awayScore": 0,
+"homeScore": 7,
+"period": {
+"number": 1
 },
-"media": {
-"callLetters": "ESPN+",
-"name": "ESPN+",
-"shortName": "ESPN+"
+"clock": {
+"value": 823.0,
+"displayValue": "13:43"
 },
-"lang": "en",
-"region": "us"
+"team": {
+"id": "142",
+"uid": "s:20~l:23~t:142",
+"displayName": "Missouri Tigers",
+"abbreviation": "MIZ",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
+"text": "Clubhouse"
 },
 {
+"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401403887101944502",
 "type": {
-"id": "4",
-"shortName": "Web",
-"longName": "Web",
-"slug": "web"
+"id": "59",
+"text": "Field Goal Good",
+"abbreviation": "FG"
 },
-"station": "SECN+",
-"market": {
-"id": "1",
-"type": "National"
+"text": "Blair Zepeda 39 Yd Field Goal  ",
+"awayScore": 3,
+"homeScore": 7,
+"period": {
+"number": 1
 },
-"media": {
-"callLetters": "SECN+",
-"name": "SEC Network+",
-"shortName": "SECN+"
+"clock": {
+"value": 354.0,
+"displayValue": "5:54"
 },
-"lang": "en",
-"region": "us"
+"team": {
+"id": "2000",
+"uid": "s:20~l:23~t:2000",
+"displayName": "Abilene Christian Wildcats",
+"abbreviation": "ACU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2000/abilene-christian-wildcats",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2000",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "field-goal",
+"displayName": "Field Goal",
+"abbreviation": "FG"
+}
+},
+{
+"id": "401403887101955204",
+"type": {
+"id": "67",
+"text": "Passing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Dominic Lovett 79 Yd pass from Brady Cook (Harrison Mevis Kick)",
+"awayScore": 3,
+"homeScore": 14,
+"period": {
+"number": 1
+},
+"clock": {
+"value": 287.0,
+"displayValue": "4:47"
+},
+"team": {
+"id": "142",
+"uid": "s:20~l:23~t:142",
+"displayName": "Missouri Tigers",
+"abbreviation": "MIZ",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401403887102967802",
+"type": {
+"id": "59",
+"text": "Field Goal Good",
+"abbreviation": "FG"
+},
+"text": "Harrison Mevis 31 Yd Field Goal  ",
+"awayScore": 3,
+"homeScore": 17,
+"period": {
+"number": 2
+},
+"clock": {
+"value": 201.0,
+"displayValue": "3:21"
+},
+"team": {
+"id": "142",
+"uid": "s:20~l:23~t:142",
+"displayName": "Missouri Tigers",
+"abbreviation": "MIZ",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+}
+]
+},
+"scoringType": {
+"name": "field-goal",
+"displayName": "Field Goal",
+"abbreviation": "FG"
+}
+},
+{
+"id": "401403887103869219",
+"type": {
+"id": "67",
+"text": "Passing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Nathaniel Peat 6 Yd pass from Brady Cook (Harrison Mevis Kick)",
+"awayScore": 3,
+"homeScore": 24,
+"period": {
+"number": 3
+},
+"clock": {
+"value": 647.0,
+"displayValue": "10:47"
+},
+"team": {
+"id": "142",
+"uid": "s:20~l:23~t:142",
+"displayName": "Missouri Tigers",
+"abbreviation": "MIZ",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401403887104986607",
+"type": {
+"id": "39",
+"text": "Fumble Return Touchdown",
+"abbreviation": "TD"
+},
+"text": "Alexander Duke 0 Yd Fumble Return (Blair Zepeda Kick)",
+"awayScore": 10,
+"homeScore": 24,
+"period": {
+"number": 3
+},
+"clock": {
+"value": 235.0,
+"displayValue": "3:55"
+},
+"team": {
+"id": "2000",
+"uid": "s:20~l:23~t:2000",
+"displayName": "Abilene Christian Wildcats",
+"abbreviation": "ACU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2000/abilene-christian-wildcats",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2000",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401403887103869242",
+"type": {
+"id": "67",
+"text": "Passing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Dominic Lovett 13 Yd pass from Brady Cook (Harrison Mevis Kick)",
+"awayScore": 10,
+"homeScore": 31,
+"period": {
+"number": 3
+},
+"clock": {
+"value": 22.0,
+"displayValue": "0:22"
+},
+"team": {
+"id": "142",
+"uid": "s:20~l:23~t:142",
+"displayName": "Missouri Tigers",
+"abbreviation": "MIZ",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401403887104968801",
+"type": {
+"id": "59",
+"text": "Field Goal Good",
+"abbreviation": "FG"
+},
+"text": "Harrison Mevis 52 Yd Field Goal ",
+"awayScore": 10,
+"homeScore": 34,
+"period": {
+"number": 4
+},
+"clock": {
+"value": 191.0,
+"displayValue": "3:11"
+},
+"team": {
+"id": "142",
+"uid": "s:20~l:23~t:142",
+"displayName": "Missouri Tigers",
+"abbreviation": "MIZ",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/142",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-15T19:32Z"
+}
+]
+},
+"scoringType": {
+"name": "field-goal",
+"displayName": "Field Goal",
+"abbreviation": "FG"
+}
+},
+{
+"id": "401403887104869232",
+"type": {
+"id": "67",
+"text": "Passing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Blayne Taylor 49 Yd pass from Maverick McIvor (Blair Zepeda Kick)",
+"awayScore": 17,
+"homeScore": 34,
+"period": {
+"number": 4
+},
+"clock": {
+"value": 98.0,
+"displayValue": "1:38"
+},
+"team": {
+"id": "2000",
+"uid": "s:20~l:23~t:2000",
+"displayName": "Abilene Christian Wildcats",
+"abbreviation": "ACU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2000/abilene-christian-wildcats",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2000",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
 }
 ],
 "videos": [
@@ -9467,9 +9882,496 @@
 "groups": [
 {
 "standings": {
-"entries": []
+"entries": [
+{
+"team": "Abilene Christian",
+"link": "https://www.espn.com/college-football/team/_/id/2000/abilene-christian-wildcats",
+"id": "2000",
+"uid": "s:20~l:23~t:2000",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
 },
-"header": "2022 United Athletic Conference Standings"
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
+"team": "Austin Peay",
+"link": "https://www.espn.com/college-football/team/_/id/2046/austin-peay-governors",
+"id": "2046",
+"uid": "s:20~l:23~t:2046",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2046.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2046.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
+"team": "Central Arkansas",
+"link": "https://www.espn.com/college-football/team/_/id/2110/central-arkansas-bears",
+"id": "2110",
+"uid": "s:20~l:23~t:2110",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2110.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-10-04T14:41Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2110.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-10-04T14:41Z"
+}
+]
+},
+{
+"team": "Eastern Kentucky",
+"link": "https://www.espn.com/college-football/team/_/id/2198/eastern-kentucky-colonels",
+"id": "2198",
+"uid": "s:20~l:23~t:2198",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2198.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2019-08-13T14:33Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2198.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2019-08-13T14:38Z"
+}
+]
+},
+{
+"team": "North Alabama",
+"link": "https://www.espn.com/college-football/team/_/id/2453/north-alabama-lions",
+"id": "2453",
+"uid": "s:20~l:23~t:2453",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2453.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-12-09T00:28Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2453.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-12-09T00:26Z"
+}
+]
+},
+{
+"team": "Southern Utah",
+"link": "https://www.espn.com/college-football/team/_/id/253/southern-utah-thunderbirds",
+"id": "253",
+"uid": "s:20~l:23~t:253",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/253.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-16T14:51Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/253.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-16T14:50Z"
+}
+]
+},
+{
+"team": "Stephen F. Austin",
+"link": "https://www.espn.com/college-football/team/_/id/2617/stephen-f-austin-lumberjacks",
+"id": "2617",
+"uid": "s:20~l:23~t:2617",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2617.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
+"team": "Tarleton",
+"link": "https://www.espn.com/college-football/team/_/id/2627/tarleton-texans",
+"id": "2627",
+"uid": "s:20~l:23~t:2627",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2627.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-01-23T21:39Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2627.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-01-23T21:39Z"
+}
+]
+},
+{
+"team": "Utah Tech",
+"link": "https://www.espn.com/college-football/team/_/id/3101/utah-tech-trailblazers",
+"id": "3101",
+"uid": "s:20~l:23~t:3101",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/3101.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-01-23T21:39Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/3101.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-01-23T21:39Z"
+}
+]
+}
+]
+},
+"header": "2023 United Athletic Conference Standings"
 },
 {
 "divisions": [
@@ -9477,222 +10379,6 @@
 "header": "SEC - East",
 "standings": {
 "entries": [
-{
-"team": "Georgia",
-"link": "https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs",
-"id": "61",
-"uid": "s:20~l:23~t:61",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "15-0",
-"displayValue": "15-0"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "8-0",
-"displayValue": "8-0"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/61.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-{
-"team": "Tennessee",
-"link": "https://www.espn.com/college-football/team/_/id/2633/tennessee-volunteers",
-"id": "2633",
-"uid": "s:20~l:23~t:2633",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "11-2",
-"displayValue": "11-2"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "6-2",
-"displayValue": "6-2"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2022-08-31T05:24Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2633.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-02-08T21:21Z"
-}
-]
-},
-{
-"team": "South Carolina",
-"link": "https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks",
-"id": "2579",
-"uid": "s:20~l:23~t:2579",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "8-5",
-"displayValue": "8-5"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "4-4",
-"displayValue": "4-4"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-02-17T21:15Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2579.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-02-17T21:14Z"
-}
-]
-},
-{
-"team": "Kentucky",
-"link": "https://www.espn.com/college-football/team/_/id/96/kentucky-wildcats",
-"id": "96",
-"uid": "s:20~l:23~t:96",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "7-6",
-"displayValue": "7-6"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "3-5",
-"displayValue": "3-5"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/96.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
 {
 "team": "Florida",
 "link": "https://www.espn.com/college-football/team/_/id/57/florida-gators",
@@ -9707,8 +10393,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "6-7",
-"displayValue": "6-7"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9718,8 +10404,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "3-5",
-"displayValue": "3-5"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -9748,6 +10434,114 @@
 ]
 },
 {
+"team": "Georgia",
+"link": "https://www.espn.com/college-football/team/_/id/61/georgia-bulldogs",
+"id": "61",
+"uid": "s:20~l:23~t:61",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/61.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
+"team": "Kentucky",
+"link": "https://www.espn.com/college-football/team/_/id/96/kentucky-wildcats",
+"id": "96",
+"uid": "s:20~l:23~t:96",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/96.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
 "team": "Missouri",
 "link": "https://www.espn.com/college-football/team/_/id/142/missouri-tigers",
 "id": "142",
@@ -9761,8 +10555,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "6-7",
-"displayValue": "6-7"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9772,8 +10566,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "3-5",
-"displayValue": "3-5"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -9802,6 +10596,114 @@
 ]
 },
 {
+"team": "South Carolina",
+"link": "https://www.espn.com/college-football/team/_/id/2579/south-carolina-gamecocks",
+"id": "2579",
+"uid": "s:20~l:23~t:2579",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2579.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-02-17T21:15Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2579.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-02-17T21:14Z"
+}
+]
+},
+{
+"team": "Tennessee",
+"link": "https://www.espn.com/college-football/team/_/id/2633/tennessee-volunteers",
+"id": "2633",
+"uid": "s:20~l:23~t:2633",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-08-31T05:24Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2633.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-02-08T21:21Z"
+}
+]
+},
+{
 "team": "Vanderbilt",
 "link": "https://www.espn.com/college-football/team/_/id/238/vanderbilt-commodores",
 "id": "238",
@@ -9815,8 +10717,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "5-7",
-"displayValue": "5-7"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9826,8 +10728,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "2-6",
-"displayValue": "2-6"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -9863,60 +10765,6 @@
 "standings": {
 "entries": [
 {
-"team": "LSU",
-"link": "https://www.espn.com/college-football/team/_/id/99/lsu-tigers",
-"id": "99",
-"uid": "s:20~l:23~t:99",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "10-4",
-"displayValue": "10-4"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "6-2",
-"displayValue": "6-2"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-02-17T21:15Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/99.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-02-17T21:14Z"
-}
-]
-},
-{
 "team": "Alabama",
 "link": "https://www.espn.com/college-football/team/_/id/333/alabama-crimson-tide",
 "id": "333",
@@ -9930,8 +10778,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "11-2",
-"displayValue": "11-2"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9941,8 +10789,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "6-2",
-"displayValue": "6-2"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -9971,114 +10819,6 @@
 ]
 },
 {
-"team": "Mississippi State",
-"link": "https://www.espn.com/college-football/team/_/id/344/mississippi-state-bulldogs",
-"id": "344",
-"uid": "s:20~l:23~t:344",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "9-4",
-"displayValue": "9-4"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "4-4",
-"displayValue": "4-4"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-03-17T13:35Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/344.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-03-17T13:36Z"
-}
-]
-},
-{
-"team": "Ole Miss",
-"link": "https://www.espn.com/college-football/team/_/id/145/ole-miss-rebels",
-"id": "145",
-"uid": "s:20~l:23~t:145",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "8-5",
-"displayValue": "8-5"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "4-4",
-"displayValue": "4-4"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-03-17T13:35Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/145.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-03-17T13:36Z"
-}
-]
-},
-{
 "team": "Arkansas",
 "link": "https://www.espn.com/college-football/team/_/id/8/arkansas-razorbacks",
 "id": "8",
@@ -10092,8 +10832,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "7-6",
-"displayValue": "7-6"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -10103,8 +10843,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "3-5",
-"displayValue": "3-5"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -10146,8 +10886,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "5-7",
-"displayValue": "5-7"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -10157,8 +10897,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "2-6",
-"displayValue": "2-6"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -10187,6 +10927,168 @@
 ]
 },
 {
+"team": "LSU",
+"link": "https://www.espn.com/college-football/team/_/id/99/lsu-tigers",
+"id": "99",
+"uid": "s:20~l:23~t:99",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/99.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-02-17T21:15Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/99.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-02-17T21:14Z"
+}
+]
+},
+{
+"team": "Mississippi State",
+"link": "https://www.espn.com/college-football/team/_/id/344/mississippi-state-bulldogs",
+"id": "344",
+"uid": "s:20~l:23~t:344",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/344.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-17T13:35Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/344.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-17T13:36Z"
+}
+]
+},
+{
+"team": "Ole Miss",
+"link": "https://www.espn.com/college-football/team/_/id/145/ole-miss-rebels",
+"id": "145",
+"uid": "s:20~l:23~t:145",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-17T13:35Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/145.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-17T13:36Z"
+}
+]
+},
+{
 "team": "Texas A&M",
 "link": "https://www.espn.com/college-football/team/_/id/245/texas-am-aggies",
 "id": "245",
@@ -10200,8 +11102,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "5-7",
-"displayValue": "5-7"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -10211,8 +11113,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "2-6",
-"displayValue": "2-6"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -10244,101 +11146,9 @@
 }
 }
 ],
-"header": "2022 Southeastern Conference Standings",
+"header": "2023 Southeastern Conference Standings",
 "href": "https://www.espn.com/college-football/standings/_/group/8/view/fbs-i-a"
 }
 ]
-},
-"pickcenter": [
-{
-"provider": {
-"id": "45",
-"name": "Caesars Sportsbook (New Jersey)",
-"priority": 1
-},
-"details": "MIZ -31.5",
-"overUnder": 56.5,
-"spread": -31.5,
-"awayTeamOdds": {
-"favorite": false,
-"underdog": true,
-"spreadOdds": -110.0,
-"teamId": "2000"
-},
-"homeTeamOdds": {
-"favorite": true,
-"underdog": false,
-"spreadOdds": -110.0,
-"teamId": "142"
-},
-"links": []
-},
-{
-"provider": {
-"id": "1004",
-"name": "consensus",
-"priority": 0
-},
-"details": "MIZ -31.5",
-"overUnder": 56.5,
-"spread": -31.5,
-"awayTeamOdds": {
-"winPercentage": 30.0,
-"favorite": false,
-"underdog": true,
-"spreadOdds": -110.0,
-"teamId": "2000"
-},
-"homeTeamOdds": {
-"winPercentage": 70.0,
-"favorite": true,
-"underdog": false,
-"spreadOdds": -110.0,
-"teamId": "142"
-},
-"links": []
-}
-],
-"espnWinProbability": [],
-"gameInfo": {
-"venue": {
-"id": "3838",
-"fullName": "Memorial Stadium/Faurot Field",
-"address": {
-"city": "Columbia",
-"state": "MO",
-"zipCode": "65203"
-},
-"capacity": 62621,
-"grass": false,
-"images": [
-{
-"href": "https://a.espncdn.com/i/venues/college-football/day/3838.jpg",
-"width": 2000,
-"height": 1125,
-"alt": "",
-"rel": [
-"full",
-"day"
-]
-},
-{
-"href": "https://a.espncdn.com/i/venues/college-football/day/interior/3838.jpg",
-"width": 2000,
-"height": 1125,
-"alt": "",
-"rel": [
-"full",
-"day",
-"interior"
-]
-}
-]
-},
-"attendance": 53253
-},
-"season": {
-"year": 2022,
-"type": 2
 }
 }

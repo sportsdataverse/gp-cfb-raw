@@ -1,0 +1,5 @@
+"team_id","pos_team","season","rusher_player_name","player_id","plays","games","playsgame","TEPA","EPAplay","EPAgame","yards","yardsplay","yardsgame","success","rushing_td","fumbles","TEPA_rank","EPAgame_rank","EPAplay_rank","success_rank","yards_rank","yardsplay_rank","yardsgame_rank"
+256,"James Madison",2018,"Ben DiNucci",NA,12,1,12,4.28541906615071,0.357118255512559,4.28541906615071,88,7.33333333333333,88,0.583333333333333,0,0,317,29,263,293.5,690,253,52.5
+256,"James Madison",2018,"Cardon Johnson",549215,6,1,6,-3.64278077364671,-0.607130128941118,-3.64278077364671,7,1.16666666666667,7,0,0,0,1377,1692,1420,1539.5,1291.5,1467.5,1156
+256,"James Madison",2018,"Marcus Marshall",3917814,12,1,12,1.20930962336011,0.100775801946676,1.20930962336011,65,5.41666666666667,65,0.5,0,0,542,269,547,471,773,576,137.5
+256,"James Madison",2018,"Trai Sharp",3912196,5,1,5,-2.5384387957937,-0.507687759158741,-2.5384387957937,10,2,10,0,0,0,1262,1626,1368,1539.5,1214.5,1400.5,1004.5

@@ -1,655 +1,6 @@
 {
-"id": 401416637,
-"count": 0,
-"plays": [],
-"advBoxScore": {},
-"homeTeamId": "2006",
-"awayTeamId": "2199",
-"drives": {},
-"scoringPlays": [
-{
-"id": "401416637101924501",
-"type": {
-"id": "59",
-"text": "Field Goal Good",
-"abbreviation": "FG"
-},
-"text": "Jesus Gomez 24 Yd Field Goal  ",
-"awayScore": 3,
-"homeScore": 0,
-"period": {
-"number": 1
-},
-"clock": {
-"value": 474.0,
-"displayValue": "7:54"
-},
-"team": {
-"id": "2199",
-"uid": "s:20~l:23~t:2199",
-"displayName": "Eastern Michigan Eagles",
-"abbreviation": "EMU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "field-goal",
-"displayName": "Field Goal",
-"abbreviation": "FG"
-}
-},
-{
-"id": "401416637101956901",
-"type": {
-"id": "67",
-"text": "Passing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Alex Adams 10 Yd pass from DJ Irons (Cory Smigel Kick)",
-"awayScore": 3,
-"homeScore": 7,
-"period": {
-"number": 1
-},
-"clock": {
-"value": 270.0,
-"displayValue": "4:30"
-},
-"team": {
-"id": "2006",
-"uid": "s:20~l:23~t:2006",
-"displayName": "Akron Zips",
-"abbreviation": "AKR",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2006",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2022-08-31T17:26Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2022-08-31T17:26Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401416637101978701",
-"type": {
-"id": "67",
-"text": "Passing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Dylan Drummond 40 Yd pass from Austin Smith (Jesus Gomez Kick)",
-"awayScore": 10,
-"homeScore": 7,
-"period": {
-"number": 1
-},
-"clock": {
-"value": 132.0,
-"displayValue": "2:12"
-},
-"team": {
-"id": "2199",
-"uid": "s:20~l:23~t:2199",
-"displayName": "Eastern Michigan Eagles",
-"abbreviation": "EMU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401416637102857801",
-"type": {
-"id": "68",
-"text": "Rushing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Samson Evans 9 Yd Run (Jesus Gomez Kick)",
-"awayScore": 17,
-"homeScore": 7,
-"period": {
-"number": 2
-},
-"clock": {
-"value": 861.0,
-"displayValue": "14:21"
-},
-"team": {
-"id": "2199",
-"uid": "s:20~l:23~t:2199",
-"displayName": "Eastern Michigan Eagles",
-"abbreviation": "EMU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401416637102937001",
-"type": {
-"id": "68",
-"text": "Rushing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Cam Wiley 1 Yd Run (Cory Smigel Kick)",
-"awayScore": 17,
-"homeScore": 14,
-"period": {
-"number": 2
-},
-"clock": {
-"value": 389.0,
-"displayValue": "6:29"
-},
-"team": {
-"id": "2006",
-"uid": "s:20~l:23~t:2006",
-"displayName": "Akron Zips",
-"abbreviation": "AKR",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2006",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2022-08-31T17:26Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2022-08-31T17:26Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401416637102996101",
-"type": {
-"id": "67",
-"text": "Passing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Tanner Knue 10 Yd pass from Austin Smith (Jesus Gomez Kick)",
-"awayScore": 24,
-"homeScore": 14,
-"period": {
-"number": 2
-},
-"clock": {
-"value": 38.0,
-"displayValue": "0:38"
-},
-"team": {
-"id": "2199",
-"uid": "s:20~l:23~t:2199",
-"displayName": "Eastern Michigan Eagles",
-"abbreviation": "EMU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401416637103849902",
-"type": {
-"id": "68",
-"text": "Rushing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Samson Evans 23 Yd Run (Jesus Gomez Kick)",
-"awayScore": 31,
-"homeScore": 14,
-"period": {
-"number": 3
-},
-"clock": {
-"value": 900.0,
-"displayValue": "15:00"
-},
-"team": {
-"id": "2199",
-"uid": "s:20~l:23~t:2199",
-"displayName": "Eastern Michigan Eagles",
-"abbreviation": "EMU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401416637104854401",
-"type": {
-"id": "68",
-"text": "Rushing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Cam Wiley 11 Yd Run (Cory Smigel Kick)",
-"awayScore": 31,
-"homeScore": 21,
-"period": {
-"number": 4
-},
-"clock": {
-"value": 895.0,
-"displayValue": "14:55"
-},
-"team": {
-"id": "2006",
-"uid": "s:20~l:23~t:2006",
-"displayName": "Akron Zips",
-"abbreviation": "AKR",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2006",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2022-08-31T17:26Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2022-08-31T17:26Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401416637104869301",
-"type": {
-"id": "68",
-"text": "Rushing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Cam Wiley 55 Yd Run (Cory Smigel Kick)",
-"awayScore": 31,
-"homeScore": 28,
-"period": {
-"number": 4
-},
-"clock": {
-"value": 809.0,
-"displayValue": "13:29"
-},
-"team": {
-"id": "2006",
-"uid": "s:20~l:23~t:2006",
-"displayName": "Akron Zips",
-"abbreviation": "AKR",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2006",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2022-08-31T17:26Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2022-08-31T17:26Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401416637104869912",
-"type": {
-"id": "59",
-"text": "Field Goal Good",
-"abbreviation": "FG"
-},
-"text": "Jesus Gomez 43 Yd Field Goal ",
-"awayScore": 34,
-"homeScore": 28,
-"period": {
-"number": 4
-},
-"clock": {
-"value": 780.0,
-"displayValue": "13:00"
-},
-"team": {
-"id": "2199",
-"uid": "s:20~l:23~t:2199",
-"displayName": "Eastern Michigan Eagles",
-"abbreviation": "EMU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "field-goal",
-"displayName": "Field Goal",
-"abbreviation": "FG"
-}
-}
-],
-"winprobability": [],
-"boxScore": {
+"timeouts": {},
+"boxscore": {
 "teams": [
 {
 "team": {
@@ -1002,7 +353,7 @@
 "athlete": {
 "id": "4360492",
 "uid": "s:20~l:23~a:4360492",
-"guid": "d861b8d393ed834f6a27d88f780edf3c",
+"guid": "d861b8d3-93ed-834f-6a27-d88f780edf3c",
 "firstName": "Samson",
 "lastName": "Evans",
 "displayName": "Samson Evans",
@@ -1166,7 +517,7 @@
 "athlete": {
 "id": "4429083",
 "uid": "s:20~l:23~a:4429083",
-"guid": "40751a03d97ced4afc584d580e831561",
+"guid": "40751a03-d97c-ed4a-fc58-4d580e831561",
 "firstName": "Darius",
 "lastName": "Boone Jr.",
 "displayName": "Darius Boone Jr.",
@@ -1248,7 +599,7 @@
 "athlete": {
 "id": "4363537",
 "uid": "s:20~l:23~a:4363537",
-"guid": "efe26ebed8b35738d5d1b5bb3fd51cae",
+"guid": "efe26ebe-d8b3-5738-d5d1-b5bb3fd51cae",
 "firstName": "Hassan",
 "lastName": "Beydoun",
 "displayName": "Hassan Beydoun",
@@ -1463,7 +814,7 @@
 "athlete": {
 "id": "4363551",
 "uid": "s:20~l:23~a:4363551",
-"guid": "1df35e8cd6f98ece67ba544322c05f25",
+"guid": "1df35e8c-d6f9-8ece-67ba-544322c05f25",
 "firstName": "Dylan",
 "lastName": "Drummond",
 "displayName": "Dylan Drummond",
@@ -1545,7 +896,7 @@
 "athlete": {
 "id": "4363528",
 "uid": "s:20~l:23~a:4363528",
-"guid": "a01c8b51a760a8a2d26b6872d748ba87",
+"guid": "a01c8b51-a760-a8a2-d26b-6872d748ba87",
 "firstName": "Tanner",
 "lastName": "Knue",
 "displayName": "Tanner Knue",
@@ -1709,7 +1060,7 @@
 "athlete": {
 "id": "4363537",
 "uid": "s:20~l:23~a:4363537",
-"guid": "efe26ebed8b35738d5d1b5bb3fd51cae",
+"guid": "efe26ebe-d8b3-5738-d5d1-b5bb3fd51cae",
 "firstName": "Hassan",
 "lastName": "Beydoun",
 "displayName": "Hassan Beydoun",
@@ -1791,7 +1142,7 @@
 "athlete": {
 "id": "4429083",
 "uid": "s:20~l:23~a:4429083",
-"guid": "40751a03d97ced4afc584d580e831561",
+"guid": "40751a03-d97c-ed4a-fc58-4d580e831561",
 "firstName": "Darius",
 "lastName": "Boone Jr.",
 "displayName": "Darius Boone Jr.",
@@ -1955,7 +1306,7 @@
 "athlete": {
 "id": "4360492",
 "uid": "s:20~l:23~a:4360492",
-"guid": "d861b8d393ed834f6a27d88f780edf3c",
+"guid": "d861b8d3-93ed-834f-6a27-d88f780edf3c",
 "firstName": "Samson",
 "lastName": "Evans",
 "displayName": "Samson Evans",
@@ -2098,7 +1449,7 @@
 "athlete": {
 "id": "4382469",
 "uid": "s:20~l:23~a:4382469",
-"guid": "4f36c4126b7366f4f74fba372a9523db",
+"guid": "4f36c412-6b73-66f4-f74f-ba372a9523db",
 "firstName": "Chase",
 "lastName": "Kline",
 "displayName": "Chase Kline",
@@ -2182,7 +1533,7 @@
 "athlete": {
 "id": "4360209",
 "uid": "s:20~l:23~a:4360209",
-"guid": "8d82403211689a53f5726cf6186508e7",
+"guid": "8d824032-1168-9a53-f572-6cf6186508e7",
 "firstName": "Joe",
 "lastName": "Sparacio",
 "displayName": "Joe Sparacio",
@@ -2434,7 +1785,7 @@
 "athlete": {
 "id": "4569068",
 "uid": "s:20~l:23~a:4569068",
-"guid": "be81f87681d73e557170a491b3ee6c4b",
+"guid": "be81f876-81d7-3e55-7170-a491b3ee6c4b",
 "firstName": "Jose",
 "lastName": "Ramirez",
 "displayName": "Jose Ramirez",
@@ -2518,7 +1869,7 @@
 "athlete": {
 "id": "4569073",
 "uid": "s:20~l:23~a:4569073",
-"guid": "45fba1713c784a25168fee4da1c1683a",
+"guid": "45fba171-3c78-4a25-168f-ee4da1c1683a",
 "firstName": "Grant",
 "lastName": "Trueman",
 "displayName": "Grant Trueman",
@@ -2602,7 +1953,7 @@
 "athlete": {
 "id": "4569066",
 "uid": "s:20~l:23~a:4569066",
-"guid": "5c81998e9a038853d652a4a1b717eb40",
+"guid": "5c81998e-9a03-8853-d652-a4a1b717eb40",
 "firstName": "T.J.",
 "lastName": "Peavy",
 "displayName": "T.J. Peavy",
@@ -2686,7 +2037,7 @@
 "athlete": {
 "id": "4430031",
 "uid": "s:20~l:23~a:4430031",
-"guid": "5a07bdf5225f03a4c1e60b70ad9c9a55",
+"guid": "5a07bdf5-225f-03a4-c1e6-0b70ad9c9a55",
 "firstName": "Mark",
 "lastName": "Lee Jr.",
 "displayName": "Mark Lee Jr.",
@@ -2938,7 +2289,7 @@
 "athlete": {
 "id": "4569059",
 "uid": "s:20~l:23~a:4569059",
-"guid": "7f04738f4a32c54d024115c36d025f4f",
+"guid": "7f04738f-4a32-c54d-0241-15c36d025f4f",
 "firstName": "Josh",
 "lastName": "McCarty",
 "displayName": "Josh McCarty",
@@ -3106,7 +2457,7 @@
 "athlete": {
 "id": "4363526",
 "uid": "s:20~l:23~a:4363526",
-"guid": "0b2bab86ccf1f2541bcddc8896dfea29",
+"guid": "0b2bab86-ccf1-f254-1bcd-dc8896dfea29",
 "firstName": "Robert",
 "lastName": "Daniel Jr.",
 "displayName": "Robert Daniel Jr.",
@@ -3274,7 +2625,7 @@
 "athlete": {
 "id": "4363529",
 "uid": "s:20~l:23~a:4363529",
-"guid": "935c56f5e098a267a00c2b15501b01ef",
+"guid": "935c56f5-e098-a267-a00c-2b15501b01ef",
 "firstName": "Isaiah",
 "lastName": "Watson",
 "displayName": "Isaiah Watson",
@@ -3358,7 +2709,7 @@
 "athlete": {
 "id": "4363537",
 "uid": "s:20~l:23~a:4363537",
-"guid": "efe26ebed8b35738d5d1b5bb3fd51cae",
+"guid": "efe26ebe-d8b3-5738-d5d1-b5bb3fd51cae",
 "firstName": "Hassan",
 "lastName": "Beydoun",
 "displayName": "Hassan Beydoun",
@@ -3694,7 +3045,7 @@
 "athlete": {
 "id": "4363532",
 "uid": "s:20~l:23~a:4363532",
-"guid": "3a68efb10a6dfd6a62f1cc489d451030",
+"guid": "3a68efb1-0a6d-fd6a-62f1-cc489d451030",
 "firstName": "EJ",
 "lastName": "Williams",
 "displayName": "EJ Williams",
@@ -3778,7 +3129,7 @@
 "athlete": {
 "id": "4373765",
 "uid": "s:20~l:23~a:4373765",
-"guid": "f5ed3be3ff968041066c444cce05d5bc",
+"guid": "f5ed3be3-ff96-8041-066c-444cce05d5bc",
 "firstName": "Luke",
 "lastName": "Cameron",
 "displayName": "Luke Cameron",
@@ -4450,7 +3801,7 @@
 "athlete": {
 "id": "4428480",
 "uid": "s:20~l:23~a:4428480",
-"guid": "95fcb0768df6aea6c4aef0d6e8a93bf9",
+"guid": "95fcb076-8df6-aea6-c4ae-f0d6e8a93bf9",
 "firstName": "Kempton",
 "lastName": "Shine",
 "displayName": "Kempton Shine",
@@ -4564,7 +3915,7 @@
 "athlete": {
 "id": "4360209",
 "uid": "s:20~l:23~a:4360209",
-"guid": "8d82403211689a53f5726cf6186508e7",
+"guid": "8d824032-1168-9a53-f572-6cf6186508e7",
 "firstName": "Joe",
 "lastName": "Sparacio",
 "displayName": "Joe Sparacio",
@@ -4644,7 +3995,7 @@
 "athlete": {
 "id": "4428480",
 "uid": "s:20~l:23~a:4428480",
-"guid": "95fcb0768df6aea6c4aef0d6e8a93bf9",
+"guid": "95fcb076-8df6-aea6-c4ae-f0d6e8a93bf9",
 "firstName": "Kempton",
 "lastName": "Shine",
 "displayName": "Kempton Shine",
@@ -4918,7 +4269,7 @@
 "athlete": {
 "id": "4363537",
 "uid": "s:20~l:23~a:4363537",
-"guid": "efe26ebed8b35738d5d1b5bb3fd51cae",
+"guid": "efe26ebe-d8b3-5738-d5d1-b5bb3fd51cae",
 "firstName": "Hassan",
 "lastName": "Beydoun",
 "displayName": "Hassan Beydoun",
@@ -5318,7 +4669,7 @@
 "athlete": {
 "id": "4366715",
 "uid": "s:20~l:23~a:4366715",
-"guid": "42bb08290f7d923a0ac8d08dd031748c",
+"guid": "42bb0829-0f7d-923a-0ac8-d08dd031748c",
 "firstName": "Jeff",
 "lastName": "Undercuffler Jr.",
 "displayName": "Jeff Undercuffler Jr.",
@@ -5401,7 +4752,7 @@
 "athlete": {
 "id": "4368768",
 "uid": "s:20~l:23~a:4368768",
-"guid": "0e797d28d7330fc33e86a2b95b342ca9",
+"guid": "0e797d28-d733-0fc3-3e86-a2b95b342ca9",
 "firstName": "DJ",
 "lastName": "Irons",
 "displayName": "DJ Irons",
@@ -5519,7 +4870,7 @@
 "athlete": {
 "id": "4428858",
 "uid": "s:20~l:23~a:4428858",
-"guid": "6a363028cbcc942e3cbc0bc238186dd2",
+"guid": "6a363028-cbcc-942e-3cbc-0bc238186dd2",
 "firstName": "Cam",
 "lastName": "Wiley",
 "displayName": "Cam Wiley",
@@ -5601,7 +4952,7 @@
 "athlete": {
 "id": "4368768",
 "uid": "s:20~l:23~a:4368768",
-"guid": "0e797d28d7330fc33e86a2b95b342ca9",
+"guid": "0e797d28-d733-0fc3-3e86-a2b95b342ca9",
 "firstName": "DJ",
 "lastName": "Irons",
 "displayName": "DJ Irons",
@@ -5683,7 +5034,7 @@
 "athlete": {
 "id": "4428278",
 "uid": "s:20~l:23~a:4428278",
-"guid": "1f278a687c3ec644d83ed23eb1c27270",
+"guid": "1f278a68-7c3e-c644-d83e-d23eb1c27270",
 "firstName": "Clyde",
 "lastName": "Price III",
 "displayName": "Clyde Price III",
@@ -5765,7 +5116,7 @@
 "athlete": {
 "id": "4366715",
 "uid": "s:20~l:23~a:4366715",
-"guid": "42bb08290f7d923a0ac8d08dd031748c",
+"guid": "42bb0829-0f7d-923a-0ac8-d08dd031748c",
 "firstName": "Jeff",
 "lastName": "Undercuffler Jr.",
 "displayName": "Jeff Undercuffler Jr.",
@@ -5963,7 +5314,7 @@
 "athlete": {
 "id": "4361412",
 "uid": "s:20~l:23~a:4361412",
-"guid": "c1bdafab30556097bc30cdb1d0fbec1d",
+"guid": "c1bdafab-3055-6097-bc30-cdb1d0fbec1d",
 "firstName": "Daniel",
 "lastName": "George",
 "displayName": "Daniel George",
@@ -6045,7 +5396,7 @@
 "athlete": {
 "id": "4428858",
 "uid": "s:20~l:23~a:4428858",
-"guid": "6a363028cbcc942e3cbc0bc238186dd2",
+"guid": "6a363028-cbcc-942e-3cbc-0bc238186dd2",
 "firstName": "Cam",
 "lastName": "Wiley",
 "displayName": "Cam Wiley",
@@ -6127,7 +5478,7 @@
 "athlete": {
 "id": "4361732",
 "uid": "s:20~l:23~a:4361732",
-"guid": "212d1c0a2f5a8054f6c6b30b7e866377",
+"guid": "212d1c0a-2f5a-8054-f6c6-b30b7e866377",
 "firstName": "Shocky",
 "lastName": "Jacques-Louis",
 "displayName": "Shocky Jacques-Louis",
@@ -6355,7 +5706,7 @@
 "athlete": {
 "id": "4240130",
 "uid": "s:20~l:23~a:4240130",
-"guid": "a5055f88577e4d13743ba195e9c684cf",
+"guid": "a5055f88-577e-4d13-743b-a195e9c684cf",
 "firstName": "Bubba",
 "lastName": "Arslanian",
 "displayName": "Bubba Arslanian",
@@ -6523,7 +5874,7 @@
 "athlete": {
 "id": "4360409",
 "uid": "s:20~l:23~a:4360409",
-"guid": "741962525687f06a97b836aaabc8de9f",
+"guid": "74196252-5687-f06a-97b8-36aaabc8de9f",
 "firstName": "Nate",
 "lastName": "Thompson",
 "displayName": "Nate Thompson",
@@ -6691,7 +6042,7 @@
 "athlete": {
 "id": "4427893",
 "uid": "s:20~l:23~a:4427893",
-"guid": "ddd68970df235964408fb60f29a26375",
+"guid": "ddd68970-df23-5964-408f-b60f29a26375",
 "firstName": "KJ",
 "lastName": "Martin",
 "displayName": "KJ Martin",
@@ -6775,7 +6126,7 @@
 "athlete": {
 "id": "4240342",
 "uid": "s:20~l:23~a:4240342",
-"guid": "b32a9013cd23e759f088bb865b2aadff",
+"guid": "b32a9013-cd23-e759-f088-bb865b2aadff",
 "firstName": "Ravontae",
 "lastName": "Holt",
 "displayName": "Ravontae Holt",
@@ -6943,7 +6294,7 @@
 "athlete": {
 "id": "4240344",
 "uid": "s:20~l:23~a:4240344",
-"guid": "b72f1336dd0ac8141f0961353becafab",
+"guid": "b72f1336-dd0a-c814-1f09-61353becafab",
 "firstName": "Victor",
 "lastName": "Jones",
 "displayName": "Victor Jones",
@@ -7111,7 +6462,7 @@
 "athlete": {
 "id": "4257184",
 "uid": "s:20~l:23~a:4257184",
-"guid": "446802e7fd9d5d02ea784f66f6cab4c2",
+"guid": "446802e7-fd9d-5d02-ea78-4f66f6cab4c2",
 "firstName": "Tim",
 "lastName": "Terry",
 "displayName": "Tim Terry",
@@ -7195,7 +6546,7 @@
 "athlete": {
 "id": "4240403",
 "uid": "s:20~l:23~a:4240403",
-"guid": "ba00ff30534d4b974b0bcd6fecd030e2",
+"guid": "ba00ff30-534d-4b97-4b0b-cd6fecd030e2",
 "firstName": "Curtis",
 "lastName": "Harper",
 "displayName": "Curtis Harper",
@@ -7279,7 +6630,7 @@
 "athlete": {
 "id": "4240414",
 "uid": "s:20~l:23~a:4240414",
-"guid": "5aeab284d18aaec485a1ba613ad7bf8f",
+"guid": "5aeab284-d18a-aec4-85a1-ba613ad7bf8f",
 "firstName": "Zach",
 "lastName": "Morton",
 "displayName": "Zach Morton",
@@ -7363,7 +6714,7 @@
 "athlete": {
 "id": "4382471",
 "uid": "s:20~l:23~a:4382471",
-"guid": "69505b6b2641f3a22087609a428a250a",
+"guid": "69505b6b-2641-f3a2-2087-609a428a250a",
 "firstName": "Jeslord",
 "lastName": "Boateng",
 "displayName": "Jeslord Boateng",
@@ -7531,7 +6882,7 @@
 "athlete": {
 "id": "169499",
 "uid": "s:20~l:23~a:169499",
-"guid": "20d681c3d6c8a26fed9746a6da350a25",
+"guid": "20d681c3-d6c8-a26f-ed97-46a6da350a25",
 "firstName": "Ryan",
 "lastName": "Johnson",
 "displayName": "Ryan Johnson",
@@ -7615,7 +6966,7 @@
 "athlete": {
 "id": "4361732",
 "uid": "s:20~l:23~a:4361732",
-"guid": "212d1c0a2f5a8054f6c6b30b7e866377",
+"guid": "212d1c0a-2f5a-8054-f6c6-b30b7e866377",
 "firstName": "Shocky",
 "lastName": "Jacques-Louis",
 "displayName": "Shocky Jacques-Louis",
@@ -7783,7 +7134,7 @@
 "athlete": {
 "id": "4568345",
 "uid": "s:20~l:23~a:4568345",
-"guid": "599e3eab1926243bfa8c882064944fa3",
+"guid": "599e3eab-1926-243b-fa8c-882064944fa3",
 "firstName": "Shawn",
 "lastName": "Naim",
 "displayName": "Shawn Naim",
@@ -8035,7 +7386,7 @@
 "athlete": {
 "id": "4428278",
 "uid": "s:20~l:23~a:4428278",
-"guid": "1f278a687c3ec644d83ed23eb1c27270",
+"guid": "1f278a68-7c3e-c644-d83e-d23eb1c27270",
 "firstName": "Clyde",
 "lastName": "Price III",
 "displayName": "Clyde Price III",
@@ -8233,7 +7584,7 @@
 "athlete": {
 "id": "4240130",
 "uid": "s:20~l:23~a:4240130",
-"guid": "a5055f88577e4d13743ba195e9c684cf",
+"guid": "a5055f88-577e-4d13-743b-a195e9c684cf",
 "firstName": "Bubba",
 "lastName": "Arslanian",
 "displayName": "Bubba Arslanian",
@@ -8577,7 +7928,7 @@
 "athlete": {
 "id": "4361955",
 "uid": "s:20~l:23~a:4361955",
-"guid": "0189eee8183f3c992b05621075885eb8",
+"guid": "0189eee8-183f-3c99-2b05-621075885eb8",
 "firstName": "Cory",
 "lastName": "Smigel",
 "displayName": "Cory Smigel",
@@ -8696,7 +8047,7 @@
 "athlete": {
 "id": "4367579",
 "uid": "s:20~l:23~a:4367579",
-"guid": "74c83a13d893c13921d68a8e38c992e6",
+"guid": "74c83a13-d893-c139-21d6-8a8e38c992e6",
 "firstName": "Noah",
 "lastName": "Gettman",
 "displayName": "Noah Gettman",
@@ -8789,8 +8140,560 @@
 }
 ]
 },
-"homeTeamSpread": -6.5,
+"format": {
+"regulation": {
+"periods": 4,
+"displayName": "Quarter",
+"slug": "quarter",
+"clock": 900.0
+},
+"overtime": {
+"periods": 0,
+"displayName": "untimed",
+"slug": "untimed"
+}
+},
+"gameInfo": {
+"venue": {
+"id": "3768",
+"fullName": "InfoCision Stadium",
+"address": {
+"city": "Akron",
+"state": "OH",
+"zipCode": "44304"
+},
+"capacity": 30000,
+"grass": false,
+"images": [
+{
+"href": "https://a.espncdn.com/i/venues/college-football/day/interior/3768.jpg",
+"width": 2000,
+"height": 1125,
+"alt": "",
+"rel": [
+"full",
+"day",
+"interior"
+]
+}
+]
+},
+"attendance": 12589
+},
+"drives": {},
+"leaders": [
+{
+"team": {
+"id": "2006",
+"uid": "s:20~l:23~t:2006",
+"displayName": "Akron Zips",
+"abbreviation": "AKR",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2006",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+}
+]
+},
+"leaders": [
+{
+"name": "passingYards",
+"displayName": "Passing Yards",
+"leaders": [
+{
+"displayValue": "8-18, 133 YDS, 2 INT",
+"athlete": {
+"id": "4366715",
+"uid": "s:20~l:23~a:4366715",
+"guid": "42bb0829-0f7d-923a-0ac8-d08dd031748c",
+"lastName": "Undercuffler Jr.",
+"fullName": "Jeff Undercuffler Jr.",
+"displayName": "Jeff Undercuffler Jr.",
+"shortName": "J. Undercuffler Jr.",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4366715/jeff-undercuffler-jr",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4366715.png",
+"alt": "Jeff Undercuffler Jr."
+},
+"jersey": "13",
+"position": {
+"abbreviation": "QB"
+}
+}
+}
+]
+},
+{
+"name": "rushingYards",
+"displayName": "Rushing Yards",
+"leaders": [
+{
+"displayValue": "18 CAR, 144 YDS, 3 TD",
+"athlete": {
+"id": "4428858",
+"uid": "s:20~l:23~a:4428858",
+"guid": "6a363028-cbcc-942e-3cbc-0bc238186dd2",
+"lastName": "Wiley",
+"fullName": "Cam Wiley",
+"displayName": "Cam Wiley",
+"shortName": "C. Wiley",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4428858/cam-wiley",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4428858.png",
+"alt": "Cam Wiley"
+},
+"jersey": "1",
+"position": {
+"abbreviation": "RB"
+}
+}
+}
+]
+},
+{
+"name": "receivingYards",
+"displayName": "Receiving Yards",
+"leaders": [
+{
+"displayValue": "6 REC, 102 YDS, 1 TD",
+"athlete": {
+"id": "4430897",
+"uid": "s:20~l:23~a:4430897",
+"guid": "1357f2ff-4364-3472-bc0c-b4720cf651ee",
+"lastName": "Adams",
+"fullName": "Alex Adams",
+"displayName": "Alex Adams",
+"shortName": "A. Adams",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4430897/alex-adams",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4430897.png",
+"alt": "Alex Adams"
+},
+"jersey": "7",
+"position": {
+"abbreviation": "WR"
+}
+}
+}
+]
+}
+]
+},
+{
+"team": {
+"id": "2199",
+"uid": "s:20~l:23~t:2199",
+"displayName": "Eastern Michigan Eagles",
+"abbreviation": "EMU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"leaders": [
+{
+"name": "passingYards",
+"displayName": "Passing Yards",
+"leaders": [
+{
+"displayValue": "16-28, 190 YDS, 2 TD, 1 INT",
+"athlete": {
+"id": "4597247",
+"uid": "s:20~l:23~a:4597247",
+"guid": "6a38a593-5e92-3a00-9555-d534a6a26f17",
+"lastName": "Smith",
+"fullName": "Austin Smith",
+"displayName": "Austin Smith",
+"shortName": "A. Smith",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4597247/austin-smith",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4597247.png",
+"alt": "Austin Smith"
+},
+"jersey": "4",
+"position": {
+"abbreviation": "QB"
+}
+}
+}
+]
+},
+{
+"name": "rushingYards",
+"displayName": "Rushing Yards",
+"leaders": [
+{
+"displayValue": "24 CAR, 133 YDS, 2 TD",
+"athlete": {
+"id": "4360492",
+"uid": "s:20~l:23~a:4360492",
+"guid": "d861b8d3-93ed-834f-6a27-d88f780edf3c",
+"lastName": "Evans",
+"fullName": "Samson Evans",
+"displayName": "Samson Evans",
+"shortName": "S. Evans",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4360492/samson-evans",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4360492.png",
+"alt": "Samson Evans"
+},
+"jersey": "22",
+"position": {
+"abbreviation": "RB"
+}
+}
+}
+]
+},
+{
+"name": "receivingYards",
+"displayName": "Receiving Yards",
+"leaders": [
+{
+"displayValue": "5 REC, 90 YDS, 1 TD",
+"athlete": {
+"id": "4363551",
+"uid": "s:20~l:23~a:4363551",
+"guid": "1df35e8c-d6f9-8ece-67ba-544322c05f25",
+"lastName": "Drummond",
+"fullName": "Dylan Drummond",
+"displayName": "Dylan Drummond",
+"shortName": "D. Drummond",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4363551/dylan-drummond",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4363551.png",
+"alt": "Dylan Drummond"
+},
+"jersey": "1",
+"position": {
+"abbreviation": "WR"
+}
+}
+}
+]
+}
+]
+}
+],
+"broadcasts": [],
+"predictor": {
+"header": "Matchup Predictor",
+"homeTeam": {
+"id": "2006",
+"gameProjection": "33.8",
+"teamChanceLoss": "66.2"
+},
+"awayTeam": {
+"id": "2199",
+"gameProjection": "66.2",
+"teamChanceLoss": "33.8"
+}
+},
+"pickcenter": [
+{
+"provider": {
+"id": "45",
+"name": "Caesars Sportsbook (New Jersey)",
+"priority": 1
+},
+"details": "EMU -6.0",
 "overUnder": 57.5,
+"spread": 6.0,
+"awayTeamOdds": {
+"favorite": true,
+"underdog": false,
+"moneyLine": -240,
+"spreadOdds": -110.0,
+"teamId": "2199"
+},
+"homeTeamOdds": {
+"favorite": false,
+"underdog": true,
+"moneyLine": 196,
+"spreadOdds": -110.0,
+"teamId": "2006"
+},
+"links": []
+},
+{
+"provider": {
+"id": "1004",
+"name": "consensus",
+"priority": 0
+},
+"details": "EMU -6.5",
+"overUnder": 57.5,
+"spread": 6.5,
+"awayTeamOdds": {
+"winPercentage": 58.0,
+"favorite": true,
+"underdog": false,
+"moneyLine": -248,
+"spreadOdds": -110.0,
+"teamId": "2199"
+},
+"homeTeamOdds": {
+"winPercentage": 42.0,
+"favorite": false,
+"underdog": true,
+"moneyLine": 201,
+"spreadOdds": -110.0,
+"teamId": "2006"
+},
+"links": []
+},
+{
+"provider": {
+"id": "1002",
+"name": "teamrankings",
+"priority": 0
+},
+"details": "EMU -6.5",
+"overUnder": 57.0,
+"spread": 6.5,
+"awayTeamOdds": {
+"averageScore": 32.1,
+"favorite": true,
+"underdog": false,
+"moneyLine": -260,
+"spreadRecord": {
+"wins": 0,
+"losses": 0,
+"pushes": 0,
+"summary": "0-0-0"
+},
+"spreadOdds": -110.0,
+"teamId": "2199"
+},
+"homeTeamOdds": {
+"averageScore": 25.3,
+"favorite": false,
+"underdog": true,
+"moneyLine": 210,
+"spreadRecord": {
+"wins": 0,
+"losses": 0,
+"pushes": 0,
+"summary": "0-0-0"
+},
+"spreadOdds": -110.0,
+"teamId": "2006"
+},
+"links": []
+}
+],
+"againstTheSpread": [
+{
+"team": {
+"id": "2199",
+"uid": "s:20~l:23~t:2199",
+"displayName": "Eastern Michigan Eagles",
+"abbreviation": "EMU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"records": []
+},
+{
+"team": {
+"id": "2006",
+"uid": "s:20~l:23~t:2006",
+"displayName": "Akron Zips",
+"abbreviation": "AKR",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2006",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+}
+]
+},
+"records": []
+}
+],
+"odds": [],
+"winprobability": [],
 "header": {
 "id": "401416637",
 "uid": "s:20~l:23~e:401416637",
@@ -9021,98 +8924,6 @@
 "abbreviation": "midam",
 "shortName": "MAC",
 "midsizeName": "Mid-American"
-},
-"home": {
-"id": "2006",
-"uid": "s:20~l:23~t:2006",
-"location": "Akron",
-"name": "Zips",
-"nickname": "Akron",
-"abbreviation": "AKR",
-"displayName": "Akron Zips",
-"color": "00285e",
-"alternateColor": "84754e",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2022-08-31T17:26Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2022-08-31T17:26Z"
-}
-],
-"links": [
-{
-"rel": [
-"clubhouse",
-"desktop",
-"team"
-],
-"href": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
-"text": "Clubhouse"
-}
-]
-},
-"away": {
-"id": "2199",
-"uid": "s:20~l:23~t:2199",
-"location": "Eastern Michigan",
-"name": "Eagles",
-"nickname": "E Michigan",
-"abbreviation": "EMU",
-"displayName": "Eastern Michigan Eagles",
-"color": "00331b",
-"alternateColor": "f0f0f0",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-],
-"links": [
-{
-"rel": [
-"clubhouse",
-"desktop",
-"team"
-],
-"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
-"text": "Clubhouse"
-}
-]
 }
 }
 ],
@@ -9291,7 +9102,648 @@
 ]
 }
 },
-"broadcasts": [],
+"scoringPlays": [
+{
+"id": "401416637101924501",
+"type": {
+"id": "59",
+"text": "Field Goal Good",
+"abbreviation": "FG"
+},
+"text": "Jesus Gomez 24 Yd Field Goal  ",
+"awayScore": 3,
+"homeScore": 0,
+"period": {
+"number": 1
+},
+"clock": {
+"value": 474.0,
+"displayValue": "7:54"
+},
+"team": {
+"id": "2199",
+"uid": "s:20~l:23~t:2199",
+"displayName": "Eastern Michigan Eagles",
+"abbreviation": "EMU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "field-goal",
+"displayName": "Field Goal",
+"abbreviation": "FG"
+}
+},
+{
+"id": "401416637101956901",
+"type": {
+"id": "67",
+"text": "Passing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Alex Adams 10 Yd pass from DJ Irons (Cory Smigel Kick)",
+"awayScore": 3,
+"homeScore": 7,
+"period": {
+"number": 1
+},
+"clock": {
+"value": 270.0,
+"displayValue": "4:30"
+},
+"team": {
+"id": "2006",
+"uid": "s:20~l:23~t:2006",
+"displayName": "Akron Zips",
+"abbreviation": "AKR",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2006",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401416637101978701",
+"type": {
+"id": "67",
+"text": "Passing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Dylan Drummond 40 Yd pass from Austin Smith (Jesus Gomez Kick)",
+"awayScore": 10,
+"homeScore": 7,
+"period": {
+"number": 1
+},
+"clock": {
+"value": 132.0,
+"displayValue": "2:12"
+},
+"team": {
+"id": "2199",
+"uid": "s:20~l:23~t:2199",
+"displayName": "Eastern Michigan Eagles",
+"abbreviation": "EMU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401416637102857801",
+"type": {
+"id": "68",
+"text": "Rushing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Samson Evans 9 Yd Run (Jesus Gomez Kick)",
+"awayScore": 17,
+"homeScore": 7,
+"period": {
+"number": 2
+},
+"clock": {
+"value": 861.0,
+"displayValue": "14:21"
+},
+"team": {
+"id": "2199",
+"uid": "s:20~l:23~t:2199",
+"displayName": "Eastern Michigan Eagles",
+"abbreviation": "EMU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401416637102937001",
+"type": {
+"id": "68",
+"text": "Rushing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Cam Wiley 1 Yd Run (Cory Smigel Kick)",
+"awayScore": 17,
+"homeScore": 14,
+"period": {
+"number": 2
+},
+"clock": {
+"value": 389.0,
+"displayValue": "6:29"
+},
+"team": {
+"id": "2006",
+"uid": "s:20~l:23~t:2006",
+"displayName": "Akron Zips",
+"abbreviation": "AKR",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2006",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401416637102996101",
+"type": {
+"id": "67",
+"text": "Passing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Tanner Knue 10 Yd pass from Austin Smith (Jesus Gomez Kick)",
+"awayScore": 24,
+"homeScore": 14,
+"period": {
+"number": 2
+},
+"clock": {
+"value": 38.0,
+"displayValue": "0:38"
+},
+"team": {
+"id": "2199",
+"uid": "s:20~l:23~t:2199",
+"displayName": "Eastern Michigan Eagles",
+"abbreviation": "EMU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401416637103849902",
+"type": {
+"id": "68",
+"text": "Rushing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Samson Evans 23 Yd Run (Jesus Gomez Kick)",
+"awayScore": 31,
+"homeScore": 14,
+"period": {
+"number": 3
+},
+"clock": {
+"value": 900.0,
+"displayValue": "15:00"
+},
+"team": {
+"id": "2199",
+"uid": "s:20~l:23~t:2199",
+"displayName": "Eastern Michigan Eagles",
+"abbreviation": "EMU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401416637104854401",
+"type": {
+"id": "68",
+"text": "Rushing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Cam Wiley 11 Yd Run (Cory Smigel Kick)",
+"awayScore": 31,
+"homeScore": 21,
+"period": {
+"number": 4
+},
+"clock": {
+"value": 895.0,
+"displayValue": "14:55"
+},
+"team": {
+"id": "2006",
+"uid": "s:20~l:23~t:2006",
+"displayName": "Akron Zips",
+"abbreviation": "AKR",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2006",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401416637104869301",
+"type": {
+"id": "68",
+"text": "Rushing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Cam Wiley 55 Yd Run (Cory Smigel Kick)",
+"awayScore": 31,
+"homeScore": 28,
+"period": {
+"number": 4
+},
+"clock": {
+"value": 809.0,
+"displayValue": "13:29"
+},
+"team": {
+"id": "2006",
+"uid": "s:20~l:23~t:2006",
+"displayName": "Akron Zips",
+"abbreviation": "AKR",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2006",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-08-31T17:26Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401416637104869912",
+"type": {
+"id": "59",
+"text": "Field Goal Good",
+"abbreviation": "FG"
+},
+"text": "Jesus Gomez 43 Yd Field Goal ",
+"awayScore": 34,
+"homeScore": 28,
+"period": {
+"number": 4
+},
+"clock": {
+"value": 780.0,
+"displayValue": "13:00"
+},
+"team": {
+"id": "2199",
+"uid": "s:20~l:23~t:2199",
+"displayName": "Eastern Michigan Eagles",
+"abbreviation": "EMU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2199",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "field-goal",
+"displayName": "Field Goal",
+"abbreviation": "FG"
+}
+}
+],
 "videos": [],
 "standings": {
 "fullViewLink": {
@@ -9306,10 +9758,10 @@
 "standings": {
 "entries": [
 {
-"team": "Ohio",
-"link": "https://www.espn.com/college-football/team/_/id/195/ohio-bobcats",
-"id": "195",
-"uid": "s:20~l:23~t:195",
+"team": "Akron",
+"link": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
+"id": "2006",
+"uid": "s:20~l:23~t:2006",
 "stats": [
 {
 "id": "0",
@@ -9319,8 +9771,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "10-4",
-"displayValue": "10-4"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9330,13 +9782,13 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "7-1",
-"displayValue": "7-1"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -9344,10 +9796,10 @@
 "full",
 "default"
 ],
-"lastUpdated": "2021-06-10T21:28Z"
+"lastUpdated": "2022-08-31T17:26Z"
 },
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/195.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -9355,61 +9807,7 @@
 "full",
 "dark"
 ],
-"lastUpdated": "2021-06-10T21:28Z"
-}
-]
-},
-{
-"team": "Buffalo",
-"link": "https://www.espn.com/college-football/team/_/id/2084/buffalo-bulls",
-"id": "2084",
-"uid": "s:20~l:23~t:2084",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "7-6",
-"displayValue": "7-6"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "5-3",
-"displayValue": "5-3"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2019-03-01T22:14Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2084.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2019-03-01T22:14Z"
+"lastUpdated": "2022-08-31T17:26Z"
 }
 ]
 },
@@ -9427,8 +9825,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "6-7",
-"displayValue": "6-7"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9438,8 +9836,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "5-3",
-"displayValue": "5-3"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -9468,10 +9866,10 @@
 ]
 },
 {
-"team": "Miami (OH)",
-"link": "https://www.espn.com/college-football/team/_/id/193/miami-oh-redhawks",
-"id": "193",
-"uid": "s:20~l:23~t:193",
+"team": "Buffalo",
+"link": "https://www.espn.com/college-football/team/_/id/2084/buffalo-bulls",
+"id": "2084",
+"uid": "s:20~l:23~t:2084",
 "stats": [
 {
 "id": "0",
@@ -9481,8 +9879,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "6-7",
-"displayValue": "6-7"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9492,13 +9890,13 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "4-4",
-"displayValue": "4-4"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2084.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -9506,10 +9904,10 @@
 "full",
 "default"
 ],
-"lastUpdated": "2022-09-09T17:32Z"
+"lastUpdated": "2019-03-01T22:14Z"
 },
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/193.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2084.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -9517,7 +9915,7 @@
 "full",
 "dark"
 ],
-"lastUpdated": "2022-09-09T17:32Z"
+"lastUpdated": "2019-03-01T22:14Z"
 }
 ]
 },
@@ -9535,8 +9933,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "5-7",
-"displayValue": "5-7"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9546,8 +9944,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "4-4",
-"displayValue": "4-4"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -9576,10 +9974,10 @@
 ]
 },
 {
-"team": "Akron",
-"link": "https://www.espn.com/college-football/team/_/id/2006/akron-zips",
-"id": "2006",
-"uid": "s:20~l:23~t:2006",
+"team": "Miami (OH)",
+"link": "https://www.espn.com/college-football/team/_/id/193/miami-oh-redhawks",
+"id": "193",
+"uid": "s:20~l:23~t:193",
 "stats": [
 {
 "id": "0",
@@ -9589,8 +9987,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "2-10",
-"displayValue": "2-10"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9600,13 +9998,13 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "1-7",
-"displayValue": "1-7"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2006.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -9614,10 +10012,10 @@
 "full",
 "default"
 ],
-"lastUpdated": "2022-08-31T17:26Z"
+"lastUpdated": "2022-09-09T17:32Z"
 },
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2006.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/193.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -9625,7 +10023,61 @@
 "full",
 "dark"
 ],
-"lastUpdated": "2022-08-31T17:26Z"
+"lastUpdated": "2022-09-09T17:32Z"
+}
+]
+},
+{
+"team": "Ohio",
+"link": "https://www.espn.com/college-football/team/_/id/195/ohio-bobcats",
+"id": "195",
+"uid": "s:20~l:23~t:195",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/195.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2021-06-10T21:28Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/195.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2021-06-10T21:28Z"
 }
 ]
 }
@@ -9636,168 +10088,6 @@
 "header": "Mid-American - West",
 "standings": {
 "entries": [
-{
-"team": "Toledo",
-"link": "https://www.espn.com/college-football/team/_/id/2649/toledo-rockets",
-"id": "2649",
-"uid": "s:20~l:23~t:2649",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "9-5",
-"displayValue": "9-5"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "5-3",
-"displayValue": "5-3"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-10-16T18:59Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2649.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-10-16T18:59Z"
-}
-]
-},
-{
-"team": "Eastern Michigan",
-"link": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
-"id": "2199",
-"uid": "s:20~l:23~t:2199",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "9-4",
-"displayValue": "9-4"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "5-3",
-"displayValue": "5-3"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-{
-"team": "Western Michigan",
-"link": "https://www.espn.com/college-football/team/_/id/2711/western-michigan-broncos",
-"id": "2711",
-"uid": "s:20~l:23~t:2711",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "5-7",
-"displayValue": "5-7"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "4-4",
-"displayValue": "4-4"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2022-09-09T18:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2711.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2022-09-09T18:08Z"
-}
-]
-},
 {
 "team": "Ball State",
 "link": "https://www.espn.com/college-football/team/_/id/2050/ball-state-cardinals",
@@ -9812,8 +10102,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "5-7",
-"displayValue": "5-7"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9823,8 +10113,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "3-5",
-"displayValue": "3-5"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -9866,8 +10156,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "4-8",
-"displayValue": "4-8"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9877,8 +10167,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "3-5",
-"displayValue": "3-5"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -9907,6 +10197,60 @@
 ]
 },
 {
+"team": "Eastern Michigan",
+"link": "https://www.espn.com/college-football/team/_/id/2199/eastern-michigan-eagles",
+"id": "2199",
+"uid": "s:20~l:23~t:2199",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2199.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
 "team": "Northern Illinois",
 "link": "https://www.espn.com/college-football/team/_/id/2459/northern-illinois-huskies",
 "id": "2459",
@@ -9920,8 +10264,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "3-9",
-"displayValue": "3-9"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -9931,8 +10275,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "2-6",
-"displayValue": "2-6"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -9959,139 +10303,122 @@
 "lastUpdated": "2022-09-09T18:01Z"
 }
 ]
-}
-]
-}
+},
+{
+"team": "Toledo",
+"link": "https://www.espn.com/college-football/team/_/id/2649/toledo-rockets",
+"id": "2649",
+"uid": "s:20~l:23~t:2649",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
-"header": "2022 Mid-American Conference Standings",
-"href": "https://www.espn.com/college-football/standings/_/group/15/view/fbs-i-a"
-}
-]
-},
-"pickcenter": [
+"logo": [
 {
-"provider": {
-"id": "45",
-"name": "Caesars Sportsbook (New Jersey)",
-"priority": 1
-},
-"details": "EMU -6.0",
-"overUnder": 57.5,
-"spread": 6.0,
-"awayTeamOdds": {
-"favorite": true,
-"underdog": false,
-"moneyLine": -240,
-"spreadOdds": -110.0,
-"teamId": "2199"
-},
-"homeTeamOdds": {
-"favorite": false,
-"underdog": true,
-"moneyLine": 196,
-"spreadOdds": -110.0,
-"teamId": "2006"
-},
-"links": []
-},
-{
-"provider": {
-"id": "1004",
-"name": "consensus",
-"priority": 0
-},
-"details": "EMU -6.5",
-"overUnder": 57.5,
-"spread": 6.5,
-"awayTeamOdds": {
-"winPercentage": 58.0,
-"favorite": true,
-"underdog": false,
-"moneyLine": -248,
-"spreadOdds": -110.0,
-"teamId": "2199"
-},
-"homeTeamOdds": {
-"winPercentage": 42.0,
-"favorite": false,
-"underdog": true,
-"moneyLine": 201,
-"spreadOdds": -110.0,
-"teamId": "2006"
-},
-"links": []
-},
-{
-"provider": {
-"id": "1002",
-"name": "teamrankings",
-"priority": 0
-},
-"details": "EMU -6.5",
-"overUnder": 57.0,
-"spread": 6.5,
-"awayTeamOdds": {
-"averageScore": 32.1,
-"favorite": true,
-"underdog": false,
-"moneyLine": -260,
-"spreadRecord": {
-"wins": 6,
-"losses": 5,
-"pushes": 1,
-"summary": "6-5-1"
-},
-"spreadOdds": -110.0,
-"teamId": "2199"
-},
-"homeTeamOdds": {
-"averageScore": 25.3,
-"favorite": false,
-"underdog": true,
-"moneyLine": 210,
-"spreadRecord": {
-"wins": 6,
-"losses": 5,
-"pushes": 1,
-"summary": "6-5-1"
-},
-"spreadOdds": -110.0,
-"teamId": "2006"
-},
-"links": []
-}
-],
-"espnWinProbability": [],
-"gameInfo": {
-"venue": {
-"id": "3768",
-"fullName": "InfoCision Stadium",
-"address": {
-"city": "Akron",
-"state": "OH",
-"zipCode": "44304"
-},
-"capacity": 30000,
-"grass": false,
-"images": [
-{
-"href": "https://a.espncdn.com/i/venues/college-football/day/interior/3768.jpg",
-"width": 2000,
-"height": 1125,
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2649.png",
+"width": 500,
+"height": 500,
 "alt": "",
 "rel": [
 "full",
-"day",
-"interior"
-]
+"default"
+],
+"lastUpdated": "2018-10-16T18:59Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2649.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-10-16T18:59Z"
 }
 ]
 },
-"attendance": 12589
+{
+"team": "Western Michigan",
+"link": "https://www.espn.com/college-football/team/_/id/2711/western-michigan-broncos",
+"id": "2711",
+"uid": "s:20~l:23~t:2711",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
 },
-"season": {
-"year": 2022,
-"type": 2
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2711.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-09-09T18:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2711.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-09-09T18:08Z"
+}
+]
+}
+]
+}
+}
+],
+"header": "2023 Mid-American Conference Standings",
+"href": "https://www.espn.com/college-football/standings/_/group/15/view/fbs-i-a"
+}
+]
 }
 }

@@ -1,591 +1,6 @@
 {
-"id": 401403965,
-"count": 0,
-"plays": [],
-"advBoxScore": {},
-"homeTeamId": "9",
-"awayTeamId": "2464",
-"drives": {},
-"scoringPlays": [
-{
-"id": "401403965101917801",
-"type": {
-"id": "59",
-"text": "Field Goal Good",
-"abbreviation": "FG"
-},
-"text": "Carter Brown 27 Yd Field Goal  ",
-"awayScore": 0,
-"homeScore": 3,
-"period": {
-"number": 1
-},
-"clock": {
-"value": 501.0,
-"displayValue": "8:21"
-},
-"team": {
-"id": "9",
-"uid": "s:20~l:23~t:9",
-"displayName": "Arizona State Sun Devils",
-"abbreviation": "ASU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "field-goal",
-"displayName": "Field Goal",
-"abbreviation": "FG"
-}
-},
-{
-"id": "401403965102919401",
-"type": {
-"id": "68",
-"text": "Rushing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Emory Jones 1 Yd Run (Carter Brown Kick)",
-"awayScore": 0,
-"homeScore": 10,
-"period": {
-"number": 2
-},
-"clock": {
-"value": 485.0,
-"displayValue": "8:05"
-},
-"team": {
-"id": "9",
-"uid": "s:20~l:23~t:9",
-"displayName": "Arizona State Sun Devils",
-"abbreviation": "ASU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401403965102965501",
-"type": {
-"id": "68",
-"text": "Rushing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Xazavian Valladay 4 Yd Run (Carter Brown Kick)",
-"awayScore": 0,
-"homeScore": 17,
-"period": {
-"number": 2
-},
-"clock": {
-"value": 224.0,
-"displayValue": "3:44"
-},
-"team": {
-"id": "9",
-"uid": "s:20~l:23~t:9",
-"displayName": "Arizona State Sun Devils",
-"abbreviation": "ASU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401403965102978001",
-"type": {
-"id": "68",
-"text": "Rushing Touchdown",
-"abbreviation": "TD"
-},
-"text": "E. Jones run for 17 yds for a TD, (C. Brown KICK)",
-"awayScore": 0,
-"homeScore": 24,
-"period": {
-"number": 2
-},
-"clock": {
-"value": 139.0,
-"displayValue": "2:19"
-},
-"team": {
-"id": "9",
-"uid": "s:20~l:23~t:9",
-"displayName": "Arizona State Sun Devils",
-"abbreviation": "ASU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401403965102999401",
-"type": {
-"id": "59",
-"text": "Field Goal Good",
-"abbreviation": "FG"
-},
-"text": "Collin Robbins 48 Yd Field Goal ",
-"awayScore": 3,
-"homeScore": 24,
-"period": {
-"number": 2
-},
-"clock": {
-"value": 5.0,
-"displayValue": "0:05"
-},
-"team": {
-"id": "2464",
-"uid": "s:20~l:23~t:2464",
-"displayName": "Northern Arizona Lumberjacks",
-"abbreviation": "NAU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/2464/northern-arizona-lumberjacks",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/2464",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2022-12-08T23:27Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2464.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2022-12-08T23:20Z"
-}
-]
-},
-"scoringType": {
-"name": "field-goal",
-"displayName": "Field Goal",
-"abbreviation": "FG"
-}
-},
-{
-"id": "401403965102999402",
-"type": {
-"id": "68",
-"text": "Rushing Touchdown",
-"abbreviation": "TD"
-},
-"text": "Xazavian Valladay 27 Yd Run (Carter Brown Kick)",
-"awayScore": 3,
-"homeScore": 31,
-"period": {
-"number": 3
-},
-"clock": {
-"value": 752.0,
-"displayValue": "12:32"
-},
-"team": {
-"id": "9",
-"uid": "s:20~l:23~t:9",
-"displayName": "Arizona State Sun Devils",
-"abbreviation": "ASU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "touchdown",
-"displayName": "Touchdown",
-"abbreviation": "TD"
-}
-},
-{
-"id": "401403965102999403",
-"type": {
-"id": "59",
-"text": "Field Goal Good",
-"abbreviation": "FG"
-},
-"text": "Carter Brown 36 Yd Field Goal ",
-"awayScore": 3,
-"homeScore": 34,
-"period": {
-"number": 3
-},
-"clock": {
-"value": 582.0,
-"displayValue": "9:42"
-},
-"team": {
-"id": "9",
-"uid": "s:20~l:23~t:9",
-"displayName": "Arizona State Sun Devils",
-"abbreviation": "ASU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "field-goal",
-"displayName": "Field Goal",
-"abbreviation": "FG"
-}
-},
-{
-"id": "401403965102999404",
-"type": {
-"id": "59",
-"text": "Field Goal Good",
-"abbreviation": "FG"
-},
-"text": "Carter Brown 44 Yd Field Goal ",
-"awayScore": 3,
-"homeScore": 37,
-"period": {
-"number": 3
-},
-"clock": {
-"value": 17.0,
-"displayValue": "0:17"
-},
-"team": {
-"id": "9",
-"uid": "s:20~l:23~t:9",
-"displayName": "Arizona State Sun Devils",
-"abbreviation": "ASU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "field-goal",
-"displayName": "Field Goal",
-"abbreviation": "FG"
-}
-},
-{
-"id": "401403965102999405",
-"type": {
-"id": "59",
-"text": "Field Goal Good",
-"abbreviation": "FG"
-},
-"text": "Carter Brown 44 Yd Field Goal ",
-"awayScore": 3,
-"homeScore": 40,
-"period": {
-"number": 4
-},
-"clock": {
-"value": 474.0,
-"displayValue": "7:54"
-},
-"team": {
-"id": "9",
-"uid": "s:20~l:23~t:9",
-"displayName": "Arizona State Sun Devils",
-"abbreviation": "ASU",
-"links": [
-{
-"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
-"text": "Clubhouse"
-},
-{
-"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
-"text": "Schedule"
-}
-],
-"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-"scoringType": {
-"name": "field-goal",
-"displayName": "Field Goal",
-"abbreviation": "FG"
-}
-}
-],
-"winprobability": [],
-"boxScore": {
+"timeouts": {},
+"boxscore": {
 "teams": [
 {
 "team": {
@@ -903,7 +318,7 @@
 "athlete": {
 "id": "4430718",
 "uid": "s:20~l:23~a:4430718",
-"guid": "fdb12153e4926037887878d1d1808f5e",
+"guid": "fdb12153-e492-6037-8878-78d1d1808f5e",
 "firstName": "Jeff",
 "lastName": "Widener",
 "displayName": "Jeff Widener",
@@ -1185,7 +600,7 @@
 "athlete": {
 "id": "4578416",
 "uid": "s:20~l:23~a:4578416",
-"guid": "3d95e97545e2ae5745e77581f15b67f7",
+"guid": "3d95e975-45e2-ae57-45e7-7581f15b67f7",
 "firstName": "George",
 "lastName": "Robinson",
 "displayName": "George Robinson",
@@ -1267,7 +682,7 @@
 "athlete": {
 "id": "4429670",
 "uid": "s:20~l:23~a:4429670",
-"guid": "e1e6e1a52dea87f3fa833e408a231fab",
+"guid": "e1e6e1a5-2dea-87f3-fa83-3e408a231fab",
 "firstName": "Jamal",
 "lastName": "Glaspie",
 "displayName": "Jamal Glaspie",
@@ -1349,7 +764,7 @@
 "athlete": {
 "id": "4574310",
 "uid": "s:20~l:23~a:4574310",
-"guid": "981509b64d38d0d1af0886d6fed571ef",
+"guid": "981509b6-4d38-d0d1-af08-86d6fed571ef",
 "firstName": "Alec",
 "lastName": "Wyble-Meza",
 "displayName": "Alec Wyble-Meza",
@@ -1564,7 +979,7 @@
 "athlete": {
 "id": "4578436",
 "uid": "s:20~l:23~a:4578436",
-"guid": "b6ab93fe8800dece92d1893a0c050bcc",
+"guid": "b6ab93fe-8800-dece-92d1-893a0c050bcc",
 "firstName": "Coleman",
 "lastName": "Owen",
 "displayName": "Coleman Owen",
@@ -1646,7 +1061,7 @@
 "athlete": {
 "id": "4427616",
 "uid": "s:20~l:23~a:4427616",
-"guid": "cb5ea91f56eb81888a66d9587ab1aff6",
+"guid": "cb5ea91f-56eb-8188-8a66-d9587ab1aff6",
 "firstName": "Hendrix",
 "lastName": "Johnson",
 "displayName": "Hendrix Johnson",
@@ -1728,7 +1143,7 @@
 "athlete": {
 "id": "4429670",
 "uid": "s:20~l:23~a:4429670",
-"guid": "e1e6e1a52dea87f3fa833e408a231fab",
+"guid": "e1e6e1a5-2dea-87f3-fa83-3e408a231fab",
 "firstName": "Jamal",
 "lastName": "Glaspie",
 "displayName": "Jamal Glaspie",
@@ -1810,7 +1225,7 @@
 "athlete": {
 "id": "4578416",
 "uid": "s:20~l:23~a:4578416",
-"guid": "3d95e97545e2ae5745e77581f15b67f7",
+"guid": "3d95e975-45e2-ae57-45e7-7581f15b67f7",
 "firstName": "George",
 "lastName": "Robinson",
 "displayName": "George Robinson",
@@ -2138,7 +1553,7 @@
 "athlete": {
 "id": "4574310",
 "uid": "s:20~l:23~a:4574310",
-"guid": "981509b64d38d0d1af0886d6fed571ef",
+"guid": "981509b6-4d38-d0d1-af08-86d6fed571ef",
 "firstName": "Alec",
 "lastName": "Wyble-Meza",
 "displayName": "Alec Wyble-Meza",
@@ -2246,86 +1661,6 @@
 "athletes": [
 {
 "athlete": {
-"id": "4697617",
-"uid": "s:20~l:23~a:4697617",
-"guid": "11203d31-4fa7-3c35-856c-915985c2df56",
-"firstName": "Sheldon",
-"lastName": "Newton",
-"displayName": "Sheldon Newton",
-"links": [
-{
-"rel": [
-"playercard",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/_/id/4697617/sheldon-newton",
-"text": "Player Card"
-},
-{
-"rel": [
-"stats",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/stats/_/id/4697617/sheldon-newton",
-"text": "Stats"
-},
-{
-"rel": [
-"splits",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/splits/_/id/4697617/sheldon-newton",
-"text": "Splits"
-},
-{
-"rel": [
-"gamelog",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/gamelog/_/id/4697617/sheldon-newton",
-"text": "Game Log"
-},
-{
-"rel": [
-"news",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/news/_/id/4697617/sheldon-newton",
-"text": "News"
-},
-{
-"rel": [
-"bio",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/bio/_/id/4697617/sheldon-newton",
-"text": "Bio"
-},
-{
-"rel": [
-"overview",
-"desktop",
-"athlete"
-],
-"href": "http://www.espn.com/college-football/player/_/id/4697617/sheldon-newton",
-"text": "Overview"
-}
-]
-},
-"stats": [
-"0",
-"0",
-"1"
-]
-},
-{
-"athlete": {
 "id": "-6920",
 "uid": "s:20~l:23~a:-6920",
 "firstName": "",
@@ -2417,6 +1752,86 @@
 "1",
 "0",
 "0"
+]
+},
+{
+"athlete": {
+"id": "4697617",
+"uid": "s:20~l:23~a:4697617",
+"guid": "11203d31-4fa7-3c35-856c-915985c2df56",
+"firstName": "Sheldon",
+"lastName": "Newton",
+"displayName": "Sheldon Newton",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4697617/sheldon-newton",
+"text": "Player Card"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/stats/_/id/4697617/sheldon-newton",
+"text": "Stats"
+},
+{
+"rel": [
+"splits",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/splits/_/id/4697617/sheldon-newton",
+"text": "Splits"
+},
+{
+"rel": [
+"gamelog",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/gamelog/_/id/4697617/sheldon-newton",
+"text": "Game Log"
+},
+{
+"rel": [
+"news",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/news/_/id/4697617/sheldon-newton",
+"text": "News"
+},
+{
+"rel": [
+"bio",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/bio/_/id/4697617/sheldon-newton",
+"text": "Bio"
+},
+{
+"rel": [
+"overview",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4697617/sheldon-newton",
+"text": "Overview"
+}
+]
+},
+"stats": [
+"0",
+"0",
+"1"
 ]
 }
 ],
@@ -2545,7 +1960,7 @@
 "athlete": {
 "id": "4430762",
 "uid": "s:20~l:23~a:4430762",
-"guid": "f7f040cdadf928226e27df7468855219",
+"guid": "f7f040cd-adf9-2822-6e27-df7468855219",
 "firstName": "Jhasi",
 "lastName": "Wilson",
 "displayName": "Jhasi Wilson",
@@ -2629,7 +2044,7 @@
 "athlete": {
 "id": "4569289",
 "uid": "s:20~l:23~a:4569289",
-"guid": "4f8ebf1e44dc9a86f91060e8775bee34",
+"guid": "4f8ebf1e-44dc-9a86-f910-60e8775bee34",
 "firstName": "Heston",
 "lastName": "Lameta",
 "displayName": "Heston Lameta",
@@ -2713,7 +2128,7 @@
 "athlete": {
 "id": "4038846",
 "uid": "s:20~l:23~a:4038846",
-"guid": "a7622ffc59b385fecf452b6a98158d3b",
+"guid": "a7622ffc-59b3-85fe-cf45-2b6a98158d3b",
 "firstName": "Morgan",
 "lastName": "Vest",
 "displayName": "Morgan Vest",
@@ -2797,7 +2212,7 @@
 "athlete": {
 "id": "4430011",
 "uid": "s:20~l:23~a:4430011",
-"guid": "73f44ac40dd6fb174b943e6b55943d22",
+"guid": "73f44ac4-0dd6-fb17-4b94-3e6b55943d22",
 "firstName": "Cosmas",
 "lastName": "Kwete",
 "displayName": "Cosmas Kwete",
@@ -3133,7 +2548,7 @@
 "athlete": {
 "id": "4368794",
 "uid": "s:20~l:23~a:4368794",
-"guid": "1af6e986c98c32fa88a3edc59d2c8508",
+"guid": "1af6e986-c98c-32fa-88a3-edc59d2c8508",
 "firstName": "George",
 "lastName": "Steele",
 "displayName": "George Steele",
@@ -3217,7 +2632,7 @@
 "athlete": {
 "id": "4428809",
 "uid": "s:20~l:23~a:4428809",
-"guid": "f46184ce3ff299f6072e27d572615690",
+"guid": "f46184ce-3ff2-99f6-072e-27d572615690",
 "firstName": "Demetrick",
 "lastName": "Watts II",
 "displayName": "Demetrick Watts II",
@@ -3301,7 +2716,7 @@
 "athlete": {
 "id": "4250782",
 "uid": "s:20~l:23~a:4250782",
-"guid": "5b6d868a81d38c05086bb26091166603",
+"guid": "5b6d868a-81d3-8c05-086b-b26091166603",
 "firstName": "Dyvine",
 "lastName": "Wallace",
 "displayName": "Dyvine Wallace",
@@ -3469,7 +2884,7 @@
 "athlete": {
 "id": "4251018",
 "uid": "s:20~l:23~a:4251018",
-"guid": "811fd4460391ac750dcd246741839e35",
+"guid": "811fd446-0391-ac75-0dcd-246741839e35",
 "firstName": "Alonzo",
 "lastName": "Davis",
 "displayName": "Alonzo Davis",
@@ -3553,7 +2968,7 @@
 "athlete": {
 "id": "4429947",
 "uid": "s:20~l:23~a:4429947",
-"guid": "e611c6e060071ff9b59fe51cb9839f88",
+"guid": "e611c6e0-6007-1ff9-b59f-e51cb9839f88",
 "firstName": "Amelec",
 "lastName": "Juntunen",
 "displayName": "Amelec Juntunen",
@@ -3805,7 +3220,7 @@
 "athlete": {
 "id": "4571391",
 "uid": "s:20~l:23~a:4571391",
-"guid": "97032ee5c978e3eefa98e3f7839b25b9",
+"guid": "97032ee5-c978-e3ee-fa98-e3f7839b25b9",
 "firstName": "Tavian",
 "lastName": "Montgomery",
 "displayName": "Tavian Montgomery",
@@ -3889,7 +3304,7 @@
 "athlete": {
 "id": "4574277",
 "uid": "s:20~l:23~a:4574277",
-"guid": "5e7eff5bc8ef6e5aeab3a6a46b603c21",
+"guid": "5e7eff5b-c8ef-6e5a-eab3-a6a46b603c21",
 "firstName": "Mark",
 "lastName": "Ho Ching",
 "displayName": "Mark Ho Ching",
@@ -4057,7 +3472,7 @@
 "athlete": {
 "id": "4427748",
 "uid": "s:20~l:23~a:4427748",
-"guid": "fbc75cec52046ddab3f29914163e349e",
+"guid": "fbc75cec-5204-6dda-b3f2-9914163e349e",
 "firstName": "Eloi",
 "lastName": "Kwete",
 "displayName": "Eloi Kwete",
@@ -4450,7 +3865,7 @@
 "athlete": {
 "id": "4427428",
 "uid": "s:20~l:23~a:4427428",
-"guid": "df56311d07e7ddfca534fcaf8bf47181",
+"guid": "df56311d-07e7-ddfc-a534-fcaf8bf47181",
 "firstName": "Terrell",
 "lastName": "Hayward",
 "displayName": "Terrell Hayward",
@@ -4757,7 +4172,7 @@
 "athlete": {
 "id": "4578415",
 "uid": "s:20~l:23~a:4578415",
-"guid": "898916586590c39f4da7aa3cc12e92e6",
+"guid": "89891658-6590-c39f-4da7-aa3cc12e92e6",
 "firstName": "Collin",
 "lastName": "Robbins",
 "displayName": "Collin Robbins",
@@ -5014,7 +4429,7 @@
 "athlete": {
 "id": "4360230",
 "uid": "s:20~l:23~a:4360230",
-"guid": "c187033f37ed1d05ac2d7379985fb6eb",
+"guid": "c187033f-37ed-1d05-ac2d-7379985fb6eb",
 "firstName": "Emory",
 "lastName": "Jones",
 "displayName": "Emory Jones",
@@ -5132,7 +4547,7 @@
 "athlete": {
 "id": "4240350",
 "uid": "s:20~l:23~a:4240350",
-"guid": "e40617227b80c6ec1ce7384bfa387ae5",
+"guid": "e4061722-7b80-c6ec-1ce7-384bfa387ae5",
 "firstName": "Xazavian",
 "lastName": "Valladay",
 "displayName": "Xazavian Valladay",
@@ -5296,7 +4711,7 @@
 "athlete": {
 "id": "4360230",
 "uid": "s:20~l:23~a:4360230",
-"guid": "c187033f37ed1d05ac2d7379985fb6eb",
+"guid": "c187033f-37ed-1d05-ac2d-7379985fb6eb",
 "firstName": "Emory",
 "lastName": "Jones",
 "displayName": "Emory Jones",
@@ -5460,7 +4875,7 @@
 "athlete": {
 "id": "4582724",
 "uid": "s:20~l:23~a:4582724",
-"guid": "650531f9dd02c5157759290a77af9b9f",
+"guid": "650531f9-dd02-c515-7759-290a77af9b9f",
 "firstName": "Charles",
 "lastName": "Hall IV",
 "displayName": "Charles Hall IV",
@@ -5675,7 +5090,7 @@
 "athlete": {
 "id": "4362770",
 "uid": "s:20~l:23~a:4362770",
-"guid": "6941415dec8678be131f1cae99b51b70",
+"guid": "6941415d-ec86-78be-131f-1cae99b51b70",
 "firstName": "Messiah",
 "lastName": "Swinson",
 "displayName": "Messiah Swinson",
@@ -5839,7 +5254,7 @@
 "athlete": {
 "id": "4576788",
 "uid": "s:20~l:23~a:4576788",
-"guid": "852fcd453915da1f90a9104352572b66",
+"guid": "852fcd45-3915-da1f-90a9-104352572b66",
 "firstName": "Andre",
 "lastName": "Johnson",
 "displayName": "Andre Johnson",
@@ -6003,7 +5418,7 @@
 "athlete": {
 "id": "4243261",
 "uid": "s:20~l:23~a:4243261",
-"guid": "9c0f69679aed9ac766614c75e1ea9109",
+"guid": "9c0f6967-9aed-9ac7-6661-4c75e1ea9109",
 "firstName": "Bryan",
 "lastName": "Thompson",
 "displayName": "Bryan Thompson",
@@ -6210,7 +5625,7 @@
 "athlete": {
 "id": "4360230",
 "uid": "s:20~l:23~a:4360230",
-"guid": "c187033f37ed1d05ac2d7379985fb6eb",
+"guid": "c187033f-37ed-1d05-ac2d-7379985fb6eb",
 "firstName": "Emory",
 "lastName": "Jones",
 "displayName": "Emory Jones",
@@ -6328,7 +5743,7 @@
 "athlete": {
 "id": "4360440",
 "uid": "s:20~l:23~a:4360440",
-"guid": "ae8d0374174deea3666af1b6b5b08249",
+"guid": "ae8d0374-174d-eea3-666a-f1b6b5b08249",
 "firstName": "Merlin",
 "lastName": "Robertson",
 "displayName": "Merlin Robertson",
@@ -6496,7 +5911,7 @@
 "athlete": {
 "id": "4242885",
 "uid": "s:20~l:23~a:4242885",
-"guid": "c5660f6045092b4e727dc4a597df1bf2",
+"guid": "c5660f60-4509-2b4e-727d-c4a597df1bf2",
 "firstName": "Kyle",
 "lastName": "Soelle",
 "displayName": "Kyle Soelle",
@@ -6580,7 +5995,7 @@
 "athlete": {
 "id": "4362640",
 "uid": "s:20~l:23~a:4362640",
-"guid": "a9ad57d02adcbca3adff91d8150e160c",
+"guid": "a9ad57d0-2adc-bca3-adff-91d8150e160c",
 "firstName": "Travez",
 "lastName": "Moore",
 "displayName": "Travez Moore",
@@ -6832,7 +6247,7 @@
 "athlete": {
 "id": "4373935",
 "uid": "s:20~l:23~a:4373935",
-"guid": "cb922ad3e6c77beb7a4c822ddb0d26e3",
+"guid": "cb922ad3-e6c7-7beb-7a4c-822ddb0d26e3",
 "firstName": "Khoury",
 "lastName": "Bethley",
 "displayName": "Khoury Bethley",
@@ -6916,7 +6331,7 @@
 "athlete": {
 "id": "4428543",
 "uid": "s:20~l:23~a:4428543",
-"guid": "0ea7782211c1920439c499045ea34634",
+"guid": "0ea77822-11c1-9204-39c4-99045ea34634",
 "firstName": "Connor",
 "lastName": "Soelle",
 "displayName": "Connor Soelle",
@@ -7000,7 +6415,7 @@
 "athlete": {
 "id": "4362497",
 "uid": "s:20~l:23~a:4362497",
-"guid": "d5ab4da3032b78e70dd3885ab502d04b",
+"guid": "d5ab4da3-032b-78e7-0dd3-885ab502d04b",
 "firstName": "Nesta Jade",
 "lastName": "Silvera",
 "displayName": "Nesta Jade Silvera",
@@ -7084,7 +6499,7 @@
 "athlete": {
 "id": "4426967",
 "uid": "s:20~l:23~a:4426967",
-"guid": "3e31f0ee9df9431e06ec9cebf5cfd084",
+"guid": "3e31f0ee-9df9-431e-06ec-9cebf5cfd084",
 "firstName": "Anthonie",
 "lastName": "Cooper",
 "displayName": "Anthonie Cooper",
@@ -7168,7 +6583,7 @@
 "athlete": {
 "id": "4569197",
 "uid": "s:20~l:23~a:4569197",
-"guid": "9e4376ae8c8b4fa5a83d6c34deaa4535",
+"guid": "9e4376ae-8c8b-4fa5-a83d-6c34deaa4535",
 "firstName": "Tautala",
 "lastName": "Pesefea Jr.",
 "displayName": "Tautala Pesefea Jr.",
@@ -7252,7 +6667,7 @@
 "athlete": {
 "id": "4572922",
 "uid": "s:20~l:23~a:4572922",
-"guid": "61d8777f0699205291bc769c6138eac7",
+"guid": "61d8777f-0699-2052-91bc-769c6138eac7",
 "firstName": "Chris",
 "lastName": "Edmonds",
 "displayName": "Chris Edmonds",
@@ -7420,7 +6835,7 @@
 "athlete": {
 "id": "4430075",
 "uid": "s:20~l:23~a:4430075",
-"guid": "ae53924d5878a9cd455dbf8472f19827",
+"guid": "ae53924d-5878-a9cd-455d-bf8472f19827",
 "firstName": "Kejuan",
 "lastName": "Markham",
 "displayName": "Kejuan Markham",
@@ -7504,7 +6919,7 @@
 "athlete": {
 "id": "4427886",
 "uid": "s:20~l:23~a:4427886",
-"guid": "6055f3af3391fcbc609db191ad34b467",
+"guid": "6055f3af-3391-fcbc-609d-b191ad34b467",
 "firstName": "Keon",
 "lastName": "Markham",
 "displayName": "Keon Markham",
@@ -7672,7 +7087,7 @@
 "athlete": {
 "id": "4575542",
 "uid": "s:20~l:23~a:4575542",
-"guid": "e3287c6d82b29b7e9cb5bdc4878dccd5",
+"guid": "e3287c6d-82b2-9b7e-9cb5-bdc4878dccd5",
 "firstName": "Dylan",
 "lastName": "Hall",
 "displayName": "Dylan Hall",
@@ -7840,7 +7255,7 @@
 "athlete": {
 "id": "4569190",
 "uid": "s:20~l:23~a:4569190",
-"guid": "81d850a95b6ca05bb4281ad0fc9c856d",
+"guid": "81d850a9-5b6c-a05b-b428-1ad0fc9c856d",
 "firstName": "Jacob",
 "lastName": "Jornadal",
 "displayName": "Jacob Jornadal",
@@ -7924,7 +7339,7 @@
 "athlete": {
 "id": "4574862",
 "uid": "s:20~l:23~a:4574862",
-"guid": "26f54e4b1b97b38c88cd71b59c0d117b",
+"guid": "26f54e4b-1b97-b38c-88cd-71b59c0d117b",
 "firstName": "Alphonso",
 "lastName": "Taylor",
 "displayName": "Alphonso Taylor",
@@ -8290,7 +7705,7 @@
 "athlete": {
 "id": "4572922",
 "uid": "s:20~l:23~a:4572922",
-"guid": "61d8777f0699205291bc769c6138eac7",
+"guid": "61d8777f-0699-2052-91bc-769c6138eac7",
 "firstName": "Chris",
 "lastName": "Edmonds",
 "displayName": "Chris Edmonds",
@@ -8370,7 +7785,7 @@
 "athlete": {
 "id": "4242885",
 "uid": "s:20~l:23~a:4242885",
-"guid": "c5660f6045092b4e727dc4a597df1bf2",
+"guid": "c5660f60-4509-2b4e-727d-c4a597df1bf2",
 "firstName": "Kyle",
 "lastName": "Soelle",
 "displayName": "Kyle Soelle",
@@ -9009,8 +8424,519 @@
 }
 ]
 },
-"homeTeamSpread": 25.5,
+"format": {
+"regulation": {
+"periods": 4,
+"displayName": "Quarter",
+"slug": "quarter",
+"clock": 900.0
+},
+"overtime": {
+"periods": 0,
+"displayName": "untimed",
+"slug": "untimed"
+}
+},
+"gameInfo": {
+"venue": {
+"id": "3947",
+"fullName": "Sun Devil Stadium",
+"address": {
+"city": "Tempe",
+"state": "AZ",
+"zipCode": "85287"
+},
+"capacity": 53599,
+"grass": true,
+"images": [
+{
+"href": "https://a.espncdn.com/i/venues/college-football/day/3947.jpg",
+"width": 2000,
+"height": 1125,
+"alt": "",
+"rel": [
+"full",
+"day"
+]
+},
+{
+"href": "https://a.espncdn.com/i/venues/college-football/day/interior/3947.jpg",
+"width": 2000,
+"height": 1125,
+"alt": "",
+"rel": [
+"full",
+"day",
+"interior"
+]
+}
+]
+},
+"attendance": 44764
+},
+"drives": {},
+"leaders": [
+{
+"team": {
+"id": "9",
+"uid": "s:20~l:23~t:9",
+"displayName": "Arizona State Sun Devils",
+"abbreviation": "ASU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"leaders": [
+{
+"name": "passingYards",
+"displayName": "Passing Yards",
+"leaders": [
+{
+"displayValue": "13-18, 152 YDS",
+"athlete": {
+"id": "4360230",
+"uid": "s:20~l:23~a:4360230",
+"guid": "c187033f-37ed-1d05-ac2d-7379985fb6eb",
+"lastName": "Jones",
+"fullName": "Emory Jones",
+"displayName": "Emory Jones",
+"shortName": "E. Jones",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4360230/emory-jones",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4360230.png",
+"alt": "Emory Jones"
+},
+"jersey": "5",
+"position": {
+"abbreviation": "QB"
+}
+}
+}
+]
+},
+{
+"name": "rushingYards",
+"displayName": "Rushing Yards",
+"leaders": [
+{
+"displayValue": "15 CAR, 116 YDS, 2 TD",
+"athlete": {
+"id": "4240350",
+"uid": "s:20~l:23~a:4240350",
+"guid": "e4061722-7b80-c6ec-1ce7-384bfa387ae5",
+"lastName": "Valladay",
+"fullName": "Xazavian Valladay",
+"displayName": "Xazavian Valladay",
+"shortName": "X. Valladay",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4240350/xazavian-valladay",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4240350.png",
+"alt": "Xazavian Valladay"
+},
+"jersey": "25",
+"position": {
+"abbreviation": "RB"
+}
+}
+}
+]
+},
+{
+"name": "receivingYards",
+"displayName": "Receiving Yards",
+"leaders": [
+{
+"displayValue": "3 REC, 50 YDS",
+"athlete": {
+"id": "4362770",
+"uid": "s:20~l:23~a:4362770",
+"guid": "6941415d-ec86-78be-131f-1cae99b51b70",
+"lastName": "Swinson",
+"fullName": "Messiah Swinson",
+"displayName": "Messiah Swinson",
+"shortName": "M. Swinson",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4362770/messiah-swinson",
+"text": "Player Card"
+}
+],
+"headshot": {
+"href": "https://a.espncdn.com/i/headshots/college-football/players/full/4362770.png",
+"alt": "Messiah Swinson"
+},
+"jersey": "80",
+"position": {
+"abbreviation": "TE"
+}
+}
+}
+]
+}
+]
+},
+{
+"team": {
+"id": "2464",
+"uid": "s:20~l:23~t:2464",
+"displayName": "Northern Arizona Lumberjacks",
+"abbreviation": "NAU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2464/northern-arizona-lumberjacks",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2464",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-12-08T23:27Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2464.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-12-08T23:20Z"
+}
+]
+},
+"leaders": [
+{
+"name": "passingYards",
+"displayName": "Passing Yards",
+"leaders": [
+{
+"displayValue": "18-28, 92 YDS, 2 INT",
+"athlete": {
+"id": "4876244",
+"uid": "s:20~l:23~a:4876244",
+"guid": "6a74077f-cbbb-3fb0-837f-bbaeffb0e226",
+"lastName": "Martinez",
+"fullName": "RJ Martinez",
+"displayName": "RJ Martinez",
+"shortName": "R. Martinez",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4876244/rj-martinez",
+"text": "Player Card"
+}
+],
+"jersey": "15",
+"position": {
+"abbreviation": "QB"
+}
+}
+}
+]
+},
+{
+"name": "rushingYards",
+"displayName": "Rushing Yards",
+"leaders": [
+{
+"displayValue": "2 CAR, 14 YDS",
+"athlete": {
+"id": "4731633",
+"uid": "s:20~l:23~a:4731633",
+"guid": "2aaeb8c2-362d-3ac9-9137-a5d7c16188c1",
+"lastName": "Hall",
+"fullName": "Draycen Hall",
+"displayName": "Draycen Hall",
+"shortName": "D. Hall",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4731633/draycen-hall",
+"text": "Player Card"
+}
+],
+"jersey": "8",
+"position": {
+"abbreviation": "RB"
+}
+}
+}
+]
+},
+{
+"name": "receivingYards",
+"displayName": "Receiving Yards",
+"leaders": [
+{
+"displayValue": "5 REC, 24 YDS",
+"athlete": {
+"id": "4578436",
+"uid": "s:20~l:23~a:4578436",
+"guid": "b6ab93fe-8800-dece-92d1-893a0c050bcc",
+"lastName": "Owen",
+"fullName": "Coleman Owen",
+"displayName": "Coleman Owen",
+"shortName": "C. Owen",
+"links": [
+{
+"rel": [
+"playercard",
+"desktop",
+"athlete"
+],
+"href": "http://www.espn.com/college-football/player/_/id/4578436/coleman-owen",
+"text": "Player Card"
+}
+],
+"jersey": "6",
+"position": {
+"abbreviation": "WR"
+}
+}
+}
+]
+}
+]
+}
+],
+"broadcasts": [],
+"predictor": {
+"header": "Matchup Predictor",
+"homeTeam": {
+"id": "9",
+"gameProjection": "97.7",
+"teamChanceLoss": "2.3"
+},
+"awayTeam": {
+"id": "2464",
+"gameProjection": "2.3",
+"teamChanceLoss": "97.7"
+}
+},
+"pickcenter": [
+{
+"provider": {
+"id": "45",
+"name": "Caesars Sportsbook (New Jersey)",
+"priority": 1
+},
+"details": "ASU -25.5",
+"overUnder": 52.0,
+"spread": -25.5,
+"awayTeamOdds": {
+"favorite": false,
+"underdog": true,
+"moneyLine": 1550,
+"spreadOdds": -110.0,
+"teamId": "2464"
+},
+"homeTeamOdds": {
+"favorite": true,
+"underdog": false,
+"moneyLine": -4500,
+"spreadOdds": -110.0,
+"teamId": "9"
+},
+"links": []
+},
+{
+"provider": {
+"id": "1004",
+"name": "consensus",
+"priority": 0
+},
+"details": "ASU -25.5",
 "overUnder": 52.5,
+"spread": -25.5,
+"awayTeamOdds": {
+"winPercentage": 33.0,
+"favorite": false,
+"underdog": true,
+"moneyLine": 1638,
+"spreadOdds": -111.0,
+"teamId": "2464"
+},
+"homeTeamOdds": {
+"winPercentage": 67.0,
+"favorite": true,
+"underdog": false,
+"moneyLine": -7660,
+"spreadOdds": -110.0,
+"teamId": "9"
+},
+"links": []
+}
+],
+"againstTheSpread": [
+{
+"team": {
+"id": "2464",
+"uid": "s:20~l:23~t:2464",
+"displayName": "Northern Arizona Lumberjacks",
+"abbreviation": "NAU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2464/northern-arizona-lumberjacks",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2464",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-12-08T23:27Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2464.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-12-08T23:20Z"
+}
+]
+},
+"records": []
+},
+{
+"team": {
+"id": "9",
+"uid": "s:20~l:23~t:9",
+"displayName": "Arizona State Sun Devils",
+"abbreviation": "ASU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"records": []
+}
+],
+"odds": [],
+"winprobability": [],
 "header": {
 "id": "401403965",
 "uid": "s:20~l:23~e:401403965",
@@ -9234,99 +9160,7 @@
 "lang": "en",
 "region": "us"
 }
-],
-"home": {
-"id": "9",
-"uid": "s:20~l:23~t:9",
-"location": "Arizona State",
-"name": "Sun Devils",
-"nickname": "Arizona St",
-"abbreviation": "ASU",
-"displayName": "Arizona State Sun Devils",
-"color": "942139",
-"alternateColor": "f1f2f3",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-],
-"links": [
-{
-"rel": [
-"clubhouse",
-"desktop",
-"team"
-],
-"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
-"text": "Clubhouse"
-}
 ]
-},
-"away": {
-"id": "2464",
-"uid": "s:20~l:23~t:2464",
-"location": "Northern Arizona",
-"name": "Lumberjacks",
-"nickname": "N Arizona",
-"abbreviation": "NAU",
-"displayName": "Northern Arizona Lumberjacks",
-"color": "003976",
-"alternateColor": "1b3069",
-"logos": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2022-12-08T23:27Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2464.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2022-12-08T23:20Z"
-}
-],
-"links": [
-{
-"rel": [
-"clubhouse",
-"desktop",
-"team"
-],
-"href": "https://www.espn.com/college-football/team/_/id/2464/northern-arizona-lumberjacks",
-"text": "Clubhouse"
-}
-]
-}
 }
 ],
 "links": [
@@ -9503,7 +9337,584 @@
 ]
 }
 },
-"broadcasts": [],
+"scoringPlays": [
+{
+"id": "401403965101917801",
+"type": {
+"id": "59",
+"text": "Field Goal Good",
+"abbreviation": "FG"
+},
+"text": "Carter Brown 27 Yd Field Goal  ",
+"awayScore": 0,
+"homeScore": 3,
+"period": {
+"number": 1
+},
+"clock": {
+"value": 501.0,
+"displayValue": "8:21"
+},
+"team": {
+"id": "9",
+"uid": "s:20~l:23~t:9",
+"displayName": "Arizona State Sun Devils",
+"abbreviation": "ASU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "field-goal",
+"displayName": "Field Goal",
+"abbreviation": "FG"
+}
+},
+{
+"id": "401403965102919401",
+"type": {
+"id": "68",
+"text": "Rushing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Emory Jones 1 Yd Run (Carter Brown Kick)",
+"awayScore": 0,
+"homeScore": 10,
+"period": {
+"number": 2
+},
+"clock": {
+"value": 485.0,
+"displayValue": "8:05"
+},
+"team": {
+"id": "9",
+"uid": "s:20~l:23~t:9",
+"displayName": "Arizona State Sun Devils",
+"abbreviation": "ASU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401403965102965501",
+"type": {
+"id": "68",
+"text": "Rushing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Xazavian Valladay 4 Yd Run (Carter Brown Kick)",
+"awayScore": 0,
+"homeScore": 17,
+"period": {
+"number": 2
+},
+"clock": {
+"value": 224.0,
+"displayValue": "3:44"
+},
+"team": {
+"id": "9",
+"uid": "s:20~l:23~t:9",
+"displayName": "Arizona State Sun Devils",
+"abbreviation": "ASU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401403965102978001",
+"type": {
+"id": "68",
+"text": "Rushing Touchdown",
+"abbreviation": "TD"
+},
+"text": "E. Jones run for 17 yds for a TD, (C. Brown KICK)",
+"awayScore": 0,
+"homeScore": 24,
+"period": {
+"number": 2
+},
+"clock": {
+"value": 139.0,
+"displayValue": "2:19"
+},
+"team": {
+"id": "9",
+"uid": "s:20~l:23~t:9",
+"displayName": "Arizona State Sun Devils",
+"abbreviation": "ASU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401403965102999401",
+"type": {
+"id": "59",
+"text": "Field Goal Good",
+"abbreviation": "FG"
+},
+"text": "Collin Robbins 48 Yd Field Goal ",
+"awayScore": 3,
+"homeScore": 24,
+"period": {
+"number": 2
+},
+"clock": {
+"value": 5.0,
+"displayValue": "0:05"
+},
+"team": {
+"id": "2464",
+"uid": "s:20~l:23~t:2464",
+"displayName": "Northern Arizona Lumberjacks",
+"abbreviation": "NAU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/2464/northern-arizona-lumberjacks",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/2464",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-12-08T23:27Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2464.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-12-08T23:20Z"
+}
+]
+},
+"scoringType": {
+"name": "field-goal",
+"displayName": "Field Goal",
+"abbreviation": "FG"
+}
+},
+{
+"id": "401403965102999402",
+"type": {
+"id": "68",
+"text": "Rushing Touchdown",
+"abbreviation": "TD"
+},
+"text": "Xazavian Valladay 27 Yd Run (Carter Brown Kick)",
+"awayScore": 3,
+"homeScore": 31,
+"period": {
+"number": 3
+},
+"clock": {
+"value": 752.0,
+"displayValue": "12:32"
+},
+"team": {
+"id": "9",
+"uid": "s:20~l:23~t:9",
+"displayName": "Arizona State Sun Devils",
+"abbreviation": "ASU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "touchdown",
+"displayName": "Touchdown",
+"abbreviation": "TD"
+}
+},
+{
+"id": "401403965102999403",
+"type": {
+"id": "59",
+"text": "Field Goal Good",
+"abbreviation": "FG"
+},
+"text": "Carter Brown 36 Yd Field Goal ",
+"awayScore": 3,
+"homeScore": 34,
+"period": {
+"number": 3
+},
+"clock": {
+"value": 582.0,
+"displayValue": "9:42"
+},
+"team": {
+"id": "9",
+"uid": "s:20~l:23~t:9",
+"displayName": "Arizona State Sun Devils",
+"abbreviation": "ASU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "field-goal",
+"displayName": "Field Goal",
+"abbreviation": "FG"
+}
+},
+{
+"id": "401403965102999404",
+"type": {
+"id": "59",
+"text": "Field Goal Good",
+"abbreviation": "FG"
+},
+"text": "Carter Brown 44 Yd Field Goal ",
+"awayScore": 3,
+"homeScore": 37,
+"period": {
+"number": 3
+},
+"clock": {
+"value": 17.0,
+"displayValue": "0:17"
+},
+"team": {
+"id": "9",
+"uid": "s:20~l:23~t:9",
+"displayName": "Arizona State Sun Devils",
+"abbreviation": "ASU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "field-goal",
+"displayName": "Field Goal",
+"abbreviation": "FG"
+}
+},
+{
+"id": "401403965102999405",
+"type": {
+"id": "59",
+"text": "Field Goal Good",
+"abbreviation": "FG"
+},
+"text": "Carter Brown 44 Yd Field Goal ",
+"awayScore": 3,
+"homeScore": 40,
+"period": {
+"number": 4
+},
+"clock": {
+"value": 474.0,
+"displayValue": "7:54"
+},
+"team": {
+"id": "9",
+"uid": "s:20~l:23~t:9",
+"displayName": "Arizona State Sun Devils",
+"abbreviation": "ASU",
+"links": [
+{
+"href": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
+"text": "Clubhouse"
+},
+{
+"href": "http://www.espn.com/college-football/team/schedule/_/id/9",
+"text": "Schedule"
+}
+],
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+"scoringType": {
+"name": "field-goal",
+"displayName": "Field Goal",
+"abbreviation": "FG"
+}
+}
+],
 "videos": [
 {
 "source": "espn",
@@ -9981,10 +10392,10 @@
 "standings": {
 "entries": [
 {
-"team": "Sacramento State",
-"link": "https://www.espn.com/college-football/team/_/id/16/sacramento-state-hornets",
-"id": "16",
-"uid": "s:20~l:23~t:16",
+"team": "Cal Poly",
+"link": "https://www.espn.com/college-football/team/_/id/13/cal-poly-mustangs",
+"id": "13",
+"uid": "s:20~l:23~t:13",
 "stats": [
 {
 "id": "0",
@@ -9994,8 +10405,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "12-1",
-"displayValue": "12-1"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -10005,13 +10416,13 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "8-0",
-"displayValue": "8-0"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -10022,331 +10433,7 @@
 "lastUpdated": "2018-06-05T12:08Z"
 },
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/16.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-{
-"team": "Montana State",
-"link": "https://www.espn.com/college-football/team/_/id/147/montana-state-bobcats",
-"id": "147",
-"uid": "s:20~l:23~t:147",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "12-2",
-"displayValue": "12-2"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "8-0",
-"displayValue": "8-0"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-03-16T14:51Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/147.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-03-16T14:50Z"
-}
-]
-},
-{
-"team": "Weber State",
-"link": "https://www.espn.com/college-football/team/_/id/2692/weber-state-wildcats",
-"id": "2692",
-"uid": "s:20~l:23~t:2692",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "10-3",
-"displayValue": "10-3"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "6-2",
-"displayValue": "6-2"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2692.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-{
-"team": "Idaho",
-"link": "https://www.espn.com/college-football/team/_/id/70/idaho-vandals",
-"id": "70",
-"uid": "s:20~l:23~t:70",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "7-5",
-"displayValue": "7-5"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "6-2",
-"displayValue": "6-2"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2021-11-04T21:05Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/70.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2021-11-04T21:05Z"
-}
-]
-},
-{
-"team": "UC Davis",
-"link": "https://www.espn.com/college-football/team/_/id/302/uc-davis-aggies",
-"id": "302",
-"uid": "s:20~l:23~t:302",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "6-5",
-"displayValue": "6-5"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "5-3",
-"displayValue": "5-3"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2019-08-19T17:34Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/302.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2019-08-19T17:35Z"
-}
-]
-},
-{
-"team": "Montana",
-"link": "https://www.espn.com/college-football/team/_/id/149/montana-grizzlies",
-"id": "149",
-"uid": "s:20~l:23~t:149",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "8-5",
-"displayValue": "8-5"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "4-4",
-"displayValue": "4-4"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/149.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-{
-"team": "Portland State",
-"link": "https://www.espn.com/college-football/team/_/id/2502/portland-state-vikings",
-"id": "2502",
-"uid": "s:20~l:23~t:2502",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "4-7",
-"displayValue": "4-7"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "3-5",
-"displayValue": "3-5"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2502.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/13.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -10372,8 +10459,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "3-8",
-"displayValue": "3-8"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -10383,8 +10470,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "2-6",
-"displayValue": "2-6"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -10413,114 +10500,6 @@
 ]
 },
 {
-"team": "Northern Colorado",
-"link": "https://www.espn.com/college-football/team/_/id/2458/northern-colorado-bears",
-"id": "2458",
-"uid": "s:20~l:23~t:2458",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "3-8",
-"displayValue": "3-8"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "2-6",
-"displayValue": "2-6"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2458.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-{
-"team": "Northern Arizona",
-"link": "https://www.espn.com/college-football/team/_/id/2464/northern-arizona-lumberjacks",
-"id": "2464",
-"uid": "s:20~l:23~t:2464",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "3-8",
-"displayValue": "3-8"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "2-6",
-"displayValue": "2-6"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2022-12-08T23:27Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2464.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2022-12-08T23:20Z"
-}
-]
-},
-{
 "team": "Idaho State",
 "link": "https://www.espn.com/college-football/team/_/id/304/idaho-state-bengals",
 "id": "304",
@@ -10534,8 +10513,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "1-10",
-"displayValue": "1-10"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -10545,8 +10524,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "1-7",
-"displayValue": "1-7"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -10575,10 +10554,10 @@
 ]
 },
 {
-"team": "Cal Poly",
-"link": "https://www.espn.com/college-football/team/_/id/13/cal-poly-mustangs",
-"id": "13",
-"uid": "s:20~l:23~t:13",
+"team": "Idaho",
+"link": "https://www.espn.com/college-football/team/_/id/70/idaho-vandals",
+"id": "70",
+"uid": "s:20~l:23~t:70",
 "stats": [
 {
 "id": "0",
@@ -10588,8 +10567,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "2-9",
-"displayValue": "2-9"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -10599,13 +10578,67 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "1-7",
-"displayValue": "1-7"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2021-11-04T21:05Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/70.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2021-11-04T21:05Z"
+}
+]
+},
+{
+"team": "Montana",
+"link": "https://www.espn.com/college-football/team/_/id/149/montana-grizzlies",
+"id": "149",
+"uid": "s:20~l:23~t:149",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -10616,7 +10649,385 @@
 "lastUpdated": "2018-06-05T12:08Z"
 },
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/13.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/149.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
+"team": "Montana State",
+"link": "https://www.espn.com/college-football/team/_/id/147/montana-state-bobcats",
+"id": "147",
+"uid": "s:20~l:23~t:147",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-16T14:51Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/147.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-16T14:50Z"
+}
+]
+},
+{
+"team": "Northern Arizona",
+"link": "https://www.espn.com/college-football/team/_/id/2464/northern-arizona-lumberjacks",
+"id": "2464",
+"uid": "s:20~l:23~t:2464",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-12-08T23:27Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2464.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-12-08T23:20Z"
+}
+]
+},
+{
+"team": "Northern Colorado",
+"link": "https://www.espn.com/college-football/team/_/id/2458/northern-colorado-bears",
+"id": "2458",
+"uid": "s:20~l:23~t:2458",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2458.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
+"team": "Portland State",
+"link": "https://www.espn.com/college-football/team/_/id/2502/portland-state-vikings",
+"id": "2502",
+"uid": "s:20~l:23~t:2502",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2502.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2502.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
+"team": "Sacramento State",
+"link": "https://www.espn.com/college-football/team/_/id/16/sacramento-state-hornets",
+"id": "16",
+"uid": "s:20~l:23~t:16",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/16.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
+"team": "UC Davis",
+"link": "https://www.espn.com/college-football/team/_/id/302/uc-davis-aggies",
+"id": "302",
+"uid": "s:20~l:23~t:302",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2019-08-19T17:34Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/302.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2019-08-19T17:35Z"
+}
+]
+},
+{
+"team": "Weber State",
+"link": "https://www.espn.com/college-football/team/_/id/2692/weber-state-wildcats",
+"id": "2692",
+"uid": "s:20~l:23~t:2692",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2692.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -10630,16 +11041,16 @@
 }
 ]
 },
-"header": "2022 Big Sky Conference Standings"
+"header": "2023 Big Sky Conference Standings"
 },
 {
 "standings": {
 "entries": [
 {
-"team": "USC",
-"link": "https://www.espn.com/college-football/team/_/id/30/usc-trojans",
-"id": "30",
-"uid": "s:20~l:23~t:30",
+"team": "Arizona State",
+"link": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
+"id": "9",
+"uid": "s:20~l:23~t:9",
 "stats": [
 {
 "id": "0",
@@ -10649,8 +11060,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "11-3",
-"displayValue": "11-3"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -10660,175 +11071,13 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "8-1",
-"displayValue": "8-1"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-03-01T14:17Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/30.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-03-01T14:18Z"
-}
-]
-},
-{
-"team": "Washington",
-"link": "https://www.espn.com/college-football/team/_/id/264/washington-huskies",
-"id": "264",
-"uid": "s:20~l:23~t:264",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "11-2",
-"displayValue": "11-2"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "7-2",
-"displayValue": "7-2"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2019-07-12T19:04Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/264.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2019-07-12T19:04Z"
-}
-]
-},
-{
-"team": "Oregon",
-"link": "https://www.espn.com/college-football/team/_/id/2483/oregon-ducks",
-"id": "2483",
-"uid": "s:20~l:23~t:2483",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "10-3",
-"displayValue": "10-3"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "7-2",
-"displayValue": "7-2"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-10-09T13:27Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2483.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-10-08T21:21Z"
-}
-]
-},
-{
-"team": "Utah",
-"link": "https://www.espn.com/college-football/team/_/id/254/utah-utes",
-"id": "254",
-"uid": "s:20~l:23~t:254",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "10-4",
-"displayValue": "10-4"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "7-2",
-"displayValue": "7-2"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -10839,169 +11088,7 @@
 "lastUpdated": "2018-06-05T12:08Z"
 },
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/254.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-}
-]
-},
-{
-"team": "Oregon State",
-"link": "https://www.espn.com/college-football/team/_/id/204/oregon-state-beavers",
-"id": "204",
-"uid": "s:20~l:23~t:204",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "10-3",
-"displayValue": "10-3"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "6-3",
-"displayValue": "6-3"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-02-22T17:01Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/204.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-02-22T17:01Z"
-}
-]
-},
-{
-"team": "UCLA",
-"link": "https://www.espn.com/college-football/team/_/id/26/ucla-bruins",
-"id": "26",
-"uid": "s:20~l:23~t:26",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "9-4",
-"displayValue": "9-4"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "6-3",
-"displayValue": "6-3"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2023-02-17T21:15Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/26.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"dark"
-],
-"lastUpdated": "2023-02-17T21:14Z"
-}
-]
-},
-{
-"team": "Washington State",
-"link": "https://www.espn.com/college-football/team/_/id/265/washington-state-cougars",
-"id": "265",
-"uid": "s:20~l:23~t:265",
-"stats": [
-{
-"id": "0",
-"name": "overall",
-"abbreviation": "overall",
-"displayName": "Overall",
-"shortDisplayName": "OVER",
-"description": "Overall Record",
-"type": "total",
-"summary": "7-6",
-"displayValue": "7-6"
-},
-{
-"id": "9",
-"name": "vs. Conf.",
-"abbreviation": "CONF",
-"displayName": "vs. Conference",
-"shortDisplayName": "CONF",
-"description": "Conference Record",
-"type": "vsconf",
-"summary": "4-5",
-"displayValue": "4-5"
-}
-],
-"logo": [
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
-"width": 500,
-"height": 500,
-"alt": "",
-"rel": [
-"full",
-"default"
-],
-"lastUpdated": "2018-06-05T12:08Z"
-},
-{
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/265.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -11027,8 +11114,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "5-7",
-"displayValue": "5-7"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -11038,8 +11125,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "3-6",
-"displayValue": "3-6"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -11081,8 +11168,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "4-8",
-"displayValue": "4-8"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -11092,8 +11179,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "2-7",
-"displayValue": "2-7"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -11122,10 +11209,10 @@
 ]
 },
 {
-"team": "Arizona State",
-"link": "https://www.espn.com/college-football/team/_/id/9/arizona-state-sun-devils",
-"id": "9",
-"uid": "s:20~l:23~t:9",
+"team": "Colorado",
+"link": "https://www.espn.com/college-football/team/_/id/38/colorado-buffaloes",
+"id": "38",
+"uid": "s:20~l:23~t:38",
 "stats": [
 {
 "id": "0",
@@ -11135,8 +11222,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "3-9",
-"displayValue": "3-9"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -11146,13 +11233,13 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "2-7",
-"displayValue": "2-7"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -11163,7 +11250,7 @@
 "lastUpdated": "2018-06-05T12:08Z"
 },
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/38.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -11172,6 +11259,114 @@
 "dark"
 ],
 "lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
+"team": "Oregon",
+"link": "https://www.espn.com/college-football/team/_/id/2483/oregon-ducks",
+"id": "2483",
+"uid": "s:20~l:23~t:2483",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2483.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-10-09T13:27Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2483.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-10-08T21:21Z"
+}
+]
+},
+{
+"team": "Oregon State",
+"link": "https://www.espn.com/college-football/team/_/id/204/oregon-state-beavers",
+"id": "204",
+"uid": "s:20~l:23~t:204",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/204.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-02-22T17:01Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/204.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-02-22T17:01Z"
 }
 ]
 },
@@ -11189,8 +11384,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "3-9",
-"displayValue": "3-9"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -11200,8 +11395,8 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "1-8",
-"displayValue": "1-8"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
@@ -11230,10 +11425,10 @@
 ]
 },
 {
-"team": "Colorado",
-"link": "https://www.espn.com/college-football/team/_/id/38/colorado-buffaloes",
-"id": "38",
-"uid": "s:20~l:23~t:38",
+"team": "UCLA",
+"link": "https://www.espn.com/college-football/team/_/id/26/ucla-bruins",
+"id": "26",
+"uid": "s:20~l:23~t:26",
 "stats": [
 {
 "id": "0",
@@ -11243,8 +11438,8 @@
 "shortDisplayName": "OVER",
 "description": "Overall Record",
 "type": "total",
-"summary": "1-11",
-"displayValue": "1-11"
+"summary": "0-0",
+"displayValue": "0-0"
 },
 {
 "id": "9",
@@ -11254,13 +11449,121 @@
 "shortDisplayName": "CONF",
 "description": "Conference Record",
 "type": "vsconf",
-"summary": "1-8",
-"displayValue": "1-8"
+"summary": "0-0",
+"displayValue": "0-0"
 }
 ],
 "logo": [
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/26.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-02-17T21:15Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/26.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-02-17T21:14Z"
+}
+]
+},
+{
+"team": "USC",
+"link": "https://www.espn.com/college-football/team/_/id/30/usc-trojans",
+"id": "30",
+"uid": "s:20~l:23~t:30",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/30.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2023-03-01T14:17Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/30.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2023-03-01T14:18Z"
+}
+]
+},
+{
+"team": "Utah",
+"link": "https://www.espn.com/college-football/team/_/id/254/utah-utes",
+"id": "254",
+"uid": "s:20~l:23~t:254",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/254.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -11271,7 +11574,115 @@
 "lastUpdated": "2018-06-05T12:08Z"
 },
 {
-"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/38.png",
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/254.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+]
+},
+{
+"team": "Washington",
+"link": "https://www.espn.com/college-football/team/_/id/264/washington-huskies",
+"id": "264",
+"uid": "s:20~l:23~t:264",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2019-07-12T19:04Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/264.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2019-07-12T19:04Z"
+}
+]
+},
+{
+"team": "Washington State",
+"link": "https://www.espn.com/college-football/team/_/id/265/washington-state-cougars",
+"id": "265",
+"uid": "s:20~l:23~t:265",
+"stats": [
+{
+"id": "0",
+"name": "overall",
+"abbreviation": "overall",
+"displayName": "Overall",
+"shortDisplayName": "OVER",
+"description": "Overall Record",
+"type": "total",
+"summary": "0-0",
+"displayValue": "0-0"
+},
+{
+"id": "9",
+"name": "vs. Conf.",
+"abbreviation": "CONF",
+"displayName": "vs. Conference",
+"shortDisplayName": "CONF",
+"description": "Conference Record",
+"type": "vsconf",
+"summary": "0-0",
+"displayValue": "0-0"
+}
+],
+"logo": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/265.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/265.png",
 "width": 500,
 "height": 500,
 "alt": "",
@@ -11285,104 +11696,8 @@
 }
 ]
 },
-"header": "2022 Pac-12 Conference Standings"
+"header": "2023 Pac-12 Conference Standings"
 }
 ]
-},
-"pickcenter": [
-{
-"provider": {
-"id": "45",
-"name": "Caesars Sportsbook (New Jersey)",
-"priority": 1
-},
-"details": "ASU -25.5",
-"overUnder": 52.0,
-"spread": -25.5,
-"awayTeamOdds": {
-"favorite": false,
-"underdog": true,
-"moneyLine": 1550,
-"spreadOdds": -110.0,
-"teamId": "2464"
-},
-"homeTeamOdds": {
-"favorite": true,
-"underdog": false,
-"moneyLine": -4500,
-"spreadOdds": -110.0,
-"teamId": "9"
-},
-"links": []
-},
-{
-"provider": {
-"id": "1004",
-"name": "consensus",
-"priority": 0
-},
-"details": "ASU -25.5",
-"overUnder": 52.5,
-"spread": -25.5,
-"awayTeamOdds": {
-"winPercentage": 33.0,
-"favorite": false,
-"underdog": true,
-"moneyLine": 1638,
-"spreadOdds": -111.0,
-"teamId": "2464"
-},
-"homeTeamOdds": {
-"winPercentage": 67.0,
-"favorite": true,
-"underdog": false,
-"moneyLine": -7660,
-"spreadOdds": -110.0,
-"teamId": "9"
-},
-"links": []
-}
-],
-"espnWinProbability": [],
-"gameInfo": {
-"venue": {
-"id": "3947",
-"fullName": "Sun Devil Stadium",
-"address": {
-"city": "Tempe",
-"state": "AZ",
-"zipCode": "85287"
-},
-"capacity": 53599,
-"grass": true,
-"images": [
-{
-"href": "https://a.espncdn.com/i/venues/college-football/day/3947.jpg",
-"width": 2000,
-"height": 1125,
-"alt": "",
-"rel": [
-"full",
-"day"
-]
-},
-{
-"href": "https://a.espncdn.com/i/venues/college-football/day/interior/3947.jpg",
-"width": 2000,
-"height": 1125,
-"alt": "",
-"rel": [
-"full",
-"day",
-"interior"
-]
-}
-]
-},
-"attendance": 44764
-},
-"season": {
-"year": 2022,
-"type": 2
 }
 }

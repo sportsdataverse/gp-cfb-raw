@@ -1,0 +1,5 @@
+"team_id","pos_team","season","rusher_player_name","player_id","plays","games","playsgame","TEPA","EPAplay","EPAgame","yards","yardsplay","yardsgame","success","rushing_td","fumbles","TEPA_rank","EPAgame_rank","EPAplay_rank","success_rank","yards_rank","yardsplay_rank","yardsgame_rank"
+256,"James Madison",2014,"Alden Hill",532072,8,1,8,-0.411895795009679,-0.0514869743762099,-0.411895795009679,36,4.5,36,0.375,0,0,735,862,765,897.5,853,810.5,349.5
+256,"James Madison",2014,"John Miller",3120512,6,1,6,3.66067635124398,0.61011272520733,3.66067635124398,29,4.83333333333333,29,0.833333333333333,1,0,321,42,134,143.5,902.5,711,452
+256,"James Madison",2014,"Khalid Abdullah",549206,20,1,20,-1.79271731774819,-0.0896358658874096,-1.79271731774819,67,3.35,67,0.5,0,0,1007,1344,824,446,724.5,1083,121
+256,"James Madison",2014,"Vad Lee",517034,6,1,6,1.59570999611029,0.265951666018382,1.59570999611029,48,8,48,0.666666666666667,0,0,457,187,304,198.5,791.5,178,225

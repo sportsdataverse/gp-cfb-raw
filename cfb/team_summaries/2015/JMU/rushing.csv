@@ -1,0 +1,4 @@
+"team_id","pos_team","season","rusher_player_name","player_id","plays","games","playsgame","TEPA","EPAplay","EPAgame","yards","yardsplay","yardsgame","success","rushing_td","fumbles","TEPA_rank","EPAgame_rank","EPAplay_rank","success_rank","yards_rank","yardsplay_rank","yardsgame_rank"
+256,"James Madison",2015,"Cardon Johnson",549215,12,1,12,-1.08817945012132,-0.090681620843443,-1.08817945012132,70,5.83333333333333,70,0.416666666666667,1,0,937,1215,883,749,729.5,483.5,115
+256,"James Madison",2015,"Khalid Abdullah",549206,18,1,18,-7.23392516600933,-0.401884731444963,-7.23392516600933,72,4,72,0.277777777777778,0,0,1396,1590,1232,1165.5,722.5,969.5,107
+256,"James Madison",2015,"Vad Lee",517034,20,1,20,16.6660198579827,0.833300992899134,16.6660198579827,276,13.8,276,0.65,2,0,95,1,126,229,356,58.5,1

@@ -1,0 +1,4 @@
+"team_id","pos_team","season","receiver_player_name","player_id","plays","games","playsgame","TEPA","EPAplay","EPAgame","yards","yardsplay","yardsgame","success","comp","targets","catchpct","passing_td","fumbles","TEPA_rank","EPAgame_rank","EPAplay_rank","success_rank","catchpct_rank","yards_rank","yardsplay_rank","yardsgame_rank"
+256,"James Madison",2014,"Brandon Ravenel",549217,5,1,5,-0.668275048819355,-0.133655009763871,-0.668275048819355,31,6.2,31,0.4,4,5,0.8,0,1,1555,1761,1546,1388.5,605,1371.5,1229,432.5
+256,"James Madison",2014,"N/A",NA,6,1,6,-6.46278490552236,-1.07713081758706,-6.46278490552236,0,0,0,0,0,6,0,0,0,2090,2200,2066,2006,2083,2033,2033,2033
+256,"James Madison",2014,"Sean Tapley",500905,7,1,7,1.41708243617542,0.20244034802506,1.41708243617542,62,8.85714285714286,62,0.428571428571429,3,7,0.428571428571429,0,0,1165,605,1136,1303.5,1859.5,1114.5,550,86.5

@@ -1,0 +1,4 @@
+"team_id","pos_team","season","receiver_player_name","player_id","plays","games","playsgame","TEPA","EPAplay","EPAgame","yards","yardsplay","yardsgame","success","comp","targets","catchpct","passing_td","fumbles","TEPA_rank","EPAgame_rank","EPAplay_rank","success_rank","catchpct_rank","yards_rank","yardsplay_rank","yardsgame_rank"
+256,"James Madison",2018,"David Eldridge",3917921,5,1,5,-1.29060738280314,-0.258121476560629,-1.29060738280314,25,5,25,0.6,3,5,0.6,0,0,1882,2126,1769,598,1642.5,1496.5,1591,627
+256,"James Madison",2018,"Josh Sims",4249603,6,1,6,1.22877138960947,0.204795231601579,1.22877138960947,32,5.33333333333333,32,0.5,4,6,0.666666666666667,0,0,1251,769,1247,1067,1354,1422,1526.5,440.5
+256,"James Madison",2018,"Riley Stapleton",3912198,10,1,10,6.34362270323667,0.634362270323667,6.34362270323667,88,8.8,88,0.8,9,10,0.9,1,0,732,18,558,252,531.5,970.5,729.5,25

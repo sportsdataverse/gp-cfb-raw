@@ -1,0 +1,5 @@
+"team_id","pos_team","season","receiver_player_name","player_id","plays","games","playsgame","TEPA","EPAplay","EPAgame","yards","yardsplay","yardsgame","success","comp","targets","catchpct","passing_td","fumbles","TEPA_rank","EPAgame_rank","EPAplay_rank","success_rank","catchpct_rank","yards_rank","yardsplay_rank","yardsgame_rank"
+256,"James Madison",2016,"Brandon Ravenel",549217,6,1,6,-0.352057537912257,-0.0586762563187094,-0.352057537912257,17,2.83333333333333,17,0.333333333333333,2,6,0.333333333333333,0,0,1540,1670,1533,1631.5,1957,1566,1815,925.5
+256,"James Madison",2016,"Domo Taylor",4028728,10,1,10,4.65874376682808,0.465874376682808,4.65874376682808,66,6.6,66,0.6,6,10,0.6,0,0,786,59,756,551.5,1529,1069.5,1175,89
+256,"James Madison",2016,"Rashard Davis",549210,4,1,4,2.06297877532103,0.515744693830258,2.06297877532103,32,8,32,0.5,3,4,0.75,0,0,1095,398,678,1016,840,1350,838.5,425.5
+256,"James Madison",2016,"Terrence Alls",548044,4,1,4,2.25940039614958,0.564850099037396,2.25940039614958,23,5.75,23,0.75,3,4,0.75,0,0,1069,352,597,286,840,1475,1378.5,676
