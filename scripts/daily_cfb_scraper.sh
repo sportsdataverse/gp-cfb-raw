@@ -13,8 +13,8 @@ do
     git config --local user.email "action@github.com"
     git config --local user.name "Github Action"
     git pull
-    python3 python/scrape_cfb_schedules.py -s $i -e $i -r $RESCRAPE
-    python3 python/scrape_cfb_json.py -s $i -e $i -r $RESCRAPE
+    python python/scrape_cfb_schedules.py -s $i -e $i -r $RESCRAPE
+    python python/scrape_cfb_json.py -s $i -e $i -r $RESCRAPE
     git pull
     git add .
     git pull  >> /dev/null

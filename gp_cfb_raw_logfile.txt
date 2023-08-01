@@ -1,8 +1,0 @@
-INFO:__main__:Scraping CFB PBP for 2022...
-INFO:__main__:Number of Games: 896
-INFO:__main__:401403965: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:401415610: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:401413256: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
