@@ -27,7 +27,7 @@ final_file_name = "cfb/cfb_schedule_master.parquet"
 github_url_prefix = "https://raw.githubusercontent.com/sportsdataverse/gp-cfb-raw/main/"
 run_processing = True
 rescrape_all = False
-MAX_THREADS = 30
+MAX_THREADS = 10
 
 
 def download_game_pbps(games, process, path_to_final):
