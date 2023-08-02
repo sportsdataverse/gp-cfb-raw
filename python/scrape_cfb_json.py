@@ -315,7 +315,9 @@ def postprocessing(game_id):
 
     year = pbp["header"]["season"]["year"]
     gei = calculateGEI(jsonified_df, homeTeamId)
-    percentiles = pd.read_csv(f"cfb/team_summaries/{year}/percentiles.csv").to_dict(orient="records")
+    percentiles = (
+        pd.read_csv(f"cfb/team_summaries/{year}/percentiles.csv").to_dict(orient="records") if year > 2013 else []
+    )
     return {
         "id": game_id,
         "count": len(jsonified_df),
