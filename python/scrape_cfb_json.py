@@ -105,7 +105,11 @@ def postprocessing(game_id):
     if pbp.get("header").get("competitions")[0].get("playByPlaySource") == "none":
         logger.info(f"{game_id}: No plays found\n{[(k,type(v)) for k,v in pbp.items()]}")
         return pbp
-    processed_data.run_processing_pipeline()
+    try:
+        processed_data.run_processing_pipeline()
+    except Exception:
+        print(f"{game_id} - SchemaError:\n {traceback.format_exc()}")
+
     pbp = processed_data.json
 
     jsonified_df = pl.DataFrame(pbp.get("plays", []), infer_schema_length=400).to_dicts()
