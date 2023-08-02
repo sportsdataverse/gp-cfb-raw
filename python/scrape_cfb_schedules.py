@@ -63,7 +63,7 @@ def main():
     start_year = max(args.start_year, 2002)
     end_year = start_year if args.end_year is None else args.end_year
     years_arr = range(start_year, end_year + 1)
-
+    print(f"Rescrape Schedule? {args.rescrape}")
     if args.rescrape == True:
         t0 = time.time()
         download_game_schedules(years_arr, path_to_schedules)
@@ -77,8 +77,8 @@ def main():
     ]
     glued_data = pd.DataFrame()
     for index, js in enumerate(parquet_files):
-        x = pd.read_parquet(f"{path_to_schedules}/parquet/{js}.parquet", engine="auto", columns=None)
-        glued_data = pd.concat([glued_data, x], axis=0)
+        x = pd.read_csv(f"{path_to_schedules}/csv/{js}.csv")
+        glued_data = pd.concat([glued_data, x], axis=0, ignore_index=True)
     glued_data["status_display_clock"] = glued_data["status_display_clock"].astype(str)
     glued_data.to_parquet(final_file_name, index=False)
     gc.collect()
@@ -92,7 +92,7 @@ if __name__ == "__main__":
         "--rescrape",
         "-r",
         default=True,
-        action="store_false",
+        action="store_true",
         help="Rescrape all games in the schedule period",
     )
     args = parser.parse_args()
