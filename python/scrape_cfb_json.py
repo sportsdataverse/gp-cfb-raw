@@ -15,7 +15,7 @@ import polars as pl
 import pyreadr
 from sportsdataverse.cfb.cfb_pbp import CFBPlayProcess
 
-logging.basicConfig(level=logging.INFO, filename="gp_cfb_raw_logfile.txt", filemode="w")
+logging.basicConfig(level=logging.DEBUG, filename="gp_cfb_raw_logfile.txt", filemode="w")
 logger = logging.getLogger(__name__)
 np.set_printoptions(threshold=np.inf)
 pd.set_option("display.max_rows", 100)
