@@ -29,11 +29,11 @@ def download_game_schedules(seasons, path_to_schedules):
 
 def download_schedule(season, path_to_schedules=None):
     logger.info(f"Scraping CFB schedules for year {season}...")
-    df = sdv.cfb.espn_cfb_calendar(season, ondays=True)
+    df = sdv.cfb.espn_cfb_calendar(season, ondays=True, return_as_pandas=True)
     calendar = df["dateURL"].str.replace("-", "").str.replace("-", "")
     ev = pl.DataFrame()
     for d in calendar:
-        date_schedule = sdv.cfb.espn_cfb_schedule(dates=d)
+        date_schedule = sdv.cfb.espn_cfb_schedule(dates=d, groups="80", limit=300)
         if date_schedule is not None:
             if "away_records" in date_schedule.columns:
                 date_schedule = date_schedule.drop(["away_records"])
