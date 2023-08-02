@@ -1,0 +1,583 @@
+{
+"id": 400520954,
+"count": 0,
+"gei": 0.0,
+"mostImportantPlays": [],
+"bigPlays": [],
+"plays": [],
+"percentiles": [],
+"advBoxScore": null,
+"homeTeamId": "2655",
+"awayTeamId": "309",
+"scoringPlays": [],
+"winprobability": [],
+"boxScore": {
+"teams": [
+{
+"team": {
+"id": "309",
+"uid": "s:20~l:23~t:309",
+"slug": "louisiana-ragin-cajuns",
+"location": "Louisiana",
+"name": "Ragin' Cajuns",
+"abbreviation": "ULL",
+"displayName": "Louisiana Ragin' Cajuns",
+"shortDisplayName": "Ragin' Cajuns",
+"color": "ce2842",
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png"
+},
+"statistics": []
+},
+{
+"team": {
+"id": "2655",
+"uid": "s:20~l:23~t:2655",
+"slug": "tulane-green-wave",
+"location": "Tulane",
+"name": "Green Wave",
+"abbreviation": "TULN",
+"displayName": "Tulane Green Wave",
+"shortDisplayName": "Green Wave",
+"color": "005837",
+"alternateColor": "3baf29",
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png"
+},
+"statistics": []
+}
+],
+"players": [
+{
+"team": {
+"id": "309",
+"uid": "s:20~l:23~t:309",
+"slug": "louisiana-ragin-cajuns",
+"location": "Louisiana",
+"name": "Ragin' Cajuns",
+"abbreviation": "ULL",
+"displayName": "Louisiana Ragin' Cajuns",
+"shortDisplayName": "Ragin' Cajuns",
+"color": "ce2842",
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png"
+},
+"statistics": []
+},
+{
+"team": {
+"id": "2655",
+"uid": "s:20~l:23~t:2655",
+"slug": "tulane-green-wave",
+"location": "Tulane",
+"name": "Green Wave",
+"abbreviation": "TULN",
+"displayName": "Tulane Green Wave",
+"shortDisplayName": "Green Wave",
+"color": "005837",
+"alternateColor": "3baf29",
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png"
+},
+"statistics": []
+}
+]
+},
+"homeTeamSpread": 2.5,
+"overUnder": 55.0,
+"header": {
+"id": "400520954",
+"uid": "s:20~l:23~e:400520954",
+"season": {
+"year": 2013,
+"type": 3
+},
+"timeValid": true,
+"competitions": [
+{
+"id": "400520954",
+"uid": "s:20~l:23~e:400520954~c:400520954",
+"date": "2013-12-22T02:00Z",
+"neutralSite": false,
+"conferenceCompetition": false,
+"boxscoreAvailable": true,
+"commentaryAvailable": false,
+"liveAvailable": false,
+"onWatchESPN": false,
+"recent": false,
+"boxscoreSource": "full",
+"playByPlaySource": "full",
+"competitors": [
+{
+"id": "2655",
+"uid": "s:20~l:23~t:2655",
+"order": 0,
+"homeAway": "home",
+"winner": false,
+"team": {
+"id": "2655",
+"uid": "s:20~l:23~t:2655",
+"location": "Tulane",
+"name": "Green Wave",
+"nickname": "Tulane",
+"abbreviation": "TULN",
+"displayName": "Tulane Green Wave",
+"color": "005837",
+"alternateColor": "3baf29",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2655.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+],
+"links": [
+{
+"rel": [
+"clubhouse",
+"desktop",
+"team"
+],
+"href": "https://www.espn.com/college-football/team/_/id/2655/tulane-green-wave",
+"text": "Clubhouse"
+}
+]
+},
+"score": "21",
+"linescores": [
+{
+"displayValue": "0"
+},
+{
+"displayValue": "14"
+},
+{
+"displayValue": "7"
+},
+{
+"displayValue": "0"
+}
+],
+"record": [
+{
+"type": "total",
+"summary": "7-6",
+"displayValue": "7-6"
+},
+{
+"type": "vsconf",
+"summary": "5-3",
+"displayValue": "5-3"
+}
+],
+"possession": false
+},
+{
+"id": "309",
+"uid": "s:20~l:23~t:309",
+"order": 1,
+"homeAway": "away",
+"winner": true,
+"team": {
+"id": "309",
+"uid": "s:20~l:23~t:309",
+"location": "Louisiana",
+"name": "Ragin' Cajuns",
+"nickname": "Louisiana",
+"abbreviation": "ULL",
+"displayName": "Louisiana Ragin' Cajuns",
+"color": "ce2842",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2019-08-01T17:54Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/309.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2019-08-01T17:55Z"
+}
+],
+"links": [
+{
+"rel": [
+"clubhouse",
+"desktop",
+"team"
+],
+"href": "https://www.espn.com/college-football/team/_/id/309/louisiana-ragin-cajuns",
+"text": "Clubhouse"
+}
+]
+},
+"score": "24",
+"linescores": [
+{
+"displayValue": "14"
+},
+{
+"displayValue": "7"
+},
+{
+"displayValue": "0"
+},
+{
+"displayValue": "3"
+}
+],
+"record": [
+{
+"type": "total",
+"summary": "9-4",
+"displayValue": "9-4"
+},
+{
+"type": "vsconf",
+"summary": "5-2",
+"displayValue": "5-2"
+}
+],
+"possession": false
+}
+],
+"status": {
+"type": {
+"id": "3",
+"name": "STATUS_FINAL",
+"state": "post",
+"completed": true,
+"description": "Final",
+"detail": "Final",
+"shortDetail": "Final"
+}
+},
+"broadcasts": [],
+"home": {
+"id": "2655",
+"uid": "s:20~l:23~t:2655",
+"location": "Tulane",
+"name": "Green Wave",
+"nickname": "Tulane",
+"abbreviation": "TULN",
+"displayName": "Tulane Green Wave",
+"color": "005837",
+"alternateColor": "3baf29",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2655.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2655.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+],
+"links": [
+{
+"rel": [
+"clubhouse",
+"desktop",
+"team"
+],
+"href": "https://www.espn.com/college-football/team/_/id/2655/tulane-green-wave",
+"text": "Clubhouse"
+}
+]
+},
+"away": {
+"id": "309",
+"uid": "s:20~l:23~t:309",
+"location": "Louisiana",
+"name": "Ragin' Cajuns",
+"nickname": "Louisiana",
+"abbreviation": "ULL",
+"displayName": "Louisiana Ragin' Cajuns",
+"color": "ce2842",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/309.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2019-08-01T17:54Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/309.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2019-08-01T17:55Z"
+}
+],
+"links": [
+{
+"rel": [
+"clubhouse",
+"desktop",
+"team"
+],
+"href": "https://www.espn.com/college-football/team/_/id/309/louisiana-ragin-cajuns",
+"text": "Clubhouse"
+}
+]
+}
+}
+],
+"links": [
+{
+"rel": [
+"summary",
+"desktop",
+"event"
+],
+"href": "https://www.espn.com/college-football/game/_/gameId/400520954",
+"text": "Gamecast",
+"shortText": "Summary",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"boxscore",
+"desktop",
+"event"
+],
+"href": "https://www.espn.com/college-football/boxscore/_/gameId/400520954",
+"text": "Box Score",
+"shortText": "Box Score",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"pbp",
+"desktop",
+"event"
+],
+"href": "https://www.espn.com/college-football/playbyplay/_/gameId/400520954",
+"text": "Play-by-Play",
+"shortText": "Play-by-Play",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"teamstats",
+"desktop",
+"event"
+],
+"href": "https://www.espn.com/college-football/matchup?gameId=400520954",
+"text": "Team Stats",
+"shortText": "Team Stats",
+"isExternal": false,
+"isPremium": false
+}
+],
+"week": 1,
+"league": {
+"id": "23",
+"uid": "s:20~l:23",
+"name": "NCAA - Football",
+"abbreviation": "NCAAF",
+"midsizeName": "NCAA Football",
+"slug": "college-football",
+"isTournament": false,
+"links": [
+{
+"rel": [
+"index",
+"desktop",
+"league"
+],
+"href": "https://www.espn.com/college-football/",
+"text": "Index"
+},
+{
+"rel": [
+"index",
+"sportscenter",
+"app",
+"league"
+],
+"href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23",
+"text": "Index"
+},
+{
+"rel": [
+"schedule",
+"desktop",
+"league"
+],
+"href": "https://www.espn.com/college-football/schedule",
+"text": "Schedule"
+},
+{
+"rel": [
+"schedule",
+"sportscenter",
+"app",
+"league"
+],
+"href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+"text": "Schedule"
+},
+{
+"rel": [
+"standings",
+"desktop",
+"league"
+],
+"href": "http://www.espn.com/college-football/standings",
+"text": "Standings"
+},
+{
+"rel": [
+"standings",
+"sportscenter",
+"app",
+"league"
+],
+"href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=standings",
+"text": "Standings"
+},
+{
+"rel": [
+"rankings",
+"desktop",
+"league"
+],
+"href": "https://www.espn.com/college-football/rankings",
+"text": "Rankings"
+},
+{
+"rel": [
+"scores",
+"desktop",
+"league"
+],
+"href": "https://www.espn.com/college-football/scoreboard",
+"text": "Scores"
+},
+{
+"rel": [
+"scores",
+"sportscenter",
+"app",
+"league"
+],
+"href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+"text": "Scores"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"league"
+],
+"href": "http://www.espn.com/college-football/stats",
+"text": "Stats"
+},
+{
+"rel": [
+"teams",
+"desktop",
+"league"
+],
+"href": "http://www.espn.com/college-football/teams",
+"text": "Teams"
+},
+{
+"rel": [
+"injuries",
+"desktop",
+"league"
+],
+"href": "https://www.espn.com/college-football/injuries",
+"text": "Injuries"
+}
+]
+},
+"gameNote": "R+L CARRIERS NEW ORLEANS BOWL"
+},
+"broadcasts": [],
+"pickcenter": [],
+"gameInfo": {
+"venue": {
+"id": "3493",
+"fullName": "Caesars Superdome",
+"address": {
+"city": "New Orleans",
+"state": "LA",
+"zipCode": "70112"
+},
+"capacity": 73000,
+"grass": false,
+"images": [
+{
+"href": "https://a.espncdn.com/i/venues/college-football/day/interior/3493.jpg",
+"width": 2000,
+"height": 1125,
+"alt": "",
+"rel": [
+"full",
+"day",
+"interior"
+]
+}
+]
+},
+"attendance": 0
+},
+"season": {
+"year": 2013,
+"type": 3
+}
+}

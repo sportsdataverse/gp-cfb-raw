@@ -1,66 +1,138 @@
-INFO:__main__:Scraping CFB PBP for 2012...
-INFO:__main__:Number of Games: 916
-INFO:__main__:322430328: No plays found
+INFO:__main__:Scraping CFB PBP for 2013...
+INFO:__main__:Number of Games: 927
+INFO:__main__:332432569: No plays found
 [('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322450167: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322450290: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322450295: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322450154: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322450309: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322522643: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322520036: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322590149: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322592572: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322590295: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322592638: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322660295: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322662655: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322660236: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322660290: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322730113: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322730257: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322732459: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322732655: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322872655: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322870195: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322870295: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:322940257: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:323010295: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:323010236: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:323150295: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:323152006: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:323220113: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:323292065: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:323360295: No plays found
-[('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-INFO:__main__:12.379012076059977 minutes to download 916 game play-by-plays.
-INFO:__main__:Finished CFB PBP for 2012...
+ERROR:__main__:TypeError: game_id = 333340041
+ Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 105, in postprocessing
+    if pbp.get("header").get("competitions")[0].get("playByPlaySource") == "none":
+TypeError: 'NoneType' object is not subscriptable
+Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 105, in postprocessing
+    if pbp.get("header").get("competitions")[0].get("playByPlaySource") == "none":
+TypeError: 'NoneType' object is not subscriptable
+ERROR:__main__:KeyError: game_id =  game_id = 400520074
+ Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+ERROR:__main__:KeyError: game_id =  game_id = 400520274
+ Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+ERROR:__main__:KeyError: game_id =  game_id = 400520225
+ Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+ERROR:__main__:KeyError: game_id =  game_id = 400520229
+ Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+ERROR:__main__:KeyError: game_id =  game_id = 400519177
+ Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+ERROR:__main__:KeyError: game_id =  game_id = 400520194
+ Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+ERROR:__main__:KeyError: game_id =  game_id = 400520254
+ Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+Traceback (most recent call last):
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 46, in download_game
+    result = postprocessing(game_id=game)
+  File "D:\GitHub-Data\sdv-dev\cfbfastR-dev\gp-cfb-raw\python\scrape_cfb_json.py", line 108, in postprocessing
+    processed_data.run_processing_pipeline()
+  File "D:\GitHub-Data\sdv-dev\sdv-py\sportsdataverse\cfb\cfb_pbp.py", line 4494, in run_processing_pipeline
+    "week": pbp_txt["header"]["week"],
+KeyError: 'week'
+INFO:__main__:12.918563822905222 minutes to download 927 game play-by-plays.
+INFO:__main__:Finished CFB PBP for 2013...
