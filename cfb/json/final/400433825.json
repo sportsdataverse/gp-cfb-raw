@@ -1,0 +1,607 @@
+{
+"id": 400433825,
+"count": 0,
+"gei": 0.0,
+"mostImportantPlays": [],
+"bigPlays": [],
+"plays": [],
+"percentiles": [],
+"advBoxScore": null,
+"homeTeamId": "2309",
+"awayTeamId": "2459",
+"scoringPlays": [],
+"winprobability": [],
+"boxScore": {
+"teams": [
+{
+"team": {
+"id": "2459",
+"uid": "s:20~l:23~t:2459",
+"slug": "northern-illinois-huskies",
+"location": "Northern Illinois",
+"name": "Huskies",
+"abbreviation": "NIU",
+"displayName": "Northern Illinois Huskies",
+"shortDisplayName": "Huskies",
+"color": "F1122C",
+"alternateColor": "cc0000",
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png"
+},
+"statistics": []
+},
+{
+"team": {
+"id": "2309",
+"uid": "s:20~l:23~t:2309",
+"slug": "kent-state-golden-flashes",
+"location": "Kent State",
+"name": "Golden Flashes",
+"abbreviation": "KENT",
+"displayName": "Kent State Golden Flashes",
+"shortDisplayName": "Golden Flashes",
+"color": "002445",
+"alternateColor": "f0b510",
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png"
+},
+"statistics": []
+}
+],
+"players": [
+{
+"team": {
+"id": "2459",
+"uid": "s:20~l:23~t:2459",
+"slug": "northern-illinois-huskies",
+"location": "Northern Illinois",
+"name": "Huskies",
+"abbreviation": "NIU",
+"displayName": "Northern Illinois Huskies",
+"shortDisplayName": "Huskies",
+"color": "F1122C",
+"alternateColor": "cc0000",
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png"
+},
+"statistics": []
+},
+{
+"team": {
+"id": "2309",
+"uid": "s:20~l:23~t:2309",
+"slug": "kent-state-golden-flashes",
+"location": "Kent State",
+"name": "Golden Flashes",
+"abbreviation": "KENT",
+"displayName": "Kent State Golden Flashes",
+"shortDisplayName": "Golden Flashes",
+"color": "002445",
+"alternateColor": "f0b510",
+"logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png"
+},
+"statistics": []
+}
+]
+},
+"homeTeamSpread": 2.5,
+"overUnder": 55.0,
+"header": {
+"id": "400433825",
+"uid": "s:20~l:23~e:400433825",
+"season": {
+"year": 2012,
+"type": 2
+},
+"timeValid": true,
+"competitions": [
+{
+"id": "400433825",
+"uid": "s:20~l:23~e:400433825~c:400433825",
+"date": "2012-12-01T00:00Z",
+"neutralSite": true,
+"conferenceCompetition": true,
+"boxscoreAvailable": true,
+"commentaryAvailable": false,
+"liveAvailable": false,
+"onWatchESPN": false,
+"recent": false,
+"boxscoreSource": "full",
+"playByPlaySource": "full",
+"competitors": [
+{
+"id": "2309",
+"uid": "s:20~l:23~t:2309",
+"order": 0,
+"homeAway": "home",
+"winner": false,
+"team": {
+"id": "2309",
+"uid": "s:20~l:23~t:2309",
+"location": "Kent State",
+"name": "Golden Flashes",
+"nickname": "Kent State",
+"abbreviation": "KENT",
+"displayName": "Kent State Golden Flashes",
+"color": "002445",
+"alternateColor": "f0b510",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2309.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+],
+"links": [
+{
+"rel": [
+"clubhouse",
+"desktop",
+"team"
+],
+"href": "https://www.espn.com/college-football/team/_/id/2309/kent-state-golden-flashes",
+"text": "Clubhouse"
+}
+]
+},
+"score": "37",
+"linescores": [
+{
+"displayValue": "10"
+},
+{
+"displayValue": "0"
+},
+{
+"displayValue": "3"
+},
+{
+"displayValue": "21"
+},
+{
+"displayValue": "3"
+},
+{
+"displayValue": "0"
+}
+],
+"record": [
+{
+"type": "total",
+"summary": "11-3",
+"displayValue": "11-3"
+},
+{
+"type": "vsconf",
+"summary": "8-0",
+"displayValue": "8-0"
+}
+],
+"possession": false
+},
+{
+"id": "2459",
+"uid": "s:20~l:23~t:2459",
+"order": 1,
+"homeAway": "away",
+"winner": true,
+"team": {
+"id": "2459",
+"uid": "s:20~l:23~t:2459",
+"location": "Northern Illinois",
+"name": "Huskies",
+"nickname": "N Illinois",
+"abbreviation": "NIU",
+"displayName": "Northern Illinois Huskies",
+"color": "F1122C",
+"alternateColor": "cc0000",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-09-09T18:01Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2459.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-09-09T18:01Z"
+}
+],
+"links": [
+{
+"rel": [
+"clubhouse",
+"desktop",
+"team"
+],
+"href": "https://www.espn.com/college-football/team/_/id/2459/northern-illinois-huskies",
+"text": "Clubhouse"
+}
+]
+},
+"score": "44",
+"linescores": [
+{
+"displayValue": "3"
+},
+{
+"displayValue": "14"
+},
+{
+"displayValue": "10"
+},
+{
+"displayValue": "7"
+},
+{
+"displayValue": "3"
+},
+{
+"displayValue": "7"
+}
+],
+"record": [
+{
+"type": "total",
+"summary": "12-2",
+"displayValue": "12-2"
+},
+{
+"type": "vsconf",
+"summary": "8-0",
+"displayValue": "8-0"
+}
+],
+"possession": false
+}
+],
+"status": {
+"type": {
+"id": "3",
+"name": "STATUS_FINAL",
+"state": "post",
+"completed": true,
+"description": "Final",
+"detail": "Final/2OT",
+"shortDetail": "Final/2OT",
+"altDetail": "2OT"
+}
+},
+"broadcasts": [],
+"groups": {
+"id": "15",
+"name": "Mid-American Conference",
+"abbreviation": "midam",
+"shortName": "MAC",
+"midsizeName": "Mid-American"
+},
+"home": {
+"id": "2309",
+"uid": "s:20~l:23~t:2309",
+"location": "Kent State",
+"name": "Golden Flashes",
+"nickname": "Kent State",
+"abbreviation": "KENT",
+"displayName": "Kent State Golden Flashes",
+"color": "002445",
+"alternateColor": "f0b510",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2309.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2309.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2018-06-05T12:08Z"
+}
+],
+"links": [
+{
+"rel": [
+"clubhouse",
+"desktop",
+"team"
+],
+"href": "https://www.espn.com/college-football/team/_/id/2309/kent-state-golden-flashes",
+"text": "Clubhouse"
+}
+]
+},
+"away": {
+"id": "2459",
+"uid": "s:20~l:23~t:2459",
+"location": "Northern Illinois",
+"name": "Huskies",
+"nickname": "N Illinois",
+"abbreviation": "NIU",
+"displayName": "Northern Illinois Huskies",
+"color": "F1122C",
+"alternateColor": "cc0000",
+"logos": [
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"default"
+],
+"lastUpdated": "2022-09-09T18:01Z"
+},
+{
+"href": "https://a.espncdn.com/i/teamlogos/ncaa/500-dark/2459.png",
+"width": 500,
+"height": 500,
+"alt": "",
+"rel": [
+"full",
+"dark"
+],
+"lastUpdated": "2022-09-09T18:01Z"
+}
+],
+"links": [
+{
+"rel": [
+"clubhouse",
+"desktop",
+"team"
+],
+"href": "https://www.espn.com/college-football/team/_/id/2459/northern-illinois-huskies",
+"text": "Clubhouse"
+}
+]
+}
+}
+],
+"links": [
+{
+"rel": [
+"summary",
+"desktop",
+"event"
+],
+"href": "https://www.espn.com/college-football/game/_/gameId/400433825",
+"text": "Gamecast",
+"shortText": "Summary",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"boxscore",
+"desktop",
+"event"
+],
+"href": "https://www.espn.com/college-football/boxscore/_/gameId/400433825",
+"text": "Box Score",
+"shortText": "Box Score",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"pbp",
+"desktop",
+"event"
+],
+"href": "https://www.espn.com/college-football/playbyplay/_/gameId/400433825",
+"text": "Play-by-Play",
+"shortText": "Play-by-Play",
+"isExternal": false,
+"isPremium": false
+},
+{
+"rel": [
+"teamstats",
+"desktop",
+"event"
+],
+"href": "https://www.espn.com/college-football/matchup?gameId=400433825",
+"text": "Team Stats",
+"shortText": "Team Stats",
+"isExternal": false,
+"isPremium": false
+}
+],
+"week": 14,
+"league": {
+"id": "23",
+"uid": "s:20~l:23",
+"name": "NCAA - Football",
+"abbreviation": "NCAAF",
+"midsizeName": "NCAA Football",
+"slug": "college-football",
+"isTournament": false,
+"links": [
+{
+"rel": [
+"index",
+"desktop",
+"league"
+],
+"href": "https://www.espn.com/college-football/",
+"text": "Index"
+},
+{
+"rel": [
+"index",
+"sportscenter",
+"app",
+"league"
+],
+"href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23",
+"text": "Index"
+},
+{
+"rel": [
+"schedule",
+"desktop",
+"league"
+],
+"href": "https://www.espn.com/college-football/schedule",
+"text": "Schedule"
+},
+{
+"rel": [
+"schedule",
+"sportscenter",
+"app",
+"league"
+],
+"href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+"text": "Schedule"
+},
+{
+"rel": [
+"standings",
+"desktop",
+"league"
+],
+"href": "http://www.espn.com/college-football/standings",
+"text": "Standings"
+},
+{
+"rel": [
+"standings",
+"sportscenter",
+"app",
+"league"
+],
+"href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=standings",
+"text": "Standings"
+},
+{
+"rel": [
+"rankings",
+"desktop",
+"league"
+],
+"href": "https://www.espn.com/college-football/rankings",
+"text": "Rankings"
+},
+{
+"rel": [
+"scores",
+"desktop",
+"league"
+],
+"href": "https://www.espn.com/college-football/scoreboard",
+"text": "Scores"
+},
+{
+"rel": [
+"scores",
+"sportscenter",
+"app",
+"league"
+],
+"href": "sportscenter://x-callback-url/showClubhouse?uid=s:20~l:23&section=scores",
+"text": "Scores"
+},
+{
+"rel": [
+"stats",
+"desktop",
+"league"
+],
+"href": "http://www.espn.com/college-football/stats",
+"text": "Stats"
+},
+{
+"rel": [
+"teams",
+"desktop",
+"league"
+],
+"href": "http://www.espn.com/college-football/teams",
+"text": "Teams"
+},
+{
+"rel": [
+"injuries",
+"desktop",
+"league"
+],
+"href": "https://www.espn.com/college-football/injuries",
+"text": "Injuries"
+}
+]
+},
+"gameNote": "Marathon MAC Football Championship Game"
+},
+"broadcasts": [],
+"pickcenter": [],
+"gameInfo": {
+"venue": {
+"id": "3727",
+"fullName": "Ford Field",
+"address": {
+"city": "Detroit",
+"state": "MI",
+"zipCode": "48226"
+},
+"capacity": 64500,
+"grass": false,
+"images": [
+{
+"href": "https://a.espncdn.com/i/venues/college-football/day/interior/3727.jpg",
+"width": 2000,
+"height": 1125,
+"alt": "",
+"rel": [
+"full",
+"day",
+"interior"
+]
+}
+]
+},
+"attendance": 0
+},
+"season": {
+"year": 2012,
+"type": 2
+}
+}
