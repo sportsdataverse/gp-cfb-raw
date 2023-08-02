@@ -12,7 +12,7 @@ import polars as pl
 import pyreadr
 import sportsdataverse as sdv
 
-logging.basicConfig(level=logging.DEBUG, filename="gp_cfb_raw_logfile.txt")
+logging.basicConfig(level=logging.DEBUG, filename="gp_cfb_raw_logfile.txt", filemode="w")
 logger = logging.getLogger(__name__)
 
 path_to_schedules = "cfb/schedules"
