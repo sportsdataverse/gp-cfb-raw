@@ -55,8 +55,8 @@ def download_schedule(season, path_to_schedules=None):
     Path(f"{path_to_schedules}/csv").mkdir(parents=True, exist_ok=True)
     if path_to_schedules is not None:
         ev.write_parquet(f"{path_to_schedules}/parquet/cfb_schedule_{season}.parquet")
-        pyreadr.write_rds(f"{path_to_schedules}/rds/cfb_schedule_{season}.rds", ev, compress="gzip")
-        ev.write_parquet(f"{path_to_schedules}/csv/cfb_schedule_{season}.csv")
+        pyreadr.write_rds(f"{path_to_schedules}/rds/cfb_schedule_{season}.rds", ev.to_pandas(), compress="gzip")
+        ev.to_pandas().to_csv(f"{path_to_schedules}/csv/cfb_schedule_{season}.csv", index=False)
 
 
 def main():
