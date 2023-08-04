@@ -32,9 +32,18 @@ MAX_THREADS = 10
 
 def download_game_pbps(games, process, path_to_final):
     threads = min(MAX_THREADS, len(games))
-
+    # games_list = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=threads) as executor:
-        return list(executor.map(download_game, games, repeat(process), repeat(path_to_final)))
+        future_to_games = {executor.submit(download_game, game, process, path_to_final): game for game in games}
+        for future in concurrent.futures.as_completed(future_to_games):
+            game = future_to_games[future]
+            try:
+                future.result()
+                # games_list.append(data)
+            except Exception as exc:
+                print(f"{game} generated an exception: {exc}")
+    # return games_list
+    # return list(executor.map(download_game, games, repeat(process), repeat(path_to_final)))
 
 
 def download_game(game, process, path_to_final):
@@ -106,6 +115,7 @@ def postprocessing(game_id):
     if pbp.get("header").get("competitions")[0].get("playByPlaySource") == "none":
         logger.info(f"{game_id}: No plays found\n{[(k,type(v)) for k,v in pbp.items()]}")
         return pbp
+
     try:
         processed_data.run_processing_pipeline()
     except Exception:
@@ -113,6 +123,28 @@ def postprocessing(game_id):
 
     pbp = processed_data.json
 
+    if pbp["header"]["competitions"][0]["competitors"][0]["homeAway"] == "home":
+        homeTeamId = pbp["header"]["competitions"][0]["competitors"][0]["team"]["id"]
+        awayTeamId = pbp["header"]["competitions"][0]["competitors"][1]["team"]["id"]
+    else:
+        homeTeamId = pbp["header"]["competitions"][0]["competitors"][1]["team"]["id"]
+        awayTeamId = pbp["header"]["competitions"][0]["competitors"][0]["team"]["id"]
+
+    year = pbp["header"]["season"]["year"]
+    percentiles = (
+        pd.read_csv(f"cfb/team_summaries/{year}/percentiles.csv").to_dict(orient="records") if year > 2013 else []
+    )
+    plays_df = pl.DataFrame(pbp.get("plays", []), infer_schema_length=400)
+    if len(plays_df) == 0:
+        return pbp
+    if (len(plays_df) < 50) and (
+        pbp.get("header").get("competitions")[0].get("status").get("type").get("completed") == True
+    ):
+        return pbp
+    if (len(plays_df) > 500) and (
+        pbp.get("header").get("competitions")[0].get("status").get("type").get("completed") == True
+    ):
+        return pbp
     jsonified_df = pl.DataFrame(pbp.get("plays", []), infer_schema_length=400).to_dicts()
 
     bad_cols = [
@@ -311,18 +343,8 @@ def postprocessing(game_id):
         < 10
     ]
 
-    if pbp["header"]["competitions"][0]["competitors"][0]["homeAway"] == "home":
-        homeTeamId = pbp["header"]["competitions"][0]["competitors"][0]["team"]["id"]
-        awayTeamId = pbp["header"]["competitions"][0]["competitors"][1]["team"]["id"]
-    else:
-        homeTeamId = pbp["header"]["competitions"][0]["competitors"][1]["team"]["id"]
-        awayTeamId = pbp["header"]["competitions"][0]["competitors"][0]["team"]["id"]
-
-    year = pbp["header"]["season"]["year"]
     gei = calculateGEI(jsonified_df, homeTeamId)
-    percentiles = (
-        pd.read_csv(f"cfb/team_summaries/{year}/percentiles.csv").to_dict(orient="records") if year > 2013 else []
-    )
+
     return {
         "id": game_id,
         "count": len(jsonified_df),
@@ -373,15 +395,15 @@ def main():
         elif len(games) > 0:
             logger.info(f"Number of Games: {len(games)}")
             t0 = time.time()
-            # download_game_pbps(games, process, path_to_final)
-            for game in games:
-                try:
-                    print(game)
-                    logger.info(f"Scraping game_id: {game}")
-                    download_game(game, process, path_to_final)
-                except Exception:
-                    print(f"{game} - SchemaError:\n {traceback.format_exc()}")
-                    logger.exception(f"Unknown Error: game_id = {game}\n {traceback.format_exc()}")
+            download_game_pbps(games, process, path_to_final)
+            # for game in games:
+            #     try:
+            #         print(game)
+            #         logger.info(f"Scraping game_id: {game}")
+            #         download_game(game, process, path_to_final)
+            #     except Exception:
+            #         print(f"{game} - SchemaError:\n {traceback.format_exc()}")
+            #         logger.exception(f"Unknown Error: game_id = {game}\n {traceback.format_exc()}")
             t1 = time.time()
             logger.info(f"{(t1-t0)/60} minutes to download {len(games)} game play-by-plays.")
 
