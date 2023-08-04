@@ -373,7 +373,15 @@ def main():
         elif len(games) > 0:
             logger.info(f"Number of Games: {len(games)}")
             t0 = time.time()
-            download_game_pbps(games, process, path_to_final)
+            # download_game_pbps(games, process, path_to_final)
+            for game in games:
+                try:
+                    print(game)
+                    logger.info(f"Scraping game_id: {game}")
+                    download_game(game)
+                except Exception:
+                    print(f"{game} - SchemaError:\n {traceback.format_exc()}")
+                    logger.exception(f"Unknown Error: game_id = {game}\n {traceback.format_exc()}")
             t1 = time.time()
             logger.info(f"{(t1-t0)/60} minutes to download {len(games)} game play-by-plays.")
 
