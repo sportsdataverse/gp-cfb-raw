@@ -60,6 +60,9 @@ def download_game(game, process, path_to_final):
         logger.exception(f"DecodeError: game_id = {game}\n {traceback.format_exc()}")
     except AttributeError:
         logger.exception(f"AttributeError: game_id = {game}\n {traceback.format_exc()}")
+    except Exception:
+        print(f"{game} - SchemaError:\n {traceback.format_exc()}")
+        logger.exception(f"Unknown Error: game_id = {game}\n {traceback.format_exc()}")
 
     time.sleep(0.5)
 
