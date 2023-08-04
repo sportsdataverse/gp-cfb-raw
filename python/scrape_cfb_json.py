@@ -97,9 +97,7 @@ def calculateGEI(plays, homeTeamId):
 
 
 def postprocessing(game_id):
-    processed_data = CFBPlayProcess(
-        gameId=game_id,
-    )
+    processed_data = CFBPlayProcess(gameId=game_id, logger=logger)
     pbp = processed_data.espn_cfb_pbp()
     logger.debug(f"{game_id}: processing pipeline {pbp.keys()}")
     if pbp.get("header").get("competitions")[0].get("playByPlaySource") == "none":

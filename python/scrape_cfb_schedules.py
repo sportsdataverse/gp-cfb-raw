@@ -33,7 +33,7 @@ def download_schedule(season, path_to_schedules=None):
     calendar = df["dateURL"].str.replace("-", "").str.replace("-", "")
     ev = pl.DataFrame()
     for d in calendar:
-        date_schedule = sdv.cfb.espn_cfb_schedule(dates=d, groups="80", limit=300)
+        date_schedule = sdv.cfb.espn_cfb_schedule(dates=d, groups="80", limit=300, logger=logger)
         if date_schedule is not None:
             if "away_records" in date_schedule.columns:
                 date_schedule = date_schedule.drop(["away_records"])
