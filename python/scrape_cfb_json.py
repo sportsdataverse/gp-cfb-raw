@@ -378,7 +378,7 @@ def main():
                 try:
                     print(game)
                     logger.info(f"Scraping game_id: {game}")
-                    download_game(game)
+                    download_game(game, process, path_to_final)
                 except Exception:
                     print(f"{game} - SchemaError:\n {traceback.format_exc()}")
                     logger.exception(f"Unknown Error: game_id = {game}\n {traceback.format_exc()}")
