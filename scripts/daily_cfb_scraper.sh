@@ -13,6 +13,7 @@ do
     git config --local user.email "action@github.com"
     git config --local user.name "Github Action"
     git pull
+    unlink gp_cfb_raw_logfile.txt
     python python/scrape_cfb_schedules.py -s $i -e $i -r
     python python/scrape_cfb_json.py -s $i -e $i -r
     git pull
