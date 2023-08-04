@@ -23756,21 +23756,6 @@
 "receiver": [
 {
 "pos_team": 127,
-"receiver_player_name": "Charlientt.",
-"Rec": 0,
-"Tar": 1,
-"Yds": 0.0,
-"Rec_TD": 0,
-"YPT": 0.0,
-"EPA": -0.59,
-"EPA_per_Play": -0.59,
-"WPA": -0.006066441535949707,
-"SR": 0.0,
-"Fum": 0,
-"Fum_Lost": 0
-},
-{
-"pos_team": 127,
 "receiver_player_name": "B.J. Cunningham.",
 "Rec": 0,
 "Tar": 1,
@@ -23780,66 +23765,6 @@
 "EPA": -1.05,
 "EPA_per_Play": -1.05,
 "WPA": -0.03285151720046997,
-"SR": 0.0,
-"Fum": 0,
-"Fum_Lost": 0
-},
-{
-"pos_team": 127,
-"receiver_player_name": "B.J. Cunningham",
-"Rec": 2,
-"Tar": 2,
-"Yds": 42.0,
-"Rec_TD": 1,
-"YPT": 21.0,
-"EPA": 4.84,
-"EPA_per_Play": 2.42,
-"WPA": 0.18388903141021729,
-"SR": 1.0,
-"Fum": 0,
-"Fum_Lost": 0
-},
-{
-"pos_team": 147,
-"receiver_player_name": "Mark Desin",
-"Rec": 1,
-"Tar": 1,
-"Yds": 2.0,
-"Rec_TD": 0,
-"YPT": 2.0,
-"EPA": -0.49,
-"EPA_per_Play": -0.49,
-"WPA": -0.01972663402557373,
-"SR": 0.0,
-"Fum": 0,
-"Fum_Lost": 0
-},
-{
-"pos_team": 127,
-"receiver_player_name": "N/A.",
-"Rec": 0,
-"Tar": 1,
-"Yds": 0.0,
-"Rec_TD": 0,
-"YPT": 0.0,
-"EPA": -1.92,
-"EPA_per_Play": -1.92,
-"WPA": -0.02932906150817871,
-"SR": 0.0,
-"Fum": 0,
-"Fum_Lost": 0
-},
-{
-"pos_team": 147,
-"receiver_player_name": null,
-"Rec": 0,
-"Tar": 1,
-"Yds": 0.0,
-"Rec_TD": 0,
-"YPT": 0.0,
-"EPA": -2.09,
-"EPA_per_Play": -1.05,
-"WPA": -0.06580850481987,
 "SR": 0.0,
 "Fum": 0,
 "Fum_Lost": 0
@@ -23860,6 +23785,36 @@
 "Fum_Lost": 0
 },
 {
+"pos_team": 127,
+"receiver_player_name": "B.J. Cunningham",
+"Rec": 2,
+"Tar": 2,
+"Yds": 42.0,
+"Rec_TD": 1,
+"YPT": 21.0,
+"EPA": 4.84,
+"EPA_per_Play": 2.42,
+"WPA": 0.18388903141021729,
+"SR": 1.0,
+"Fum": 0,
+"Fum_Lost": 0
+},
+{
+"pos_team": 127,
+"receiver_player_name": "Charlientt.",
+"Rec": 0,
+"Tar": 1,
+"Yds": 0.0,
+"Rec_TD": 0,
+"YPT": 0.0,
+"EPA": -0.59,
+"EPA_per_Play": -0.59,
+"WPA": -0.006066441535949707,
+"SR": 0.0,
+"Fum": 0,
+"Fum_Lost": 0
+},
+{
 "pos_team": 147,
 "receiver_player_name": "Kyle Begger",
 "Rec": 1,
@@ -23870,6 +23825,21 @@
 "EPA": -0.48,
 "EPA_per_Play": -0.48,
 "WPA": -0.003665447235107422,
+"SR": 0.0,
+"Fum": 0,
+"Fum_Lost": 0
+},
+{
+"pos_team": 147,
+"receiver_player_name": "Mark Desin",
+"Rec": 1,
+"Tar": 1,
+"Yds": 2.0,
+"Rec_TD": 0,
+"YPT": 2.0,
+"EPA": -0.49,
+"EPA_per_Play": -0.49,
+"WPA": -0.01972663402557373,
 "SR": 0.0,
 "Fum": 0,
 "Fum_Lost": 0
@@ -23901,6 +23871,36 @@
 "EPA_per_Play": 0.59,
 "WPA": 0.001126706600189209,
 "SR": 1.0,
+"Fum": 0,
+"Fum_Lost": 0
+},
+{
+"pos_team": 127,
+"receiver_player_name": "N/A.",
+"Rec": 0,
+"Tar": 1,
+"Yds": 0.0,
+"Rec_TD": 0,
+"YPT": 0.0,
+"EPA": -1.92,
+"EPA_per_Play": -1.92,
+"WPA": -0.02932906150817871,
+"SR": 0.0,
+"Fum": 0,
+"Fum_Lost": 0
+},
+{
+"pos_team": 147,
+"receiver_player_name": null,
+"Rec": 0,
+"Tar": 1,
+"Yds": 0.0,
+"Rec_TD": 0,
+"YPT": 0.0,
+"EPA": -2.09,
+"EPA_per_Play": -1.05,
+"WPA": -0.06580850481987,
+"SR": 0.0,
 "Fum": 0,
 "Fum_Lost": 0
 }
@@ -24207,26 +24207,6 @@
 ],
 "defensive": [
 {
-"def_pos_team": 147,
-"scrimmage_plays": 9,
-"TFL": 1,
-"TFL_pass": 0,
-"TFL_rush": 1,
-"havoc_total": 1,
-"havoc_total_rate": 0.1111111111111111,
-"fumbles": 0,
-"def_int": 0,
-"drive_stopped_rate": 33.33,
-"num_pass_plays": 6,
-"havoc_total_pass": 0,
-"havoc_total_pass_rate": 0.0,
-"sacks": 0,
-"sacks_rate": 0.0,
-"pass_breakups": 0,
-"havoc_total_rush": 1,
-"havoc_total_rush_rate": 0.3333333333333333
-},
-{
 "def_pos_team": 127,
 "scrimmage_plays": 12,
 "TFL": 1,
@@ -24245,6 +24225,26 @@
 "pass_breakups": 0,
 "havoc_total_rush": 0,
 "havoc_total_rush_rate": 0.0
+},
+{
+"def_pos_team": 147,
+"scrimmage_plays": 9,
+"TFL": 1,
+"TFL_pass": 0,
+"TFL_rush": 1,
+"havoc_total": 1,
+"havoc_total_rate": 0.1111111111111111,
+"fumbles": 0,
+"def_int": 0,
+"drive_stopped_rate": 33.33,
+"num_pass_plays": 6,
+"havoc_total_pass": 0,
+"havoc_total_pass_rate": 0.0,
+"sacks": 0,
+"sacks_rate": 0.0,
+"pass_breakups": 0,
+"havoc_total_rush": 1,
+"havoc_total_rush_rate": 0.3333333333333333
 }
 ],
 "turnover": [
@@ -24277,16 +24277,6 @@
 ],
 "drives": [
 {
-"pos_team": 127,
-"drive_total_available_yards": 597.0,
-"drive_total_gained_yards": 372,
-"avg_field_position": 66.33,
-"plays_per_drive": 5.0,
-"yards_per_drive": 41.333333333333336,
-"drives": 2,
-"drive_total_gained_yards_rate": 62.311557788944725
-},
-{
 "pos_team": 147,
 "drive_total_available_yards": 870.0,
 "drive_total_gained_yards": 273,
@@ -24295,6 +24285,16 @@
 "yards_per_drive": 22.75,
 "drives": 3,
 "drive_total_gained_yards_rate": 31.379310344827587
+},
+{
+"pos_team": 127,
+"drive_total_available_yards": 597.0,
+"drive_total_gained_yards": 372,
+"avg_field_position": 66.33,
+"plays_per_drive": 5.0,
+"yards_per_drive": 41.333333333333336,
+"drives": 2,
+"drive_total_gained_yards_rate": 62.311557788944725
 }
 ]
 },
