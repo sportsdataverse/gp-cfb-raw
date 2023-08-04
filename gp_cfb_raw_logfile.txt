@@ -10,827 +10,827 @@ DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460218&1691044416868 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460189&1691044416868 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292472655&1691044416880 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292462050&1691044416869 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460068&1691044416866 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460084&1691044416870 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292462309&1691044416868 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460066&1691044416869 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460152&1691044416867 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460254&1691044416867 HTTP/1.1" 200 None
-DEBUG:root:292460218: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'article', 'videos', 'standings'])
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460068&1691109218971 HTTP/1.1" 200 28109
+DEBUG:root:292460068: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
+DEBUG:__main__:292460068: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292460068: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460152&1691109218972 HTTP/1.1" 200 25206
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460066&1691109218975 HTTP/1.1" 200 25656
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460084&1691109218976 HTTP/1.1" 200 26092
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292472655&1691109218986 HTTP/1.1" 200 26371
+DEBUG:root:292460068: plays_df length - 171
+DEBUG:root:292460152: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
+DEBUG:__main__:292460152: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292460152: drives key - previous
+DEBUG:root:292460084: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
+DEBUG:__main__:292460084: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292460066: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
+DEBUG:root:292460084: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460189&1691109218972 HTTP/1.1" 200 27010
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292462309&1691109218973 HTTP/1.1" 200 26166
+DEBUG:root:292472655: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460254&1691109218971 HTTP/1.1" 200 27630
+DEBUG:__main__:292460066: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:__main__:292472655: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292460066: drives key - previous
+DEBUG:root:292472655: drives key - previous
+DEBUG:root:292460189: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
+DEBUG:root:292462309: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
+DEBUG:__main__:292460189: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:__main__:292462309: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292460254: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
+DEBUG:root:292460189: drives key - previous
+DEBUG:root:292462309: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292462050&1691109218974 HTTP/1.1" 200 26478
+DEBUG:__main__:292460254: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292460254: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292460218&1691109218972 HTTP/1.1" 200 13689
+DEBUG:root:292462050: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
+DEBUG:__main__:292462050: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292462050: drives key - previous
+DEBUG:root:292460218: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'article', 'videos', 'header', 'standings'])
 DEBUG:__main__:292460218: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 INFO:__main__:292460218: No plays found
 [('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-DEBUG:root:292460189: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292460189: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292460189: drives key - previous
-DEBUG:root:292462050: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292462050: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292462050: drives key - previous
-DEBUG:root:292460254: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
-DEBUG:root:292460068: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292460254: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:__main__:292460068: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292472655: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
-DEBUG:root:292460254: drives key - previous
-DEBUG:root:292462309: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
-DEBUG:root:292460066: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
-DEBUG:root:292460068: drives key - previous
-DEBUG:__main__:292472655: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:__main__:292462309: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:__main__:292460066: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292460152: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
-DEBUG:root:292472655: drives key - previous
-DEBUG:root:292462309: drives key - previous
-DEBUG:root:292460066: drives key - previous
-DEBUG:root:292460084: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292460152: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:__main__:292460084: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292460152: drives key - previous
-DEBUG:root:292460084: drives key - previous
-DEBUG:root:292462050: plays_df length - 188
-DEBUG:root:292460254: plays_df length - 184
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:root:292460189: plays_df length - 190
-DEBUG:root:292472655: plays_df length - 173
 DEBUG:root:292460152: plays_df length - 153
-DEBUG:root:292462309: plays_df length - 181
-DEBUG:root:292460068: plays_df length - 171
-DEBUG:root:292460066: plays_df length - 180
 DEBUG:root:292460084: plays_df length - 168
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480062&1691044418576 HTTP/1.1" 200 None
+DEBUG:root:292472655: plays_df length - 173
+DEBUG:root:292462309: plays_df length - 181
+DEBUG:root:292460066: plays_df length - 180
+DEBUG:root:292460254: plays_df length - 184
+DEBUG:root:292460189: plays_df length - 190
+DEBUG:root:292462050: plays_df length - 188
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480062&1691109220271 HTTP/1.1" 200 20939
 DEBUG:root:292480062: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'videos', 'standings'])
 DEBUG:__main__:292480062: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480062: drives key - previous
 DEBUG:root:292480062: plays_df length - 124
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480057&1691044422262 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480057&1691109222715 HTTP/1.1" 200 29774
 DEBUG:root:292480057: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480057: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480057: drives key - previous
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292480057: plays_df length - 188
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480251&1691044424240 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480030&1691044424606 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480201&1691044424590 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480251&1691109223026 HTTP/1.1" 200 30259
 DEBUG:root:292480251: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480251: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480251: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480259&1691044424775 HTTP/1.1" 200 None
 DEBUG:root:292480251: plays_df length - 203
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480201&1691109224431 HTTP/1.1" 200 28806
 DEBUG:root:292480201: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480201: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480201: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480197&1691044425067 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480194&1691044425064 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480213&1691044425064 HTTP/1.1" 200 None
+DEBUG:root:292480201: plays_df length - 178
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480030&1691109225169 HTTP/1.1" 200 30161
 DEBUG:root:292480030: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480030: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480030: drives key - previous
-DEBUG:root:292480201: plays_df length - 178
-DEBUG:root:292480030: plays_df length - 185
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480259&1691109225314 HTTP/1.1" 200 30061
 DEBUG:root:292480259: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480264&1691044425234 HTTP/1.1" 200 None
 DEBUG:__main__:292480259: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480259: drives key - previous
+DEBUG:root:292480030: plays_df length - 185
 DEBUG:root:292480259: plays_df length - 186
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480025&1691044425325 HTTP/1.1" 200 None
-DEBUG:root:292480197: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
-DEBUG:__main__:292480197: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292480197: drives key - previous
-DEBUG:root:292480194: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292480194: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292480194: drives key - previous
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480213&1691109226657 HTTP/1.1" 200 28186
 DEBUG:root:292480213: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480213: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480213: drives key - previous
-DEBUG:root:292480194: plays_df length - 160
-DEBUG:root:292480197: plays_df length - 180
-DEBUG:root:292480213: plays_df length - 165
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:root:292480264: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292480264: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292480264: drives key - previous
-DEBUG:root:292480264: plays_df length - 174
+DEBUG:root:292480213: plays_df length - 165
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480194&1691109226465 HTTP/1.1" 200 27834
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:root:292480194: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
+DEBUG:__main__:292480194: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292480194: drives key - previous
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480197&1691109226972 HTTP/1.1" 200 28879
+DEBUG:root:292480197: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
+DEBUG:__main__:292480197: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292480197: drives key - previous
+DEBUG:root:292480197: plays_df length - 180
+DEBUG:root:292480194: plays_df length - 160
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480025&1691109227206 HTTP/1.1" 200 29546
 DEBUG:root:292480025: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480025: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480025: drives key - previous
 DEBUG:root:292480025: plays_df length - 184
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480059&1691044426093 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480264&1691109227189 HTTP/1.1" 200 27176
+DEBUG:root:292480264: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
+DEBUG:__main__:292480264: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292480264: drives key - previous
+DEBUG:root:292480264: plays_df length - 174
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480059&1691109228782 HTTP/1.1" 200 28761
 DEBUG:root:292480059: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480059: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480059: drives key - previous
 DEBUG:root:292480059: plays_df length - 174
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480153&1691044428163 HTTP/1.1" 200 None
-DEBUG:root:292480153: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480153&1691109229446 HTTP/1.1" 200 28007
+DEBUG:root:292480153: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480153: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480153: drives key - previous
 DEBUG:root:292480153: plays_df length - 169
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482294&1691044429144 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482294&1691109231051 HTTP/1.1" 200 28161
 DEBUG:root:292482294: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482294: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482294: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480087&1691044429736 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292482294: plays_df length - 187
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480158&1691109231478 HTTP/1.1" 200 28448
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480087&1691109231317 HTTP/1.1" 200 25619
+DEBUG:root:292480158: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:root:292480087: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
+DEBUG:__main__:292480158: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:__main__:292480087: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292480158: drives key - previous
 DEBUG:root:292480087: drives key - previous
 DEBUG:root:292480087: plays_df length - 145
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480158&1691044430464 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:root:292480158: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292480158: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292480158: drives key - previous
 DEBUG:root:292480158: plays_df length - 182
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482305&1691044431151 HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482305&1691109233350 HTTP/1.1" 200 27339
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480077&1691109233400 HTTP/1.1" 200 28056
 DEBUG:root:292482305: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482305: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482305: drives key - previous
-DEBUG:root:292482305: plays_df length - 175
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480077&1691044431929 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480127&1691044431973 HTTP/1.1" 200 None
-DEBUG:root:292480127: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292480127: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292480127: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292480077: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480077: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480077: drives key - previous
-DEBUG:root:292480127: plays_df length - 29
+DEBUG:root:292482305: plays_df length - 175
 DEBUG:root:292480077: plays_df length - 171
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480151&1691044432759 HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480151&1691109234797 HTTP/1.1" 200 27780
 DEBUG:root:292480151: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480151: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480127&1691109234630 HTTP/1.1" 200 17203
 DEBUG:root:292480151: drives key - previous
+DEBUG:root:292480127: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
+DEBUG:__main__:292480127: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292480127: drives key - previous
+DEBUG:root:292480127: plays_df length - 29
 DEBUG:root:292480151: plays_df length - 181
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480183&1691044433376 HTTP/1.1" 200 None
-DEBUG:root:292480183: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'scoringPlays', 'header', 'article', 'videos', 'standings'])
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480183&1691109234807 HTTP/1.1" 200 29166
+DEBUG:root:292480183: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480183: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480183: drives key - previous
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292480183: plays_df length - 195
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480193&1691044434335 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480193&1691109235596 HTTP/1.1" 200 14554
 DEBUG:root:292480193: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480193: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 INFO:__main__:292480193: No plays found
 [('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480277&1691109236398 HTTP/1.1" 200 24558
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480277&1691044435365 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482509&1691044435655 HTTP/1.1" 200 None
 DEBUG:root:292480277: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480277: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480277: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482633&1691044435891 HTTP/1.1" 200 None
-DEBUG:root:292480277: plays_df length - 170
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482509&1691109236677 HTTP/1.1" 200 28469
 DEBUG:root:292482509: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482509: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482509: drives key - previous
+DEBUG:root:292480277: plays_df length - 170
 DEBUG:root:292482509: plays_df length - 205
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480221&1691044436254 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482633&1691109237718 HTTP/1.1" 200 29329
 DEBUG:root:292482633: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482633: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482633: drives key - previous
 DEBUG:root:292482633: plays_df length - 173
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480221&1691109238764 HTTP/1.1" 200 26111
 DEBUG:root:292480221: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480221: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480221: drives key - previous
-DEBUG:root:292480221: plays_df length - 155
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480103&1691044437093 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480103&1691109238805 HTTP/1.1" 200 27329
 DEBUG:root:292480103: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480103: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480103: drives key - previous
+DEBUG:root:292480221: plays_df length - 155
 DEBUG:root:292480103: plays_df length - 161
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482005&1691044438310 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480204&1691044438625 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482005&1691109239499 HTTP/1.1" 200 28435
 DEBUG:root:292482005: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482005: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482005: drives key - previous
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292482005: plays_df length - 182
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482751&1691044439010 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480204&1691109239910 HTTP/1.1" 200 25459
 DEBUG:root:292480204: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480204: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480204: drives key - previous
 DEBUG:root:292480204: plays_df length - 161
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482751&1691109240882 HTTP/1.1" 200 28568
 DEBUG:root:292482751: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482751: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482751: drives key - previous
 DEBUG:root:292482751: plays_df length - 206
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480130&1691044439805 HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480130&1691109241452 HTTP/1.1" 200 29493
 DEBUG:root:292480130: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480130: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480130: drives key - previous
 DEBUG:root:292480130: plays_df length - 181
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480154&1691044440723 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480154&1691109241935 HTTP/1.1" 200 27047
 DEBUG:root:292480154: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480154: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480154: drives key - previous
 DEBUG:root:292480154: plays_df length - 174
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480344&1691044441884 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480344&1691109244271 HTTP/1.1" 200 28825
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292480344: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480344: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480344: drives key - previous
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292480344: plays_df length - 190
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480356&1691044442665 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480005&1691044442734 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480356&1691109244623 HTTP/1.1" 200 29470
 DEBUG:root:292480356: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480356: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480356: drives key - previous
+DEBUG:root:292480356: plays_df length - 178
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480005&1691109244803 HTTP/1.1" 200 26772
 DEBUG:root:292480005: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480005: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480005: drives key - previous
-DEBUG:root:292480356: plays_df length - 178
 DEBUG:root:292480005: plays_df length - 202
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480276&1691044443996 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480228&1691044444492 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480276&1691109245600 HTTP/1.1" 200 26716
 DEBUG:root:292480276: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480276: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480276: drives key - previous
 DEBUG:root:292480276: plays_df length - 186
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480228&1691109246537 HTTP/1.1" 200 29462
 DEBUG:root:292480228: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480228: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480228: drives key - previous
 DEBUG:root:292480228: plays_df length - 190
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480258&1691044445520 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480265&1691044445560 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480258&1691109247363 HTTP/1.1" 200 32207
 DEBUG:root:292480258: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'scoringPlays', 'header', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480258: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480258: drives key - previous
+DEBUG:root:292480258: plays_df length - 298
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480265&1691109248412 HTTP/1.1" 200 25304
 DEBUG:root:292480265: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480265: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480265: drives key - previous
-DEBUG:root:292480258: plays_df length - 298
-DEBUG:root:292480265: plays_df length - 170
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480290&1691044446240 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480290&1691109248521 HTTP/1.1" 200 27168
 DEBUG:root:292480290: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480290: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480290: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:root:292480265: plays_df length - 170
 DEBUG:root:292480290: plays_df length - 187
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480295&1691044447125 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480295&1691109249501 HTTP/1.1" 200 19986
 DEBUG:root:292480295: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'videos', 'standings'])
 DEBUG:__main__:292480295: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480295: drives key - previous
 DEBUG:root:292480295: plays_df length - 128
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480002&1691044448313 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480002&1691109250647 HTTP/1.1" 200 27388
 DEBUG:root:292480002: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480002: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480002: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480008&1691044448828 HTTP/1.1" 200 None
-DEBUG:root:292480002: plays_df length - 190
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:root:292480002: plays_df length - 190
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480008&1691109251108 HTTP/1.1" 200 29092
 DEBUG:root:292480008: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480008: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480008: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480150&1691044449379 HTTP/1.1" 200 None
 DEBUG:root:292480008: plays_df length - 170
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480150&1691109251935 HTTP/1.1" 200 28231
 DEBUG:root:292480150: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480150: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480150: drives key - previous
 DEBUG:root:292480150: plays_df length - 240
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480245&1691044450653 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480195&1691044450647 HTTP/1.1" 200 None
-DEBUG:root:292480245: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292480245: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292480245: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480195&1691109252525 HTTP/1.1" 200 26858
 DEBUG:root:292480195: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480195: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480195: drives key - previous
-DEBUG:root:292480245: plays_df length - 202
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292480195: plays_df length - 174
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480248&1691044451615 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480245&1691109253596 HTTP/1.1" 200 29404
+DEBUG:root:292480245: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
+DEBUG:__main__:292480245: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292480245: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480248&1691109253786 HTTP/1.1" 200 28427
 DEBUG:root:292480248: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480248: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480248: drives key - previous
+DEBUG:root:292480245: plays_df length - 202
 DEBUG:root:292480248: plays_df length - 186
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480275&1691044452845 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480309&1691044453403 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480275&1691109255181 HTTP/1.1" 200 25998
 DEBUG:root:292480275: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480275: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480275: drives key - previous
-DEBUG:root:292480275: plays_df length - 164
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:root:292480275: plays_df length - 164
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480309&1691109256004 HTTP/1.1" 200 27386
 DEBUG:root:292480309: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480309: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480309: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480326&1691044454078 HTTP/1.1" 200 None
 DEBUG:root:292480309: plays_df length - 174
-DEBUG:root:292480326: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'article', 'videos', 'header', 'standings'])
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480326&1691109256820 HTTP/1.1" 200 10527
+DEBUG:root:292480326: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480326: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 INFO:__main__:292480326: No plays found
 [('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482199&1691044455168 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482572&1691044455256 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482641&1691044455356 HTTP/1.1" 200 None
-DEBUG:root:292482199: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
-DEBUG:__main__:292482199: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292482199: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482572&1691109257890 HTTP/1.1" 200 23454
 DEBUG:root:292482572: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482572: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482572: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:root:292482199: plays_df length - 164
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482199&1691109257799 HTTP/1.1" 200 25383
+DEBUG:root:292482199: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
+DEBUG:__main__:292482199: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292482199: drives key - previous
 DEBUG:root:292482572: plays_df length - 136
+DEBUG:root:292482199: plays_df length - 164
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482641&1691109258416 HTTP/1.1" 200 28050
 DEBUG:root:292482641: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482641: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482641: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482032&1691044456216 HTTP/1.1" 200 None
 DEBUG:root:292482641: plays_df length - 216
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482032&1691109258597 HTTP/1.1" 200 24948
 DEBUG:root:292482032: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482032: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482032: drives key - previous
 DEBUG:root:292482032: plays_df length - 155
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482306&1691044457442 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482306&1691109259089 HTTP/1.1" 200 26605
 DEBUG:root:292482306: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482306: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482306: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292482306: plays_df length - 186
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480026&1691044458368 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480058&1691044458654 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480026&1691109260326 HTTP/1.1" 200 27426
 DEBUG:root:292480026: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480026: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480026: drives key - previous
 DEBUG:root:292480026: plays_df length - 180
-DEBUG:root:292480058: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292480058: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292480058: drives key - previous
-DEBUG:root:292480058: plays_df length - 158
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480097&1691044459312 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480097&1691109261442 HTTP/1.1" 200 26192
 DEBUG:root:292480097: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480097: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480097: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480058&1691109261405 HTTP/1.1" 200 26189
+DEBUG:root:292480058: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
+DEBUG:__main__:292480058: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292480058: drives key - previous
 DEBUG:root:292480097: plays_df length - 162
+DEBUG:root:292480058: plays_df length - 158
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480238&1691044460591 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482116&1691044460941 HTTP/1.1" 200 None
-DEBUG:root:292480238: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'article', 'videos', 'header', 'standings'])
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480238&1691109262412 HTTP/1.1" 200 14199
+DEBUG:root:292480238: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'article', 'header', 'videos', 'standings'])
 DEBUG:__main__:292480238: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 INFO:__main__:292480238: No plays found
 [('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482116&1691109263376 HTTP/1.1" 200 26007
 DEBUG:root:292482116: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482116: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482116: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292482116: plays_df length - 175
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480166&1691044461754 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482567&1691044462009 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480166&1691109263485 HTTP/1.1" 200 32657
 DEBUG:root:292480166: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480166: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480166: drives key - previous
-DEBUG:root:292480166: plays_df length - 429
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482567&1691109263896 HTTP/1.1" 200 27820
 DEBUG:root:292482567: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482567: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482567: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292482567: plays_df length - 203
+DEBUG:root:292480166: plays_df length - 429
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482638&1691044462943 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480009&1691044463162 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482638&1691109264883 HTTP/1.1" 200 26153
 DEBUG:root:292482638: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'scoringPlays', 'header', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482638: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482638: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292482638: plays_df length - 185
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480009&1691109265112 HTTP/1.1" 200 26613
 DEBUG:root:292480009: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480009: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480009: drives key - previous
 DEBUG:root:292480009: plays_df length - 162
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480012&1691044463984 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480012&1691109266110 HTTP/1.1" 200 25520
 DEBUG:root:292480012: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480012: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480012: drives key - previous
 DEBUG:root:292480012: plays_df length - 161
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480278&1691044465220 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292480278&1691109266707 HTTP/1.1" 200 25652
 DEBUG:root:292480278: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292480278: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292480278: drives key - previous
 DEBUG:root:292480278: plays_df length - 165
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482439&1691044466190 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292490235&1691044466211 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:root:292482439: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292482439&1691109267099 HTTP/1.1" 200 24785
+DEBUG:root:292482439: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292482439: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292482439: drives key - previous
+DEBUG:root:292482439: plays_df length - 152
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292490235&1691109268121 HTTP/1.1" 200 29347
 DEBUG:root:292490235: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292490235: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292490235: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292490038&1691044466662 HTTP/1.1" 200 None
-DEBUG:root:292482439: plays_df length - 152
 DEBUG:root:292490235: plays_df length - 183
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292490038&1691109268551 HTTP/1.1" 200 27210
 DEBUG:root:292490038: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292490038: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292490038: drives key - previous
 DEBUG:root:292490038: plays_df length - 166
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292500052&1691044468241 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292500052&1691109270171 HTTP/1.1" 200 30426
 DEBUG:root:292500052: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292500052: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292500052: drives key - previous
 DEBUG:root:292500052: plays_df length - 191
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292530059&1691044470490 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292500164&1691044470269 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292542649&1691044470551 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550057&1691044470841 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292500164&1691109271135 HTTP/1.1" 200 29697
 DEBUG:root:292500164: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292500164: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292500164: drives key - previous
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:root:292500164: plays_df length - 176
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292530059&1691109271667 HTTP/1.1" 200 28308
 DEBUG:root:292530059: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292530059: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292530059: drives key - previous
-DEBUG:root:292542649: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
-DEBUG:__main__:292542649: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292542649: drives key - previous
-DEBUG:root:292500164: plays_df length - 176
-DEBUG:root:292542649: plays_df length - 210
 DEBUG:root:292530059: plays_df length - 185
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552751&1691044471142 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550057&1691109272604 HTTP/1.1" 200 30953
 DEBUG:root:292550057: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550057: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550057: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292542649&1691109272459 HTTP/1.1" 200 29023
+DEBUG:root:292542649: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
+DEBUG:__main__:292542649: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292542649: drives key - previous
 DEBUG:root:292550057: plays_df length - 190
+DEBUG:root:292542649: plays_df length - 210
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552751&1691109273116 HTTP/1.1" 200 30993
 DEBUG:root:292552751: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292552751: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552751: drives key - previous
 DEBUG:root:292552751: plays_df length - 226
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550194&1691044471821 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550194&1691109274268 HTTP/1.1" 200 28688
 DEBUG:root:292550194: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550194: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550194: drives key - previous
 DEBUG:root:292550194: plays_df length - 172
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550333&1691044473080 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550333&1691109274661 HTTP/1.1" 200 28282
 DEBUG:root:292550333: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'scoringPlays', 'header', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550333: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550333: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292550333: plays_df length - 179
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550197&1691044474165 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550213&1691044474413 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552655&1691044474504 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550197&1691109275617 HTTP/1.1" 200 29010
 DEBUG:root:292550197: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550197: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550197: drives key - previous
 DEBUG:root:292550197: plays_df length - 200
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550213&1691109276419 HTTP/1.1" 200 28073
 DEBUG:root:292550213: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550213: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550213: drives key - previous
+DEBUG:root:292550213: plays_df length - 152
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552655&1691109277391 HTTP/1.1" 200 28040
 DEBUG:root:292552655: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292552655: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552655: drives key - previous
-DEBUG:root:292550213: plays_df length - 152
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292552655: plays_df length - 166
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550025&1691044477080 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550099&1691044477382 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550025&1691109277688 HTTP/1.1" 200 29431
 DEBUG:root:292550025: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550025: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550025: drives key - previous
 DEBUG:root:292550025: plays_df length - 180
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550099&1691109278264 HTTP/1.1" 200 27695
 DEBUG:root:292550099: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'scoringPlays', 'header', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550099: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550099: drives key - previous
 DEBUG:root:292550099: plays_df length - 177
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550068&1691044478214 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550201&1691044478385 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550259&1691044478462 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550068&1691109279330 HTTP/1.1" 200 28167
 DEBUG:root:292550068: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'scoringPlays', 'header', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550068: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550068: drives key - previous
 DEBUG:root:292550068: plays_df length - 168
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:root:292550259: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292550259: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292550259: drives key - previous
-DEBUG:root:292550259: plays_df length - 189
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550201&1691109280261 HTTP/1.1" 200 28613
 DEBUG:root:292550201: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550201: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550201: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550258&1691044479217 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292550201: plays_df length - 187
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550023&1691044479673 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550259&1691109281336 HTTP/1.1" 200 29274
+DEBUG:root:292550259: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
+DEBUG:__main__:292550259: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292550259: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550258&1691109281470 HTTP/1.1" 200 27381
 DEBUG:root:292550258: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550258: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550258: drives key - previous
+DEBUG:root:292550259: plays_df length - 189
 DEBUG:root:292550258: plays_df length - 160
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550023&1691109283085 HTTP/1.1" 200 27715
 DEBUG:root:292550023: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550023: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550023: drives key - previous
 DEBUG:root:292550023: plays_df length - 181
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550130&1691044481253 HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550130&1691109283605 HTTP/1.1" 200 30541
 DEBUG:root:292550130: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550130: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550130: drives key - previous
-DEBUG:root:292550130: plays_df length - 203
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550041&1691044482055 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550061&1691044482068 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550041&1691109283697 HTTP/1.1" 200 27213
 DEBUG:root:292550041: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550041: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550041: drives key - previous
+DEBUG:root:292550130: plays_df length - 203
+DEBUG:root:292550041: plays_df length - 171
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550061&1691109284236 HTTP/1.1" 200 29938
 DEBUG:root:292550061: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550061: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550061: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292550061: plays_df length - 199
-DEBUG:root:292550041: plays_df length - 171
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550158&1691044483001 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550158&1691109284970 HTTP/1.1" 200 28169
 DEBUG:root:292550158: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550158: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550158: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292550158: plays_df length - 162
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552132&1691044483921 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552638&1691044484095 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552132&1691109286301 HTTP/1.1" 200 30430
 DEBUG:root:292552132: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292552132: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552132: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:root:292552132: plays_df length - 182
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552638&1691109286441 HTTP/1.1" 200 28230
 DEBUG:root:292552638: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292552638: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552638: drives key - previous
+DEBUG:root:292552132: plays_df length - 182
 DEBUG:root:292552638: plays_df length - 177
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550142&1691044484859 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550142&1691109287459 HTTP/1.1" 200 29199
 DEBUG:root:292550142: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550142: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550142: drives key - previous
 DEBUG:root:292550142: plays_df length - 214
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550077&1691044486052 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550084&1691044486480 HTTP/1.1" 200 None
-DEBUG:root:292550077: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550077&1691109288425 HTTP/1.1" 200 26839
+DEBUG:root:292550077: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550077: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550077: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292550077: plays_df length - 176
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550084&1691109289054 HTTP/1.1" 200 27109
 DEBUG:root:292550084: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550084: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550084: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550127&1691044486980 HTTP/1.1" 200 None
-DEBUG:root:292550084: plays_df length - 181
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550127&1691109289128 HTTP/1.1" 200 28300
 DEBUG:root:292550127: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'news', 'header', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550127: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550127: drives key - previous
+DEBUG:root:292550084: plays_df length - 181
 DEBUG:root:292550127: plays_df length - 179
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550154&1691044487860 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550154&1691109290174 HTTP/1.1" 200 27223
 DEBUG:root:292550154: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550154: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550154: drives key - previous
 DEBUG:root:292550154: plays_df length - 173
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550275&1691044489467 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552084&1691044489679 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550349&1691044489679 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550275&1691109291034 HTTP/1.1" 200 28441
 DEBUG:root:292550275: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550275: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550275: drives key - previous
+DEBUG:root:292550275: plays_df length - 195
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550349&1691109291945 HTTP/1.1" 200 27833
 DEBUG:root:292550349: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550349: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550349: drives key - previous
+DEBUG:root:292550349: plays_df length - 183
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552084&1691109292122 HTTP/1.1" 200 26924
 DEBUG:root:292552084: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292552084: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552084: drives key - previous
-DEBUG:root:292550275: plays_df length - 195
-DEBUG:root:292550349: plays_df length - 183
 DEBUG:root:292552084: plays_df length - 178
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550066&1691044490798 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550066&1691109293741 HTTP/1.1" 200 27961
 DEBUG:root:292550066: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550066: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550066: drives key - previous
 DEBUG:root:292550066: plays_df length - 172
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550103&1691044491407 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552006&1691044491927 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552006&1691109294512 HTTP/1.1" 200 25590
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550103&1691109294514 HTTP/1.1" 200 28194
+DEBUG:root:292552006: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
+DEBUG:__main__:292552006: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292552006: drives key - previous
 DEBUG:root:292550103: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550103: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550103: drives key - previous
 DEBUG:root:292550103: plays_df length - 172
-DEBUG:root:292552006: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292552006: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292552006: drives key - previous
 DEBUG:root:292552006: plays_df length - 163
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550164&1691044492945 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550164&1691109295144 HTTP/1.1" 200 26353
 DEBUG:root:292550164: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550164: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550164: drives key - previous
 DEBUG:root:292550164: plays_df length - 169
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550264&1691044493745 HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550277&1691044494246 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550264&1691109296054 HTTP/1.1" 200 26492
 DEBUG:root:292550264: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550264: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550264: drives key - previous
 DEBUG:root:292550264: plays_df length - 160
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550277&1691109296517 HTTP/1.1" 200 28176
 DEBUG:root:292550277: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550277: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552026&1691044494723 HTTP/1.1" 200 None
 DEBUG:root:292550277: drives key - previous
 DEBUG:root:292550277: plays_df length - 188
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552026&1691109297035 HTTP/1.1" 200 25931
 DEBUG:root:292552026: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'news', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292552026: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552026: drives key - previous
 DEBUG:root:292552026: plays_df length - 190
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552426&1691044496600 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550005&1691044496966 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552426&1691109298238 HTTP/1.1" 200 26156
 DEBUG:root:292552426: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292552426: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552426: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552633&1691044497106 HTTP/1.1" 200 None
 DEBUG:root:292552426: plays_df length - 156
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550005&1691109299977 HTTP/1.1" 200 27491
 DEBUG:root:292550005: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550005: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550005: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552633&1691109300041 HTTP/1.1" 200 27112
 DEBUG:root:292552633: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292552633: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552633: drives key - previous
 DEBUG:root:292550005: plays_df length - 199
-DEBUG:root:292552633: plays_df length - 169
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550036&1691044497912 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550052&1691044497906 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550036&1691109300187 HTTP/1.1" 200 26272
 DEBUG:root:292550036: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550036: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292550052: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:root:292550036: drives key - previous
+DEBUG:root:292552633: plays_df length - 169
+DEBUG:root:292550036: plays_df length - 173
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550052&1691109301103 HTTP/1.1" 200 27329
+DEBUG:root:292550052: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550052: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550052: drives key - previous
-DEBUG:root:292550036: plays_df length - 173
 DEBUG:root:292550052: plays_df length - 177
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550113&1691044499070 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550113&1691109302140 HTTP/1.1" 200 28040
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292550113: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550113: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550113: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550120&1691044499578 HTTP/1.1" 200 None
 DEBUG:root:292550113: plays_df length - 185
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550120&1691109302467 HTTP/1.1" 200 28912
 DEBUG:root:292550120: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550120: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550120: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292550120: plays_df length - 199
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550152&1691044500667 HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550152&1691109303259 HTTP/1.1" 200 26649
 DEBUG:root:292550152: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550152: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550152: drives key - previous
 DEBUG:root:292550152: plays_df length - 165
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550295&1691044501458 HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:root:292550295: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'scoringPlays', 'header', 'videos', 'standings'])
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550295&1691109304093 HTTP/1.1" 200 12546
+DEBUG:root:292550295: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:__main__:292550295: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550295: drives key - previous
 DEBUG:root:292550295: plays_df length - 21
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550002&1691044502028 HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550002&1691109304920 HTTP/1.1" 200 27796
 DEBUG:root:292550002: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550002: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550002: drives key - previous
 DEBUG:root:292550002: plays_df length - 194
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550135&1691044502797 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550135&1691109305400 HTTP/1.1" 200 27403
 DEBUG:root:292550135: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550135: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550135: drives key - previous
 DEBUG:root:292550135: plays_df length - 178
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550249&1691044503776 HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550265&1691109307885 HTTP/1.1" 200 28367
+DEBUG:root:292550265: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
+DEBUG:__main__:292550265: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292550265: drives key - previous
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550249&1691109307672 HTTP/1.1" 200 12704
 DEBUG:root:292550249: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'header', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550249: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 INFO:__main__:292550249: No plays found
 [('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550265&1691044504445 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:root:292550265: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292550265: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292550265: drives key - previous
 DEBUG:root:292550265: plays_df length - 186
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550309&1691044505123 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550324&1691044505127 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550309&1691109307944 HTTP/1.1" 200 27564
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550324&1691109307966 HTTP/1.1" 200 12890
 DEBUG:root:292550324: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'article', 'videos', 'header', 'standings'])
 DEBUG:__main__:292550324: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 INFO:__main__:292550324: No plays found
 [('timeouts', <class 'dict'>), ('boxscore', <class 'dict'>), ('format', <class 'dict'>), ('gameInfo', <class 'dict'>), ('drives', <class 'dict'>), ('leaders', <class 'list'>), ('broadcasts', <class 'list'>), ('predictor', <class 'dict'>), ('pickcenter', <class 'list'>), ('againstTheSpread', <class 'list'>), ('odds', <class 'list'>), ('winprobability', <class 'list'>), ('header', <class 'dict'>), ('scoringPlays', <class 'list'>), ('videos', <class 'list'>), ('standings', <class 'dict'>)]
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550356&1691044505642 HTTP/1.1" 200 None
 DEBUG:root:292550309: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550309: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292550356&1691109307976 HTTP/1.1" 200 29833
 DEBUG:root:292550309: drives key - previous
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:root:292550309: plays_df length - 182
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
 DEBUG:root:292550356: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292550356: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292550356: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552050&1691044506140 HTTP/1.1" 200 None
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552335&1691044506206 HTTP/1.1" 200 None
+DEBUG:root:292550309: plays_df length - 182
 DEBUG:root:292550356: plays_df length - 231
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552393&1691044506435 HTTP/1.1" 200 None
-DEBUG:root:292552050: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
-DEBUG:__main__:292552050: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
-DEBUG:root:292552050: drives key - previous
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552335&1691109309126 HTTP/1.1" 200 24887
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552050&1691109308840 HTTP/1.1" 200 26562
 DEBUG:root:292552335: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'videos', 'standings'])
 DEBUG:__main__:292552335: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552335: drives key - previous
+DEBUG:root:292552050: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'news', 'scoringPlays', 'header', 'article', 'videos', 'standings'])
+DEBUG:__main__:292552050: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
+DEBUG:root:292552050: drives key - previous
 DEBUG:root:292552050: plays_df length - 185
 DEBUG:root:292552335: plays_df length - 162
-DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552393&1691109309326 HTTP/1.1" 200 27760
 DEBUG:root:292552393: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292552393: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552393: drives key - previous
 DEBUG:root:292552393: plays_df length - 182
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552433&1691044507285 HTTP/1.1" 200 None
 DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): site.api.espn.com:80
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552433&1691109310598 HTTP/1.1" 200 26194
+DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552571&1691109310632 HTTP/1.1" 200 27387
 DEBUG:root:292552433: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'header', 'scoringPlays', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292552433: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552433: drives key - previous
-DEBUG:urllib3.connectionpool:http://site.api.espn.com:80 "GET /apis/site/v2/sports/football/college-football/summary?event=292552571&1691044507730 HTTP/1.1" 200 None
-DEBUG:root:292552433: plays_df length - 179
 DEBUG:root:292552571: full cfb_pbp data requested, returning keys: dict_keys(['boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'pickcenter', 'againstTheSpread', 'odds', 'scoringPlays', 'header', 'news', 'article', 'videos', 'standings'])
 DEBUG:__main__:292552571: processing pipeline dict_keys(['timeouts', 'boxscore', 'format', 'gameInfo', 'drives', 'leaders', 'broadcasts', 'predictor', 'pickcenter', 'againstTheSpread', 'odds', 'winprobability', 'header', 'scoringPlays', 'videos', 'standings'])
 DEBUG:root:292552571: drives key - previous
+DEBUG:root:292552433: plays_df length - 179
 DEBUG:root:292552571: plays_df length - 182
